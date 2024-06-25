@@ -1,0 +1,280 @@
+<style>
+  .bvb_main{
+    padding: 80px 0px; 
+  }
+
+  .bvb_padding--remove.bvb_main{
+    padding: 0px 0px 80px 0px;
+  }
+
+  .bvb_padding--remove .bvb_blocks{
+    margin-top:0px
+  }
+  .bvb_text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .bvb_text h2{
+    margin: 0;
+  }
+  .bvb_text a{
+    color: #A5A5A5;
+    text-align: right;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+  }
+  .bvb_blocks{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px 20px;
+  }
+  .bvb_single--block {
+    width: calc(50% - 10px);
+}
+  .bvb_media{
+    height: 350px;
+    margin-bottom: 30px;
+  }
+  .bvb_media iframe{
+    width: 100%;
+    height: 100%;
+  }
+  .bvb_media--text h4{
+    font-family: var(--body-font-family);
+    font-size: calc(var(--body-font-size) * .1rem);
+    font-style: var(--body-font-style);
+    font-weight: var(--body-font-weight);
+    line-height: 1.5;
+  }
+  .bvb_media--conteny{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .bvb_user{
+    width: 36px;
+    height: 36px;
+    display: block;
+    border-radius: 50%;
+    background: #D9D9D9; 
+    overflow:hidden;
+  }
+  .bvb_user img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .bvb_media--conteny h6{
+    margin: 0;
+    font-size: .88em;
+    font-weight: 700;
+    line-height: 1.2em;
+  }
+  .bvb_blocks.column_four .bvb_single--block {
+    width: calc(25% - 20px);
+}
+  .bvb_blocks.column_four .bvb_media {
+    height: 160px;
+} 
+   @media(max-width:991px){
+     .bvb_blocks.column_four .bvb_single--block {
+    width: calc(50% - 20px);
+}
+      .bvb_blocks.column_four .bvb_media {
+    height: 350px;
+} 
+   }
+  @media(max-width:767px){
+    .bvb_main{
+      padding: 50px 0px;
+    }
+    bvb_blocks.column_four .bvb_single--block {
+    width: 100%;
+}
+    .bvb_text{
+      flex-wrap: wrap;
+    }
+   
+    .bvb_text a{
+      font-size: calc(var(--body-font-size) * .1rem);
+      width: 100%;
+      margin-top: 20px;
+    }
+    .bvb_blocks{
+      margin-top: 50px;
+    }
+    .bvb_single--block {
+      width: 100%;
+    }
+    .bvb_media {
+      height: 200px;
+    }
+    .bvb_blocks.column_four .bvb_media {
+       height: 150px;
+    } 
+    
+  }
+</style>
+
+
+
+<div class="bvb_main {% if section.settings.remove_padding %} bvb_padding--remove {% endif %}" style="background:{{ section.settings.bg }}">
+  <div class="container">
+    <div class="bvb_text">
+       {% if section.settings.heading != blank %}
+          <h2 class="h4 section__heading mb-0 flex-auto text-start">{{ section.settings.heading | escape }}</h2>
+        {% endif %}
+        {% if section.settings.view_url != blank %}
+      <a href="{{ section.settings.view_url }}">{{ section.settings.view_text }}</a>
+      {% endif %}
+    </div>
+    <div class="bvb_blocks {{ section.settings.column_per }}">
+      {% for block in section.blocks %}
+        <div class="bvb_single--block">
+          <div class="bvb_media">
+            {% if block.settings.video_url.id == blank %}
+              <iframe src="//www.youtube.com/embed/_9VUPq3SxOc?rel=0&showinfo=0&vq=720" frameborder="0" allowfullscreen></iframe>
+            {% else %}
+              {% if block.settings.video_url.type == "youtube" %}
+                <iframe src="//www.youtube.com/embed/{{ block.settings.video_url.id }}?vq=720" frameborder="0" allowfullscreen></iframe>
+              {% elsif block.settings.video_url.type == "vimeo" %}
+                <iframe src="//player.vimeo.com/video/{{ block.settings.video_url.id }}?byline=0&portrait=0&badge=0" frameborder="0" allowfullscreen></iframe>
+              {% endif %}
+            {% endif %}
+          </div>
+          <div class="bvb_media--text">
+            <h4>{{ block.settings.video_text | escape }}</h4>
+            <div class="bvb_media--conteny">
+               {% if block.settings.user_img != blank %}
+              <span class="bvb_user">
+                <img src="{{ block.settings.user_img | img_url:"master" }}">
+              </span>
+                 {% endif %}
+                {% if block.settings.user_name != blank %}
+                  <h6>{{ block.settings.user_name | escape }}</h6>
+                {% endif %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
+
+{% schema %}
+  {
+    "name": "Beasen-video-blocks",
+    "class": "index-section",
+    "settings": [
+      {
+        "type": "color",
+        "id": "bg",
+        "label": "Background Color",
+        "default": "transparent"
+      },
+      {
+        "type": "checkbox",
+        "id": "remove_padding",
+        "label": "Remove Padding",
+        "default": false
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Heading"
+      },
+      {
+        "type": "text",
+        "id": "view_text",
+        "label": "View More",
+        "default": "View More"
+      },
+      {
+      "type": "select",
+      "id": "column_per",
+      "label": "Select Columns",
+      "options": [
+        {
+          "value": "column_two",
+          "label": "Two"
+        },
+        {
+          "value": "column_four",
+          "label": "Four"
+        }
+      ],
+      "default": "column_two"
+    },
+      {
+        "type": "url",
+        "id": "view_url",
+        "label": "View More Link"
+      }
+    ],
+     "blocks": [
+    {
+      "type": "Block",
+      "name": "Video",
+      "settings": [
+        {
+          "type": "video_url",
+          "id": "video_url",
+          "label": "Video link",
+          "accept": ["youtube", "vimeo"]
+        },
+        {
+          "type": "text",
+          "id": "video_text",
+          "label": "Video Text",
+          "default": "The Top Trends in Solar Shade Designs for Your Home"
+        },
+        {
+          "type": "image_picker",
+          "id": "user_img",
+          "label": "User Image"
+        },
+        {
+          "type": "text",
+          "id": "user_name",
+          "label": "User name"
+        }
+      ]
+    }
+     ],
+    "presets": [
+      {
+        "name": "Beasen-video-blocks",
+        "blocks": [
+        {
+          "type": "Block"
+        },
+        {
+          "type": "Block"
+        },
+        {
+          "type": "Block"
+        },
+        {
+          "type": "Block"
+        }
+      ]
+      }
+    ]
+  }
+{% endschema %}
+
+
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

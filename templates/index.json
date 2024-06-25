@@ -1,0 +1,1144 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "6f7c53a7-3b60-4a55-b7ad-06fa8f481852": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/Father_s_Day.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/father_Day_Banner_Vertical.png",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": true,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h2",
+            "heading_h1": true,
+            "text": "",
+            "enlarge_text": false,
+            "button_1_label": "",
+            "button_1_link": "shopify:\/\/collections\/shades",
+            "button_1_style": "btn btn--secondary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/Beasen_Main_Banner-08.png",
+            "image_mobile": "shopify:\/\/shop_images\/Beasen_Main_Banner-09.png",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": true,
+            "subheading": "",
+            "heading": "Elevate Your Smart Home",
+            "heading_size": "h2",
+            "heading_h1": true,
+            "text": "<p>Upgrade Your Home with Our Selection of Stylish Smart Blinds<\/p>",
+            "enlarge_text": false,
+            "button_1_label": "Shop Now",
+            "button_1_link": "shopify:\/\/collections\/shades",
+            "button_1_style": "btn btn--secondary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "c73b8625-328e-4649-8e0b-a48ef918f742": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "Smart Blinds Redefined",
+            "heading_size": "h1",
+            "heading_h1": false,
+            "text": "<p>Upgrade Your Home with Our Selection of Stylish Smart Blinds<\/p>",
+            "enlarge_text": false,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "slide-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "#",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "#",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "6f7c53a7-3b60-4a55-b7ad-06fa8f481852",
+        "slide-2",
+        "c73b8625-328e-4649-8e0b-a48ef918f742",
+        "slide-1"
+      ],
+      "settings": {
+        "height_mode": "fixed",
+        "fixed_height_desktop": 700,
+        "fixed_height_mobile": 500,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 3,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "245d9d59-3a25-4d9b-9707-4d8d8f868e25": {
+      "type": "logo-list",
+      "blocks": {
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buzzfeed.png",
+            "url": "",
+            "logo_width": 120
+          }
+        },
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mashable.png",
+            "url": "",
+            "logo_width": 120
+          }
+        },
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cnet.png",
+            "mobile_image": "shopify:\/\/shop_images\/cnet_364566d1-3396-4bd2-8459-bb457f3506fc.png",
+            "url": "",
+            "logo_width": 80
+          }
+        },
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cbsn.png",
+            "url": "",
+            "logo_width": 100
+          }
+        },
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/usatoday.png",
+            "mobile_image": "shopify:\/\/shop_images\/usatoday_38879aca-886c-4573-a504-52a7cfaee518.png",
+            "url": "",
+            "logo_width": 100
+          }
+        },
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hgtv.png",
+            "mobile_image": "shopify:\/\/shop_images\/hgtv_c31a0831-d2df-4c15-bd0c-8fb5658025d6.png",
+            "url": "",
+            "logo_width": 80
+          }
+        },
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-7": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        },
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-8": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        },
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-9": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-1",
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-2",
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-3",
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-4",
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-5",
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-6",
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-7",
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-8",
+        "template--19903438487869__245d9d59-3a25-4d9b-9707-4d8d8f868e25-logo-9"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.logo-list {display: flex; justify-content: center; }}",
+        "@media (max-width: 767px) {.slider {padding-bottom: 10px; }}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "spacing": 120,
+        "logo_grid_align": "justify-center",
+        "color_scheme": "1",
+        "full_width": true,
+        "enable_mobile_slider": true
+      }
+    },
+    "0f17c0c8-cabe-403a-8566-e207a5da9805": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19903438487869__0f17c0c8-cabe-403a-8566-e207a5da9805-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Find the Perfect Smart Blinds For Your Home",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--19903438487869__0f17c0c8-cabe-403a-8566-e207a5da9805-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Beasen Home, we know every home is unique. That's why we offer a variety of options to help you find the ideal match for your living space.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__0f17c0c8-cabe-403a-8566-e207a5da9805-heading-1",
+        "template--19903438487869__0f17c0c8-cabe-403a-8566-e207a5da9805-text-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "30cb4f16-56bd-4d4c-9766-0231a09f80a1": {
+      "type": "media-grid",
+      "blocks": {
+        "template--19903438487869__30cb4f16-56bd-4d4c-9766-0231a09f80a1-1689033389b38f5b0c-0": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-part-roller-1.2.jpg",
+            "link_url": "shopify:\/\/collections",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Roller Shades<\/p>",
+            "heading_size": "h4",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/frontpage",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#2a2b2a",
+            "tint_opacity": 10
+          }
+        },
+        "media_mWWUac": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cellular_shades_images_1.png",
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Cellular Shades<\/p>",
+            "heading_size": "h4",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/cellular-shades",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#2a2b2a",
+            "tint_opacity": 25
+          }
+        },
+        "template--19903438487869__30cb4f16-56bd-4d4c-9766-0231a09f80a1-1689033389b38f5b0c-2": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/outdoor_shades-89.jpg",
+            "link_url": "shopify:\/\/products\/smart-motorized-dual-zebra-shades-60-blackout-75mm",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Outdoor Shades<\/p>",
+            "heading_size": "h4",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/outdoor-shades",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#484848",
+            "tint_opacity": 35
+          }
+        },
+        "template--19903438487869__30cb4f16-56bd-4d4c-9766-0231a09f80a1-1689033389b38f5b0c-3": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/06_0243ce19-f2ae-492f-91c9-6fb13f10d497.jpg",
+            "link_url": "shopify:\/\/collections",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Shangri-la Shades<\/p>",
+            "heading_size": "h4",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/shangri-la-sheer-shades",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#2a2b2a",
+            "tint_opacity": 25
+          }
+        },
+        "template--19903438487869__30cb4f16-56bd-4d4c-9766-0231a09f80a1-1689033389b38f5b0c-1": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zebra_5__1_7.jpg",
+            "link_url": "shopify:\/\/products\/smart-motorized-dual-zebra-shades-60-blackout-75mm",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Zebra Shades<\/p>",
+            "heading_size": "h4",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/zebra-shades",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#2a2b2a",
+            "tint_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__30cb4f16-56bd-4d4c-9766-0231a09f80a1-1689033389b38f5b0c-0",
+        "media_mWWUac",
+        "template--19903438487869__30cb4f16-56bd-4d4c-9766-0231a09f80a1-1689033389b38f5b0c-2",
+        "template--19903438487869__30cb4f16-56bd-4d4c-9766-0231a09f80a1-1689033389b38f5b0c-3",
+        "template--19903438487869__30cb4f16-56bd-4d4c-9766-0231a09f80a1-1689033389b38f5b0c-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "color_scheme": "white"
+      }
+    },
+    "24c0e93b-a1a7-40c0-9c56-60dfe6c34237": {
+      "type": "background-video",
+      "blocks": {
+        "template--19903438487869__24c0e93b-a1a7-40c0-9c56-60dfe6c34237-1689033975a6ccbf0f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start Your Smart Home Journey Today",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--19903438487869__24c0e93b-a1a7-40c0-9c56-60dfe6c34237-1689033975a6ccbf0f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Add text to a video to showcase a detail of your brand or product line.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--19903438487869__24c0e93b-a1a7-40c0-9c56-60dfe6c34237-1689033975a6ccbf0f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Collections",
+            "button_link": "shopify:\/\/collections\/shades",
+            "button_style": "btn btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__24c0e93b-a1a7-40c0-9c56-60dfe6c34237-1689033975a6ccbf0f-0",
+        "template--19903438487869__24c0e93b-a1a7-40c0-9c56-60dfe6c34237-1689033975a6ccbf0f-1",
+        "template--19903438487869__24c0e93b-a1a7-40c0-9c56-60dfe6c34237-1689033975a6ccbf0f-2"
+      ],
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/首页宣传视频36秒无logo2.mp4",
+        "video_external": "",
+        "video_description": "",
+        "video_height": "md",
+        "overlay_text_align": "text-center",
+        "overlay_position": "justify-center items-end",
+        "mob_center_text": true,
+        "color_scheme": "white",
+        "tint_color": "#000000",
+        "tint_opacity": 10,
+        "lazyload": true,
+        "prevent_animation": false
+      }
+    },
+    "23133fef-2af6-4f81-b1e0-07e34a5f2773": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--19903438487869__23133fef-2af6-4f81-b1e0-07e34a5f2773-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Brand You Can Trust",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--19903438487869__23133fef-2af6-4f81-b1e0-07e34a5f2773-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Beasen Home, we specialize in making the best smart blinds possible for your smart home. At our core, however, we strive to providing you with comfort, convenience, and relentless innovation.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--19903438487869__23133fef-2af6-4f81-b1e0-07e34a5f2773-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/why-beasen",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__23133fef-2af6-4f81-b1e0-07e34a5f2773-heading-1",
+        "template--19903438487869__23133fef-2af6-4f81-b1e0-07e34a5f2773-text-1",
+        "template--19903438487869__23133fef-2af6-4f81-b1e0-07e34a5f2773-button-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/00086421-3-man-fixed.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "075e79b1-26d2-4b7c-9291-420d63732a40": {
+      "type": "media-with-text",
+      "blocks": {
+        "4e92fbf9-ff52-432e-8c9d-5fdaa3abe0b7": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Gold Standard of Roller Shades",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "f52f341b-b3e3-4913-aa3d-ef030b982769": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beasen Home Roller Shades are unmatched in the smart blinds industry. From smart functions, to design, to quality, we continue to lead the way in smart Roller Shades.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "4da0f18d-18c6-42ae-9bbc-cb1f98470046": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/shades",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "4e92fbf9-ff52-432e-8c9d-5fdaa3abe0b7",
+        "f52f341b-b3e3-4913-aa3d-ef030b982769",
+        "4da0f18d-18c6-42ae-9bbc-cb1f98470046"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/home_gold.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "image-banner": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "On The Cutting Edge",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Smart Blinds are powered by state-of-the-art technology that has been specifically designed to make your life easier, and more enjoyable.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "banner-button": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/pages\/technology",
+            "button_1_style": "btn btn--secondary",
+            "button_2_label": "",
+            "button_2_link": "#",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-heading",
+        "banner-text",
+        "banner-button"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/new_tech_banner_for_home__1_8.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#484848",
+        "tint_opacity": 25,
+        "prevent_animation": false
+      }
+    },
+    "92804b5f-e497-4e75-8a28-1e74b910a095": {
+      "type": "logo-list",
+      "blocks": {
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home_smart_tech-72_42acd509-5d69-4b51-ad51-37bc78563a15.png",
+            "url": "shopify:\/\/pages\/apple-homekit",
+            "logo_width": 100
+          }
+        },
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home_smart_tech-73_9f261da4-1e2c-4c27-8de2-3d439c81721d.png",
+            "url": "shopify:\/\/pages\/amazon-alexa",
+            "logo_width": 100
+          }
+        },
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home_smart_tech-74_13be46e1-2609-4e7f-99b3-bd1fd5ee7773.png",
+            "url": "shopify:\/\/pages\/smartthing",
+            "logo_width": 100
+          }
+        },
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home_smart_tech-75_d722b9d8-1dde-464d-ba53-053748995d8b.png",
+            "url": "shopify:\/\/pages\/google-assist",
+            "logo_width": 100
+          }
+        },
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smart_tech-82_d66edddb-be6b-4820-b2e6-6a58811a9ba1.png",
+            "url": "",
+            "logo_width": 100
+          }
+        },
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smart_tech-83_076546f1-9b94-415f-b961-acc7a9d5ea8b.png",
+            "url": "",
+            "logo_width": 100
+          }
+        },
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-7": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        },
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-8": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        },
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-9": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-1",
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-2",
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-3",
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-4",
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-5",
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-6",
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-7",
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-8",
+        "template--19903438487869__92804b5f-e497-4e75-8a28-1e74b910a095-logo-9"
+      ],
+      "custom_css": [
+        "2.logo-list__logo {width: auto; min-width: 78px; margin: 10px; border-radius: 10px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);}",
+        "@media screen and (min-width: 768px) {.logo-list {display: flex; align-items: center; justify-content: center; }}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "spacing": 100,
+        "logo_grid_align": "justify-center",
+        "color_scheme": "1",
+        "full_width": true,
+        "enable_mobile_slider": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".product-inventory__status {display: none;}"
+      ],
+      "settings": {
+        "title": "Best Sellers",
+        "heading_align": "text-center",
+        "show_view_all": false,
+        "collection": "frontpage",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 6,
+        "show_promo_info": false,
+        "image_ratio": "fill",
+        "promo_title": "Beasen Home Best Sellers",
+        "content": "<p>Step into the future of window treatments with our best-selling smart blinds, combining cutting-edge technology with elegant design to transform your living space. Experience the ultimate convenience and control as you effortlessly adjust lighting, privacy, and ambiance.<\/p>",
+        "link_url": "#",
+        "button_label": "",
+        "color_scheme": "2",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "cdaee617-d612-45b8-a25c-5ed8cb6d035c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19903438487869__cdaee617-d612-45b8-a25c-5ed8cb6d035c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Helping Hand",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--19903438487869__cdaee617-d612-45b8-a25c-5ed8cb6d035c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have any questions or are in need assistance, please visit our Help Center and review our Guides, FAQs, and more.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--19903438487869__cdaee617-d612-45b8-a25c-5ed8cb6d035c-button-1": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Get Help",
+            "button_1_link": "shopify:\/\/pages\/help-center",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__cdaee617-d612-45b8-a25c-5ed8cb6d035c-heading-1",
+        "template--19903438487869__cdaee617-d612-45b8-a25c-5ed8cb6d035c-text-1",
+        "template--19903438487869__cdaee617-d612-45b8-a25c-5ed8cb6d035c-button-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/help_center-55_2ce5facf-7e1d-48b3-b76e-b1ae11334b1b.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "image_banner_PNmBfL": {
+      "type": "image-banner",
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/Email-resize_2.png",
+        "image_mobile": "shopify:\/\/shop_images\/Email-resize-1800-1500-2.png",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#ffffff",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "cdd4042e-95b3-470d-9ea1-ed32ea22f6b2": {
+      "type": "Beasen-slider",
+      "blocks": {
+        "template--19903438487869__cdd4042e-95b3-470d-9ea1-ed32ea22f6b2-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Digital-Journal-logo.jpg",
+            "link_title": "digitaljournal.com",
+            "link_text": "<p>Beasen Home’s cutting-edge optimizes energy efficiency while giving the user the most options to maximize comfort.<\/p>",
+            "link_url": "https:\/\/www.digitaljournal.com\/life\/experience-the-future-of-home-automation-with-beasen-homes-smart-blinds"
+          }
+        },
+        "template--19903438487869__cdd4042e-95b3-470d-9ea1-ed32ea22f6b2-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/itechpost.jpg",
+            "link_title": "itechpost.com",
+            "link_text": "<p>Beasen Home blinds are not only packed with features but are eco-friendly, made with low-carbon materials.<\/p>",
+            "link_url": "https:\/\/www.itechpost.com\/articles\/119392\/20231017\/pioneering-the-smart-home-industry-how-beasen-home-is-making-houses-smarter-with-smart-blinds.htm"
+          }
+        },
+        "template--19903438487869__cdd4042e-95b3-470d-9ea1-ed32ea22f6b2-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LA_Weekly_logo_svg.png",
+            "link_title": "laweekly.com",
+            "link_text": "<p>Convenience and automation only tell half the story. Beasen Home’s products are thoughtfully designed with sustainability in mind.<\/p>",
+            "link_url": "https:\/\/www.laweekly.com\/beasen-home-unveils-innovative-smart-blinds-setting-a-new-standard-in-home-automation\/"
+          }
+        },
+        "template--19903438487869__cdd4042e-95b3-470d-9ea1-ed32ea22f6b2-column-4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/techtimes.png",
+            "link_title": "techtimes.com",
+            "link_text": "<p>As pioneers in the smart blinds industry, Beasen Home stands out for the most advanced window coverings on the market.<\/p>",
+            "link_url": "https:\/\/www.techtimes.com\/articles\/297639\/20231017\/elevate-your-living-space-beasen-homes-pioneering-smart-blind-solutions.htm"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__cdd4042e-95b3-470d-9ea1-ed32ea22f6b2-column-1",
+        "template--19903438487869__cdd4042e-95b3-470d-9ea1-ed32ea22f6b2-column-2",
+        "template--19903438487869__cdd4042e-95b3-470d-9ea1-ed32ea22f6b2-column-3",
+        "template--19903438487869__cdd4042e-95b3-470d-9ea1-ed32ea22f6b2-column-4"
+      ],
+      "settings": {
+        "title": "Press about us"
+      }
+    },
+    "66eeeab8-8fb9-41d0-ba0a-d97e6cc068b9": {
+      "type": "Beasen-slider",
+      "blocks": {
+        "f7cfc6a5-7f58-4aa9-b1e6-0d5747fddd13": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_83_3_bd1d2194-b548-4c2d-95d1-3eb43c56b0d3.png",
+            "link_title": "cnet.com",
+            "link_text": "<p>“Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more, to make your home as comfortable as possible.”<\/p>",
+            "link_url": ""
+          }
+        },
+        "afcdee2b-7ec2-4c1f-92e7-c2d38ace15a7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_92_152c6fbc-265e-49df-91a6-b09544a55d5a.png",
+            "link_title": "hgtv.com",
+            "link_text": "<p>“Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more, to make your home as comfortable as possible.”<br\/><\/p>",
+            "link_url": ""
+          }
+        },
+        "8ce9697c-3a53-4271-904d-f3f52924b3ed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_84_1_dee75b09-8ecc-425a-8bed-9b40f92e7563.png",
+            "link_title": "USATODAY.com",
+            "link_text": "<p>“Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more, to make your home as comfortable as possible.”<br\/><\/p>",
+            "link_url": ""
+          }
+        },
+        "98457d0d-975d-4628-9c24-034f9d3faaed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_86_1.png",
+            "link_title": "cbsn.com",
+            "link_text": "<p>“Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more, to make your home as comfortable as possible.”<br\/><\/p>",
+            "link_url": ""
+          }
+        },
+        "column_WFxcWz": {
+          "type": "column",
+          "settings": {
+            "link_title": "",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "f7cfc6a5-7f58-4aa9-b1e6-0d5747fddd13",
+        "afcdee2b-7ec2-4c1f-92e7-c2d38ace15a7",
+        "8ce9697c-3a53-4271-904d-f3f52924b3ed",
+        "98457d0d-975d-4628-9c24-034f9d3faaed",
+        "column_WFxcWz"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Press about us"
+      }
+    },
+    "5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de": {
+      "type": "beasen-video-blocks",
+      "blocks": {
+        "template--19903438487869__5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de-Block-1": {
+          "type": "Block",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=q-JU5iM094M",
+            "video_text": "Smart Blinds Made Easy | Beasen Motorized Blackout Roller Shades Review",
+            "user_name": "Antonio Sanson"
+          }
+        },
+        "template--19903438487869__5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de-Block-2": {
+          "type": "Block",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=YmvOIIQcHZo",
+            "video_text": "Beasen Smart Motorized Roller Shades 100% Blackout Linen Review",
+            "user_name": "WOW Technology"
+          }
+        },
+        "template--19903438487869__5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de-Block-3": {
+          "type": "Block",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=YtUP1UwXDac",
+            "video_text": "Beasen-A Useful Smart Home Upgrade: Installing DIY Automated Shades",
+            "user_name": "MIDAS TECH"
+          }
+        },
+        "template--19903438487869__5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de-Block-4": {
+          "type": "Block",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=MH_-X6jzldI",
+            "video_text": "Smarten your home with Beasen. Get it now : Beasen Home",
+            "user_name": "Tech ET"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de-Block-1",
+        "template--19903438487869__5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de-Block-2",
+        "template--19903438487869__5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de-Block-3",
+        "template--19903438487869__5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de-Block-4"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "remove_padding": false,
+        "heading": "Product Reviews",
+        "view_text": "",
+        "column_per": "column_two",
+        "view_url": "shopify:\/\/collections"
+      }
+    },
+    "ee909194-4c3d-41e3-873a-830dd505d914": {
+      "type": "video-play-onhover",
+      "blocks": {
+        "template--19903438487869__ee909194-4c3d-41e3-873a-830dd505d914-video_block-1": {
+          "type": "video_block",
+          "settings": {
+            "video_url": "shopify:\/\/files\/videos\/e16187d0ddf34c788a071cc7ab3f8998.mp4"
+          }
+        },
+        "template--19903438487869__ee909194-4c3d-41e3-873a-830dd505d914-video_block-2": {
+          "type": "video_block",
+          "settings": {
+            "video_url": "shopify:\/\/files\/videos\/3d9d985ab574400ba88759b08572e31b.mp4"
+          }
+        },
+        "template--19903438487869__ee909194-4c3d-41e3-873a-830dd505d914-video_block-3": {
+          "type": "video_block",
+          "settings": {
+            "video_url": "shopify:\/\/files\/videos\/ac64c822dc804ab6a35798302dedc7cb.mp4"
+          }
+        },
+        "template--19903438487869__ee909194-4c3d-41e3-873a-830dd505d914-video_block-4": {
+          "type": "video_block",
+          "settings": {
+            "video_url": "shopify:\/\/files\/videos\/bca5ae62539246f6909e275c7413af32.mp4"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__ee909194-4c3d-41e3-873a-830dd505d914-video_block-1",
+        "template--19903438487869__ee909194-4c3d-41e3-873a-830dd505d914-video_block-2",
+        "template--19903438487869__ee909194-4c3d-41e3-873a-830dd505d914-video_block-3",
+        "template--19903438487869__ee909194-4c3d-41e3-873a-830dd505d914-video_block-4"
+      ],
+      "settings": {
+        "bg": "#f3f3f3",
+        "heading": "Hear From Our Customers",
+        "view_text": "View More",
+        "view_url": ""
+      }
+    },
+    "c4753b24-b0e2-43d5-b567-1be0690c7c42": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Featured blog",
+        "heading_align": "text-start",
+        "show_view_all": true,
+        "blog": "news",
+        "layout": "grid",
+        "posts_to_show": 3,
+        "show_featured_image": true,
+        "show_tags": false,
+        "show_excerpt": false,
+        "show_author": false,
+        "show_date": true,
+        "show_button": false,
+        "color_scheme": "none",
+        "image_ratio": "1.77",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "16933284601560118c": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "2648b476-6d1a-4040-9e5c-d6fb2fdeebc6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19903438487869__2648b476-6d1a-4040-9e5c-d6fb2fdeebc6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Installation Service",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--19903438487869__2648b476-6d1a-4040-9e5c-d6fb2fdeebc6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Book an appointment and have a professional measure and install your Beasen Home smart blinds for you<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--19903438487869__2648b476-6d1a-4040-9e5c-d6fb2fdeebc6-button-1": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Get Help",
+            "button_1_link": "shopify:\/\/pages\/find-a-pro",
+            "button_1_style": "btn btn--secondary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903438487869__2648b476-6d1a-4040-9e5c-d6fb2fdeebc6-heading-1",
+        "template--19903438487869__2648b476-6d1a-4040-9e5c-d6fb2fdeebc6-text-1",
+        "template--19903438487869__2648b476-6d1a-4040-9e5c-d6fb2fdeebc6-button-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/find-a-pro.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#1a74c4",
+        "tint_opacity": 80,
+        "prevent_animation": false
+      }
+    },
+    "98c18f46-efef-487e-bc82-44ac3e9c3aff": {
+      "type": "newsletter",
+      "blocks": {
+        "template--19903438487869__98c18f46-efef-487e-bc82-44ac3e9c3aff-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign Up to Our Newsletter",
+            "heading_size": "h4"
+          }
+        },
+        "template--19903438487869__98c18f46-efef-487e-bc82-44ac3e9c3aff-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--19903438487869__98c18f46-efef-487e-bc82-44ac3e9c3aff-form-1": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--19903438487869__98c18f46-efef-487e-bc82-44ac3e9c3aff-heading-1",
+        "template--19903438487869__98c18f46-efef-487e-bc82-44ac3e9c3aff-text-1",
+        "template--19903438487869__98c18f46-efef-487e-bc82-44ac3e9c3aff-form-1"
+      ],
+      "settings": {
+        "overlay_position": "justify-center",
+        "text_align": "text-center",
+        "color_scheme": "1",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 20
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "245d9d59-3a25-4d9b-9707-4d8d8f868e25",
+    "0f17c0c8-cabe-403a-8566-e207a5da9805",
+    "30cb4f16-56bd-4d4c-9766-0231a09f80a1",
+    "24c0e93b-a1a7-40c0-9c56-60dfe6c34237",
+    "23133fef-2af6-4f81-b1e0-07e34a5f2773",
+    "075e79b1-26d2-4b7c-9291-420d63732a40",
+    "image-banner",
+    "92804b5f-e497-4e75-8a28-1e74b910a095",
+    "featured-collection",
+    "cdaee617-d612-45b8-a25c-5ed8cb6d035c",
+    "image_banner_PNmBfL",
+    "cdd4042e-95b3-470d-9ea1-ed32ea22f6b2",
+    "66eeeab8-8fb9-41d0-ba0a-d97e6cc068b9",
+    "5dcfe9db-fa73-4c40-a9c8-4d4d89ffc3de",
+    "ee909194-4c3d-41e3-873a-830dd505d914",
+    "c4753b24-b0e2-43d5-b567-1be0690c7c42",
+    "16933284601560118c",
+    "2648b476-6d1a-4040-9e5c-d6fb2fdeebc6",
+    "98c18f46-efef-487e-bc82-44ac3e9c3aff"
+  ]
+}

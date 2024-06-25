@@ -1,0 +1,562 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "fcefcd9f-7547-4254-ac76-3ff196dff9dc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20336033726781__fcefcd9f-7547-4254-ac76-3ff196dff9dc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warranty",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "template--20336033726781__fcefcd9f-7547-4254-ac76-3ff196dff9dc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your window treatments are more than an expression of your personal style—they’re an investment in your home. When you choose Beasen blinds & shades, our goal is to give you the best experience, from the moment you pick out your swatches to the second you step back to admire your newly covered windows and beyond. Our warranties represent our dedication to making sure that your new look lasts.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20336033726781__fcefcd9f-7547-4254-ac76-3ff196dff9dc-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20336033726781__fcefcd9f-7547-4254-ac76-3ff196dff9dc-heading-1",
+        "template--20336033726781__fcefcd9f-7547-4254-ac76-3ff196dff9dc-text-1",
+        "template--20336033726781__fcefcd9f-7547-4254-ac76-3ff196dff9dc-button-1"
+      ],
+      "settings": {
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 480,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "fe5072c9-69b0-482e-86b1-c1988733013f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20336033726781__fe5072c9-69b0-482e-86b1-c1988733013f-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20336033726781__fe5072c9-69b0-482e-86b1-c1988733013f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Warranty",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "template--20336033726781__fe5072c9-69b0-482e-86b1-c1988733013f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your window treatments are more than an expression of your personal style—they’re an investment in your home. When you choose Beasen blinds & shades, our goal is to give you the best experience, from the moment you pick out your swatches to the second you step back to admire your newly covered windows and beyond. Our warranties represent our dedication to making sure that your new look lasts.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20336033726781__fe5072c9-69b0-482e-86b1-c1988733013f-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20336033726781__fe5072c9-69b0-482e-86b1-c1988733013f-subheading-1",
+        "template--20336033726781__fe5072c9-69b0-482e-86b1-c1988733013f-heading-1",
+        "template--20336033726781__fe5072c9-69b0-482e-86b1-c1988733013f-text-1",
+        "template--20336033726781__fe5072c9-69b0-482e-86b1-c1988733013f-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": false,
+        "color_scheme": "none",
+        "full_width": false,
+        "prevent_animation": false
+      }
+    },
+    "8d97ff7e-fa93-4ab6-98be-09d697479147": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20336033726781__8d97ff7e-fa93-4ab6-98be-09d697479147-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20336033726781__8d97ff7e-fa93-4ab6-98be-09d697479147-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is Covered",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20336033726781__8d97ff7e-fa93-4ab6-98be-09d697479147-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20336033726781__8d97ff7e-fa93-4ab6-98be-09d697479147-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20336033726781__8d97ff7e-fa93-4ab6-98be-09d697479147-subheading-1",
+        "template--20336033726781__8d97ff7e-fa93-4ab6-98be-09d697479147-heading-1",
+        "template--20336033726781__8d97ff7e-fa93-4ab6-98be-09d697479147-text-1",
+        "template--20336033726781__8d97ff7e-fa93-4ab6-98be-09d697479147-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "2",
+        "full_width": false,
+        "prevent_animation": false
+      }
+    },
+    "6fd2fc30-4263-488d-ab73-e08a0bfdd74c": {
+      "type": "multi-column",
+      "blocks": {
+        "7ea24fc8-d066-4b73-9898-de70798256a2": {
+          "type": "column",
+          "settings": {
+            "heading": "Components and brackets",
+            "text": "<p>Replaceable parts include, but are not limited to, brackets, valance clips\/magnets, connectors, tilter mechanisms, bottom rail plugs, spacer blocks, equalizers and tensioners.   <br\/><br\/>Up to 3 years: Parts replaced at no charge. <br\/><br\/>After 3 years: $10 charge for parts.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "f6850d24-f4c9-487d-94ff-b3a8a9e06497": {
+          "type": "column",
+          "settings": {
+            "heading": "Motorization",
+            "text": "<p>Up to 3 years: Product remade at no charge.<br\/><br\/>After 3 years: All materials can lose original intensity depending on use.<br\/><br\/>This is considered normal wear and tear and is not covered after 3 years.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "53be6d9f-19b4-4018-b4cf-f332cd21d134": {
+          "type": "column",
+          "settings": {
+            "heading": "Internal mechanisms",
+            "text": "<p>Covers tears or other defects in fabric, separation of fabric from slats or vanes, warping of slats and\/or broken or cracked vertical vanes.       <br\/><br\/>Up to 3 years: Product remade at no charge.  <br\/>After 3 years: Fabric and slats\/vanes are considered wearable items and are not covered after 3 years.        <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "7ea24fc8-d066-4b73-9898-de70798256a2",
+        "f6850d24-f4c9-487d-94ff-b3a8a9e06497",
+        "53be6d9f-19b4-4018-b4cf-f332cd21d134"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "f843310b-d0cf-4761-a6c2-2f8ebf469615": {
+      "type": "rich-text",
+      "blocks": {
+        "3b631ee4-c897-4e39-8fe6-a95a9a5b7640": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "7c72ae9d-accc-422a-85e5-fdda550680d9": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is Not Covered",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "4e31f454-1dde-4380-95a4-5d4bbe0df827": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "19f76c9b-1a8c-43bf-88dc-7fffb4b13a9c": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "3b631ee4-c897-4e39-8fe6-a95a9a5b7640",
+        "7c72ae9d-accc-422a-85e5-fdda550680d9",
+        "4e31f454-1dde-4380-95a4-5d4bbe0df827",
+        "19f76c9b-1a8c-43bf-88dc-7fffb4b13a9c"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "2",
+        "full_width": false,
+        "prevent_animation": false
+      }
+    },
+    "d80cf09b-60b6-422b-856a-73a9fa145949": {
+      "type": "multi-column",
+      "blocks": {
+        "5ec18411-36e1-4283-8d44-dae24dd91ded": {
+          "type": "column",
+          "settings": {
+            "heading": "NORMAL WEAR AND TEAR ANY PRODUCT THAT FAILS DUE TO:",
+            "text": "<p>• Abuse • Exposure to salt air • Improper installation<br\/>• Accident • Extraordinary use • Improper operation<br\/>• Alterations • Improper cleaning • Misapplication<br\/>• Damage from pets\/insects • Improper handling • Misuse<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "3e15f29e-49b6-4f62-9686-68bf85587405": {
+          "type": "column",
+          "settings": {
+            "heading": "NATURAL MATERIAL (INCLUDING, BUT NOT LIMITED TO WOOD, GRASS, JUTE, REEDS) PRODUCTS THAT HAVE:",
+            "text": "<p>• Variation in color, grain, or texture<br\/>• Warping or cracking of wood slats in high-humidity and\/or in high-heat areas<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "7b638e3a-8018-4c57-a3c0-1c7f91c617af": {
+          "type": "column",
+          "settings": {
+            "heading": "ANY PRODUCT THAT, WITH THE PASSAGE OF TIME, EXHIBITS:",
+            "text": "<p>• Loss of color intensity (including, but not limited to fabric, plastic parts, and wood finishes)<br\/>• Loss of pleating if product is not held in raised position a portion of the time<br\/>• Yellowing or cracking of plastic parts or faux wood product • Creeping, sagging, or billowing of cordless product that is not properly raised and lowered daily <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "f933e3d0-f617-4c3b-9ce4-3f5cecf19f4b": {
+          "type": "column",
+          "settings": {
+            "heading": "COSTS ASSOCIATED WITH:",
+            "text": "<p>• Product removal • Transportation to and from the retailer • Shipping<br\/>• Product remeasure • Incidental or consequential damages • Brand label removal<br\/>• Product reinstallation<br\/>\"In the event there are multiple blinds\/shades in the same room, only the defective blind \/ shade will be replaced.\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ec18411-36e1-4283-8d44-dae24dd91ded",
+        "3e15f29e-49b6-4f62-9686-68bf85587405",
+        "7b638e3a-8018-4c57-a3c0-1c7f91c617af",
+        "f933e3d0-f617-4c3b-9ce4-3f5cecf19f4b"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "large",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "e74a5c7e-95f5-4218-9054-d67210c1d25d": {
+      "type": "rich-text",
+      "blocks": {
+        "f5e73b1b-88c1-4b3d-b9c2-fa7b0c9132ac": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "985b8a31-3634-455e-af6e-a32ae17d87eb": {
+          "type": "heading",
+          "settings": {
+            "heading": "To obtain warranty service \/ Warranty Remedy",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "ad21e862-d5f8-462b-a549-f92c47733863": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "bcb882a2-9736-4c79-800c-b1c8e0f8df88": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "f5e73b1b-88c1-4b3d-b9c2-fa7b0c9132ac",
+        "985b8a31-3634-455e-af6e-a32ae17d87eb",
+        "ad21e862-d5f8-462b-a549-f92c47733863",
+        "bcb882a2-9736-4c79-800c-b1c8e0f8df88"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "2",
+        "full_width": false,
+        "prevent_animation": false
+      }
+    },
+    "4ccbee2c-a728-4b65-af6e-4f866a7d4594": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20336033726781__4ccbee2c-a728-4b65-af6e-4f866a7d4594-column-1": {
+          "type": "column",
+          "settings": {
+            "heading": "TO OBTAIN WARRANTY SERVICE",
+            "text": "<p>To learn more about warranty claims, visit www.beasenhome.com for additional warranty information and FAQ.Contact info@beasenhome.com or call customer service at 1-800-608-8117 for warranty assistance.<br\/><br\/>Warranty claims must be accompanied by the original sales receipt as well as details regarding the nature of the problem, location of the product, etc. Warranty claims may be submitted to the customer service center at:<br\/><br\/>Customer Service Center<br\/>Bravit Tech LLC<br\/>910 Foulk RD ST201,Wilminton<br\/>PO Box DE 19803<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20336033726781__4ccbee2c-a728-4b65-af6e-4f866a7d4594-column-2": {
+          "type": "column",
+          "settings": {
+            "heading": "TO REPORT SHIPPING DAMAGE",
+            "text": "<p>If damage occurred during shipping, call 1-800-608-8117 and report within 14 calendar days of delivery or you may be denied credit for your damaged product.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20336033726781__4ccbee2c-a728-4b65-af6e-4f866a7d4594-column-3": {
+          "type": "column",
+          "settings": {
+            "heading": "WARRANTY REMEDY",
+            "text": "<p>THIS SHALL BE YOUR SOLE REMEDY UNDER THIS LIMITED WARRANTY<br\/><br\/>If this Beasen product is found to have a manufacturing defect in materials or workmanship, we will (at our discretion) do one of the following:<br\/>• Repair the product • Replace the product • Refund the cost of the product<br\/>• Colors vary from lot to lot and may not exactly match sample swatch or previous purchases<br\/>• Discontinued items or color selections will be replaced with the closest equivalent current product       <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20336033726781__4ccbee2c-a728-4b65-af6e-4f866a7d4594-column-1",
+        "template--20336033726781__4ccbee2c-a728-4b65-af6e-4f866a7d4594-column-2",
+        "template--20336033726781__4ccbee2c-a728-4b65-af6e-4f866a7d4594-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "medium",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "e941bfb4-5920-4b0b-a9bb-ea32d0cb58aa": {
+      "type": "rich-text",
+      "blocks": {
+        "abe91a4e-7748-40dd-b543-5fc30b6bbed3": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "4e52e4e8-9daf-4483-8f85-a9de79fc87c7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your rights under state law",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "f947edaf-91b7-4734-bee6-1366815d58ca": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "c3bfce46-c316-4448-bad9-3c57126c0e8c": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "abe91a4e-7748-40dd-b543-5fc30b6bbed3",
+        "4e52e4e8-9daf-4483-8f85-a9de79fc87c7",
+        "f947edaf-91b7-4734-bee6-1366815d58ca",
+        "c3bfce46-c316-4448-bad9-3c57126c0e8c"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "2",
+        "full_width": false,
+        "prevent_animation": false
+      }
+    },
+    "514f7268-8406-4daa-8a1c-e873e9e40242": {
+      "type": "multi-column",
+      "blocks": {
+        "06c7128e-ec60-45c8-8db0-f565dd798c06": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>This limited lifetime warranty gives you specific legal rights, and you may have other rights, which vary from state to state\/province to province. The obligations of Beasen Home is limited to the replacement or repair of parts or products found to be defective. It is at the sole discretion of Beasen Home to determine whether product will be replaced or repaired.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c18efb32-a5b8-4ab2-8ee3-99d8f5269d4d": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>Some states do not allow the exclusion or limitation of incidental, punitive, or consequential damages, so this limitation or exclusion may not apply to you.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "647e1a19-b619-475a-81a3-9bbe0d3be496": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>THIS WARRANTY IS EXCLUSIVE AND IN LIEU OF ALL OTHER WRITTEN OR ORAL WARRANTIES OR OBLIGATIONS AND LIABILITIES. THE DURATION OF ANY IMPLIED WARRANTIES FOR ANY PRODUCT IS LIMITED IN DURATION TO THE WARRANTY TERM APPLICABLE TO SUCH PRODUCT AS SET FORTH ABOVE.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "319832e0-32b7-4bf0-8d9d-6004e06da196": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>No person is authorized to extend or alter this warranty. No agent, representative, dealer, or unauthorized employee has the authority to increase or alter the obligation of this warranty. This limited lifetime warranty supersedes any previous versions.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "06c7128e-ec60-45c8-8db0-f565dd798c06",
+        "c18efb32-a5b8-4ab2-8ee3-99d8f5269d4d",
+        "647e1a19-b619-475a-81a3-9bbe0d3be496",
+        "319832e0-32b7-4bf0-8d9d-6004e06da196"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "large",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "fcefcd9f-7547-4254-ac76-3ff196dff9dc",
+    "fe5072c9-69b0-482e-86b1-c1988733013f",
+    "8d97ff7e-fa93-4ab6-98be-09d697479147",
+    "6fd2fc30-4263-488d-ab73-e08a0bfdd74c",
+    "f843310b-d0cf-4761-a6c2-2f8ebf469615",
+    "d80cf09b-60b6-422b-856a-73a9fa145949",
+    "e74a5c7e-95f5-4218-9054-d67210c1d25d",
+    "4ccbee2c-a728-4b65-af6e-4f866a7d4594",
+    "e941bfb4-5920-4b0b-a9bb-ea32d0cb58aa",
+    "514f7268-8406-4daa-8a1c-e873e9e40242"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "sections": {
+    "1731fcf5-3cf0-40e5-816f-ba2cf989bea4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19903437537597__1731fcf5-3cf0-40e5-816f-ba2cf989bea4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Blog",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "template--19903437537597__1731fcf5-3cf0-40e5-816f-ba2cf989bea4-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19903437537597__1731fcf5-3cf0-40e5-816f-ba2cf989bea4-heading-1",
+        "template--19903437537597__1731fcf5-3cf0-40e5-816f-ba2cf989bea4-text-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/Home-slide-roller-59.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 560,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "show_blog_title": false,
+        "description": "",
+        "show_share_links": true,
+        "text_align": "items-center text-center",
+        "posts_per_page": 13,
+        "three_columns": true,
+        "show_tag_filter": false,
+        "show_featured_image": true,
+        "image_ratio": "shortest",
+        "show_tags": true,
+        "show_excerpt": true,
+        "show_author": false,
+        "show_date": true,
+        "show_button": false,
+        "button_style": "btn btn--secondary",
+        "show_featured_post": true,
+        "show_featured_excerpt": true,
+        "show_featured_button": true,
+        "color_scheme": "1",
+        "featured_button_style": "btn btn--secondary"
+      }
+    }
+  },
+  "order": [
+    "1731fcf5-3cf0-40e5-816f-ba2cf989bea4",
+    "main"
+  ]
+}

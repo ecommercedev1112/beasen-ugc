@@ -1,0 +1,520 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Shop by Needs"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Light Filtering",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Light filtering shades offer a brightening effect and adjustable privacy through their unique fabrics and different window treatment options. When fully closed, these shades transform harsh light into a soft glow, creating the ideal lighting for any room.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/infowishare_smart_window_shades_in_the_fancy_house_74253e3e-b6cb-4e80-8bf4-b07eb4070111.png",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 480,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": true,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "66fed798-09f2-4bc9-ac9c-e311e4d5e29f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20462359216445__66fed798-09f2-4bc9-ac9c-e311e4d5e29f-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20462359216445__66fed798-09f2-4bc9-ac9c-e311e4d5e29f-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--20462359216445__66fed798-09f2-4bc9-ac9c-e311e4d5e29f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Light filtering shades offer a brightening effect and adjustable privacy through their unique fabrics and different window treatment options. When fully closed, these shades transform harsh light into a soft glow, creating the ideal lighting for any room.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20462359216445__66fed798-09f2-4bc9-ac9c-e311e4d5e29f-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20462359216445__66fed798-09f2-4bc9-ac9c-e311e4d5e29f-subheading-1",
+        "template--20462359216445__66fed798-09f2-4bc9-ac9c-e311e4d5e29f-heading-1",
+        "template--20462359216445__66fed798-09f2-4bc9-ac9c-e311e4d5e29f-text-1",
+        "template--20462359216445__66fed798-09f2-4bc9-ac9c-e311e4d5e29f-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "1",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "95c4c56f-4033-4559-9e6a-31abeb7e1851": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--20461842399549__95c4c56f-4033-4559-9e6a-31abeb7e1851-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Roller Shades",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20461842399549__95c4c56f-4033-4559-9e6a-31abeb7e1851-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thermal insulation, UV Protection, Energy Saving, Privacy Protection.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20461842399549__95c4c56f-4033-4559-9e6a-31abeb7e1851-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/collections",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20461842399549__95c4c56f-4033-4559-9e6a-31abeb7e1851-heading-1",
+        "template--20461842399549__95c4c56f-4033-4559-9e6a-31abeb7e1851-text-1",
+        "template--20461842399549__95c4c56f-4033-4559-9e6a-31abeb7e1851-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "1"
+      }
+    },
+    "9d0f78bc-882c-44c3-b5e0-1475456db5a2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20461842399549__9d0f78bc-882c-44c3-b5e0-1475456db5a2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Light Filtering Roller Shades",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20461842399549__9d0f78bc-882c-44c3-b5e0-1475456db5a2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Allow natural light to enter the room while providing privacy and UV protection.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20461842399549__9d0f78bc-882c-44c3-b5e0-1475456db5a2-button-1": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/collections\/frontpage",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20461842399549__9d0f78bc-882c-44c3-b5e0-1475456db5a2-heading-1",
+        "template--20461842399549__9d0f78bc-882c-44c3-b5e0-1475456db5a2-text-1",
+        "template--20461842399549__9d0f78bc-882c-44c3-b5e0-1475456db5a2-button-1"
+      ],
+      "settings": {
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "dbd601c6-7363-45a8-b65f-0db805e72a28": {
+      "type": "featured-product",
+      "blocks": {
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-vendor-sku-1": {
+          "type": "vendor-sku",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": true
+          }
+        },
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-title-1": {
+          "type": "title",
+          "settings": {}
+        },
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-price-1": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": true
+          }
+        },
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-divider-1": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-variant-picker-1": {
+          "type": "variant-picker",
+          "settings": {
+            "selector_style": "buttons",
+            "enable_dynamic_availability": true,
+            "show_backorder_text": true,
+            "enable_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-buy-buttons-1": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": true
+          }
+        },
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-divider-2": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-view-more-button-1": {
+          "type": "view-more-button",
+          "settings": {
+            "button_label": "Full details",
+            "text_align": "text-start"
+          }
+        }
+      },
+      "block_order": [
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-vendor-sku-1",
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-title-1",
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-price-1",
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-divider-1",
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-variant-picker-1",
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-buy-buttons-1",
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-divider-2",
+        "template--20461842399549__dbd601c6-7363-45a8-b65f-0db805e72a28-view-more-button-1"
+      ],
+      "settings": {
+        "product": "smart-motorized-dual-zebra-shades-100-blackout-75mm",
+        "media_ratio": "natural",
+        "media_crop": "none",
+        "hover_zoom": "large",
+        "enable_video_looping": false,
+        "color_scheme": "none",
+        "border_color": "rgba(0,0,0,0)",
+        "bg_color": "#f4f4f4"
+      }
+    },
+    "4d84d079-f58b-4eda-a82a-672b1fa5bb89": {
+      "type": "image-banner",
+      "blocks": {
+        "d8d5b9ce-8c96-47ed-9a19-f70faf4e0431": {
+          "type": "heading",
+          "settings": {
+            "heading": "Zebra Shades",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "0bc10219-abef-427a-9b01-e3fbe603dcdd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A unique combination of sheer and opaque fabrics that can be easily adjusted to control the amount of light entering the room and ensure the privacy.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "bfbeac0f-62fd-471c-b969-98c2c6564e8f": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/collections\/frontpage",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "d8d5b9ce-8c96-47ed-9a19-f70faf4e0431",
+        "0bc10219-abef-427a-9b01-e3fbe603dcdd",
+        "bfbeac0f-62fd-471c-b969-98c2c6564e8f"
+      ],
+      "settings": {
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "4bb4364c-26ae-4c09-989a-4c97d3fc146c": {
+      "type": "featured-product",
+      "blocks": {
+        "d21979af-7018-4bab-a06e-a7111d304e0e": {
+          "type": "vendor-sku",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": true
+          }
+        },
+        "74d298c6-1454-44a7-a5b6-3a2f1ed396e2": {
+          "type": "title",
+          "settings": {}
+        },
+        "15393d82-2cf6-4267-8144-f5fd56818894": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": true
+          }
+        },
+        "be6ea7aa-1eb4-4df1-95d5-05aad8042997": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "a33cad4d-b60a-4b40-9cf2-dc47f1b5aff3": {
+          "type": "variant-picker",
+          "settings": {
+            "selector_style": "buttons",
+            "enable_dynamic_availability": true,
+            "show_backorder_text": true,
+            "enable_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "db411020-f5ba-404b-9277-b9d385803721": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": true
+          }
+        },
+        "e3a36be8-fd01-475f-8172-8a4059da9d56": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "bf2cf856-93fa-4c88-916c-616da75323a8": {
+          "type": "view-more-button",
+          "settings": {
+            "button_label": "Full details",
+            "text_align": "text-start"
+          }
+        }
+      },
+      "block_order": [
+        "d21979af-7018-4bab-a06e-a7111d304e0e",
+        "74d298c6-1454-44a7-a5b6-3a2f1ed396e2",
+        "15393d82-2cf6-4267-8144-f5fd56818894",
+        "be6ea7aa-1eb4-4df1-95d5-05aad8042997",
+        "a33cad4d-b60a-4b40-9cf2-dc47f1b5aff3",
+        "db411020-f5ba-404b-9277-b9d385803721",
+        "e3a36be8-fd01-475f-8172-8a4059da9d56",
+        "bf2cf856-93fa-4c88-916c-616da75323a8"
+      ],
+      "settings": {
+        "product": "smart-motorized-dual-zebra-shades-100-blackout-75mm",
+        "media_ratio": "natural",
+        "media_crop": "none",
+        "hover_zoom": "large",
+        "enable_video_looping": false,
+        "color_scheme": "none",
+        "border_color": "rgba(0,0,0,0)",
+        "bg_color": "#f4f4f4"
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "15 years of industry expertise, guaranteeing unmatched quality and style for your home.",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "rich-text-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-heading-1",
+        "rich-text-text-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "66fed798-09f2-4bc9-ac9c-e311e4d5e29f",
+    "95c4c56f-4033-4559-9e6a-31abeb7e1851",
+    "9d0f78bc-882c-44c3-b5e0-1475456db5a2",
+    "dbd601c6-7363-45a8-b65f-0db805e72a28",
+    "4d84d079-f58b-4eda-a82a-672b1fa5bb89",
+    "4bb4364c-26ae-4c09-989a-4c97d3fc146c",
+    "rich-text-1",
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed"
+  ]
+}

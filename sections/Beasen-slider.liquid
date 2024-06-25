@@ -1,0 +1,248 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<style>
+  .beasen_slider--main{
+    padding:50px 0px;
+  }
+  .beasen_slider .slick-slide{
+    margin: 0px 0px 0px 30px;
+  }
+  .beasen_slider{
+     margin: 0px 0px 0px -30px;
+  }
+  .beasen_slide{
+    background: #EDEDED;
+    display: block;
+    padding: 25px 20px 80px;
+    text-align: center;
+    border-bottom: 2px solid transparent;
+    height: 100%;
+  }
+  .beasen_slide:hover{
+    background:#F3F3F3;
+    border-bottom: 2px solid #3674BE;
+  }
+  .beasen_slide:hover .beasen_slide--image img{
+    filter: initial;
+    opacity: 100%;
+  }
+  .beasen_slide--image{
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  .beasen_slide--image img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: bottom;
+    /* filter: saturate(.25); */
+    opacity: 25%;    
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+  .beasen_slide h3{
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #000;
+    opacity: .25;
+    margin: 10px 0 0;
+  }
+  .beasen_slide--content{
+    color: #000;
+    opacity: .65;
+    line-height: 20px;
+    margin-top: 60px;
+    display: block;
+  }
+  .beasen_slider .slick-dots{
+    bottom: -75px;
+    left: 10px;
+  }
+  .beasen_slider .slick-dots li{
+    width: 60px;
+    height: 2px;
+    margin: 0 5px;
+  }
+  .beasen_slider .slick-dots li button{
+    width: 100%;
+    height: 2px;
+    background: #3674BE;
+    border-radius: 10px;
+    opacity: 50%;
+    padding:0px;
+  }
+  .beasen_slider .slick-dots li.slick-active button{
+    opacity: 100%;
+  }
+  .beasen_slider .slick-dots li button:before{
+    display:none;
+  }
+  @media(max-width:767px){
+    .beasen_slider .slick-list{
+      padding:0px !Important;
+    }
+    .beasen_slider .slick-slide {
+    margin: 0px 0px 0px 10px;
+}
+    .beasen_slider {
+    margin: 0px 0px 0px -10px;
+}
+    .slick-center .beasen_slide{
+    background:#F3F3F3;
+    border-bottom: 2px solid #3674BE;
+  }
+    .slick-center .beasen_slide .beasen_slide--image img{
+    filter: initial;
+    opacity: 100%;
+  }
+    .beasen_slider .slick-slide{
+      width:280px;
+    }
+  }
+</style>
+
+<div class="beasen_slider--main">
+  <div class="container">
+    <div class="section__header items-center flex{% if section.settings.heading_align == 'text-center' %} flex-col text-center{% elsif section.settings.heading_align == 'text-end' %} flex-row-reverse flex-wrap{% else %} flex-row flex-wrap{% endif %} gap-x-theme"{% if settings.animations_enabled != "disabled" %} data-cc-animate{% endif %}>
+      {%- if section.settings.title != blank -%}
+        <h2 class="h4 section__heading mb-0 flex-auto {{ section.settings.heading_align }}">
+          {{- section.settings.title | escape -}}
+        </h2>
+      {%- endif -%}
+    </div>
+    <div class="beasen_slider">
+      {% for block in section.blocks %}
+        <div>
+          <div class="beasen_slide">
+            <a href="{{ block.settings.link_url }}">
+              <span class="beasen_slide--image">
+                <img src="{{ block.settings.image | img_url: 'master' }}">
+              </span>
+              <h3>{{ block.settings.link_title }}</h3>
+              <span class="beasen_slide--content">{{ block.settings.link_text }}</span>
+            </a>
+          </div>
+        </div>
+        
+        {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+  $('.beasen_slider').slick({
+  dots: false,
+  infinite: false,
+  speed: 300,
+  slidesToShow: 4,
+  slidesToScroll: 1,
+  responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        infinite: false,
+        dots: true,
+        centerMode: true
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2,
+         dots: true
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+         dots: true,
+        centerMode: true,
+         variableWidth: true,
+        centerPadding: '40px'
+      }
+    }
+  ]
+});
+</script>
+
+
+
+{% schema %}
+  {
+    "name": "Beasen Slider",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Heading",
+        "default": "Multi-column"
+      }
+    ],
+    "blocks": [
+    {
+      "type": "column",
+      "name": "Column",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "link_title",
+          "label": "Text"
+      },
+       {
+        "type": "richtext",
+        "id": "link_text",
+        "label": "content"
+      },
+        {
+        "type": "url",
+        "id": "link_url",
+        "label": "URL"
+      }
+      ]
+    }
+    ],
+    "presets": [
+    {
+      "name": "Beasen Slider",
+      "blocks": [
+        {
+          "type": "column"
+        },
+        {
+          "type": "column"
+        },
+        {
+          "type": "column"
+        },
+        {
+          "type": "column"
+        }
+      ]
+    }
+  ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

@@ -1,0 +1,564 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "SMART CONNECTIONS"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cleaning Guide",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/new-banner.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "8be9d2ce-43c5-4697-9ebb-e9bed527f6cd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20340174356797__8be9d2ce-43c5-4697-9ebb-e9bed527f6cd-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20340174356797__8be9d2ce-43c5-4697-9ebb-e9bed527f6cd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Keep Your Blinds Looking Brand New",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "template--20340174356797__8be9d2ce-43c5-4697-9ebb-e9bed527f6cd-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beasen Home smart blinds are built to last, so it's important to keep them looking pristine as time passes. Follow these easy tips to keep your blinds looking their best.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20340174356797__8be9d2ce-43c5-4697-9ebb-e9bed527f6cd-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20340174356797__8be9d2ce-43c5-4697-9ebb-e9bed527f6cd-subheading-1",
+        "template--20340174356797__8be9d2ce-43c5-4697-9ebb-e9bed527f6cd-heading-1",
+        "template--20340174356797__8be9d2ce-43c5-4697-9ebb-e9bed527f6cd-text-1",
+        "template--20340174356797__8be9d2ce-43c5-4697-9ebb-e9bed527f6cd-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "1",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "212768fa-b8c0-48f0-8a40-712078e71298": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vacuum.jpg",
+            "heading": "Vacuum",
+            "text": "<p>For deeper cleaning, lightly vacuum with the upholstery or brush attachment of any vacuum cleaner.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ba3521a3-2e74-4083-9d60-960dd6cb250d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/clean_methods-52.jpg",
+            "heading": "Spot Clean",
+            "text": "<p>Use a soft cloth, mild detergent, and warm water. Blot gently, then allow the blinds to dry. Be careful not to crush or wrinkle fabric shades.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5fe0ead8-e9dd-4508-8d0b-c5afba2045e9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dust_new.jpg",
+            "heading": "Dust",
+            "text": "<p>Keep your blinds clean and looking great by dusting every one-to-two weeks.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2",
+        "ba3521a3-2e74-4083-9d60-960dd6cb250d",
+        "5fe0ead8-e9dd-4508-8d0b-c5afba2045e9"
+      ],
+      "settings": {
+        "bg": "transparent",
+        "add_padding": false,
+        "title": "Effective Cleaning Methods",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "medium",
+        "column_align": "center",
+        "image_ratio": "shortest",
+        "image_width": "w-2\/3",
+        "color_scheme": "3",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "026220c3-072f-4cac-8cb5-f23efbfa2019": {
+      "type": "media-with-text",
+      "blocks": {
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677": {
+          "type": "heading",
+          "settings": {
+            "heading": "Power Display",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "3736f12f-21f9-4784-af9e-a378396b89ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Does wondering how's the battery level? Still slip to the related page for obtaining the info.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677",
+        "3736f12f-21f9-4784-af9e-a378396b89ba"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "29fca5b5-0547-4ba3-9c72-beccfc005344": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20340174356797__29fca5b5-0547-4ba3-9c72-beccfc005344-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20340174356797__29fca5b5-0547-4ba3-9c72-beccfc005344-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cleaning Various Motorized Blinds and Shades",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20340174356797__29fca5b5-0547-4ba3-9c72-beccfc005344-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20340174356797__29fca5b5-0547-4ba3-9c72-beccfc005344-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20340174356797__29fca5b5-0547-4ba3-9c72-beccfc005344-subheading-1",
+        "template--20340174356797__29fca5b5-0547-4ba3-9c72-beccfc005344-heading-1",
+        "template--20340174356797__29fca5b5-0547-4ba3-9c72-beccfc005344-text-1",
+        "template--20340174356797__29fca5b5-0547-4ba3-9c72-beccfc005344-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "1",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "7531e1a0-6847-4a10-9c79-775c76b430c4": {
+      "type": "media-with-text",
+      "blocks": {
+        "025468ac-0134-4455-a94d-b623cf28dd70": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cleaning Roller Shades",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "31d9c101-9df5-4154-ae21-035e0a4d88a2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To keep their shape, motorized cellular blinds need to be cleaned with extra care.<\/p><p>Use a gentle brush attachment on a vacuum for general dusting.<\/p><p>Use only the cold air setting and the lowest air setting.<\/p><p>The use of water should be avoided as it could harm the structure of the shade.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "025468ac-0134-4455-a94d-b623cf28dd70",
+        "31d9c101-9df5-4154-ae21-035e0a4d88a2"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/roller-71.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "e329f518-f0ef-4584-9ac2-a99e7fa308f5": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cleaning Zebra Blinds",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Start by using a feather duster or a dry cloth to remove dust buildup.<\/p><p>Follow this step by cautiously and gently passing a vacuum with a brush attachment over your blinds. If possible, set your vacuum to the lowest possible setting to prevent damage to your blinds. <\/p><p>If necessary, you may spot clean your blinds by gently dabbing warm water and a mild detergent.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-heading-1",
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-text-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/zebra-70.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "d1b2f4fa-6823-400e-bab2-c39f416359f8": {
+      "type": "media-with-text",
+      "blocks": {
+        "a30a4823-6aa5-42a2-8e1e-d1e838a94073": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cleaning Shangri La Shades",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "8f7a11b9-09d6-4bf5-b320-767818110102": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gently swipe your vacuum with a soft brush attachment to lift away dust and dirt. Support the fabric from the pack to prevent it from being sucked into your vacuum and causing damage.<\/p><p>To remove stubborn dirt, you can use a damp, sponge or soft cloth to gently spot clean. Be sure to use warm and a mild detergent.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "a30a4823-6aa5-42a2-8e1e-d1e838a94073",
+        "8f7a11b9-09d6-4bf5-b320-767818110102"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/shangrila-90.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "ba598b82-2416-4f4b-b869-e3dc328471af": {
+      "type": "media-with-text",
+      "blocks": {
+        "4e2e8b7c-b4bc-4c09-86ec-f4a61626789b": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cleaning Clean Solar Shades",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "3ac89303-e893-44fb-81b6-739cc6c4ac00": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wipe your solar shades with a soft cloth and warm, soapy water for general cleaning. Allow the shades time to dry.<\/p><p>To remove dirt and dust from your solar shades, use a soft brush attachment on your vacuum and gently swipe across the fabric. Support the fabric from the pack to prevent it from being sucked into your vacuum and causing damage.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "4e2e8b7c-b4bc-4c09-86ec-f4a61626789b",
+        "3ac89303-e893-44fb-81b6-739cc6c4ac00"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/solar-72.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "25de0a64-3bf4-426b-9ee5-a487d2f87b81": {
+      "type": "media-with-text",
+      "blocks": {
+        "ec468197-2bbf-4a27-920f-fa1b1ef9c1b0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cleaning Outdoor Shades",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "9c502927-6d04-4680-8078-29c279d15b16": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use a feather duster to quickly remove any surface dust and dirt from the shades.<\/p><p>Use the soft brush attachment on your vacuum to remove stubborn dirt left behind after you've dusted. Gently swipe across the fabric, taking care not to allow the fabric to be sucked into the vacuum.<\/p><p>Finally, use a sponge or soft cloth, warm water, and a mild detergent to gently spot clean any remaining imperfections.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "ec468197-2bbf-4a27-920f-fa1b1ef9c1b0",
+        "9c502927-6d04-4680-8078-29c279d15b16"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/outdoor-73.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "de040e19-8431-4608-8421-a6b360233945": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20340174356797__de040e19-8431-4608-8421-a6b360233945-column-1": {
+          "type": "column",
+          "settings": {
+            "heading": "Be Gentle",
+            "text": "<p>It is important to be cautious when cleaning your smart blinds. Cleaning too roughly can damage the fabrics<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20340174356797__de040e19-8431-4608-8421-a6b360233945-column-2": {
+          "type": "column",
+          "settings": {
+            "heading": "Clean Regularly",
+            "text": "<p>Cleaning your blinds regularly will help keep them looking brand-new longer.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20340174356797__de040e19-8431-4608-8421-a6b360233945-column-3": {
+          "type": "column",
+          "settings": {
+            "heading": "Use the Right Tools",
+            "text": "<p>Using the proper tools will help prevent you from damaging your blinds while cleaning them. A Lamb's wool cloth or a rubber sponge are safe choices to use.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20340174356797__de040e19-8431-4608-8421-a6b360233945-column-1",
+        "template--20340174356797__de040e19-8431-4608-8421-a6b360233945-column-2",
+        "template--20340174356797__de040e19-8431-4608-8421-a6b360233945-column-3"
+      ],
+      "settings": {
+        "bg": "transparent",
+        "add_padding": false,
+        "title": "Cleaning Tips",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "two_col": false,
+        "column_size": "medium",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2": {
+      "type": "faq",
+      "blocks": {
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1": {
+          "type": "category",
+          "settings": {
+            "text": "Shipping"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "What countries do you ship to?",
+            "text": "<p>We currently ship to the United States, Canada, Australia and the UK. To enquire about shipping to a different destination, please contact us.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How long will it take to receive my order?",
+            "text": "<p>Standard shipping normally takes 3-5 days. Next day shipping is available on all domestic orders (for an additional charge). International shipping times depend on the products and destination (estimated at checkout).<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How do I return a product?",
+            "text": "<p>Items must be returned within 30 days after receiving your order. Items must be returned in the same condition in which they were received, be unworn\/unused, have any tags still attached, and include all the original packaging.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How long will it take to receive my refund?",
+            "text": "<p>Refunds are processed within 7 days from when we receive the item(s).<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "FAQ",
+        "heading_align": "text-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "8be9d2ce-43c5-4697-9ebb-e9bed527f6cd",
+    "212768fa-b8c0-48f0-8a40-712078e71298",
+    "026220c3-072f-4cac-8cb5-f23efbfa2019",
+    "29fca5b5-0547-4ba3-9c72-beccfc005344",
+    "7531e1a0-6847-4a10-9c79-775c76b430c4",
+    "e329f518-f0ef-4584-9ac2-a99e7fa308f5",
+    "d1b2f4fa-6823-400e-bab2-c39f416359f8",
+    "ba598b82-2416-4f4b-b869-e3dc328471af",
+    "25de0a64-3bf4-426b-9ee5-a487d2f87b81",
+    "de040e19-8431-4608-8421-a6b360233945",
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2"
+  ]
+}

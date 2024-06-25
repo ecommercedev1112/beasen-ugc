@@ -1,0 +1,479 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wireless Protocols",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/banner-92.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "d6c96509-e4cf-4e48-b106-4278833a0127": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20300586058045__d6c96509-e4cf-4e48-b106-4278833a0127-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20300586058045__d6c96509-e4cf-4e48-b106-4278833a0127-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Communication Technology",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "template--20300586058045__d6c96509-e4cf-4e48-b106-4278833a0127-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beasen Home smart blinds use a variety of wireless protocols to communicate with your smart devices. Learn the pros and cons of each protocol to find the one that's right for you.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20300586058045__d6c96509-e4cf-4e48-b106-4278833a0127-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20300586058045__d6c96509-e4cf-4e48-b106-4278833a0127-subheading-1",
+        "template--20300586058045__d6c96509-e4cf-4e48-b106-4278833a0127-heading-1",
+        "template--20300586058045__d6c96509-e4cf-4e48-b106-4278833a0127-text-1",
+        "template--20300586058045__d6c96509-e4cf-4e48-b106-4278833a0127-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "a869a4f9-77c1-4ff4-af38-f8c32430bbf2": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--20300586058045__a869a4f9-77c1-4ff4-af38-f8c32430bbf2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Matter",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "template--20300586058045__a869a4f9-77c1-4ff4-af38-f8c32430bbf2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Matter, also known as Project CHIP (Connected Home over IP), is a new open-source smart home platform that has been developed by major technology companies, including Apple, Google, and Amazon. It is designed to simplify the way smart home devices work by providing a standardized communication protocol, which enables these devices to work together seamlessly. With Matter, users can control their smart home devices using a single app, regardless of the manufacturer or brand of the device. This makes it easier for consumers to set up and use their smart home systems, and ensures that all devices will work together, even if new devices are added in the future. <\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20300586058045__a869a4f9-77c1-4ff4-af38-f8c32430bbf2-heading-1",
+        "template--20300586058045__a869a4f9-77c1-4ff4-af38-f8c32430bbf2-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "6700641f-e374-4ca5-8ee3-d919b6a4607a": {
+      "type": "media-with-text",
+      "blocks": {
+        "c33080a4-6841-4aff-98ea-f38196c058d3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Thread",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "eede4fdf-739d-4d8a-bf27-3b43c50bdcb5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thread is the native protocol used by Apple HomeKit and is well-known for its being ultra secure and extremely reliable. It is a low-data, low-power-rate wireless protocol that operates in the 2.4GHz frequency. The Beasen Home Thread motor can be directly connected to Apple HomeKit, simply scan the QR code to add your shades to the Home app and enjoy smart control.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "c33080a4-6841-4aff-98ea-f38196c058d3",
+        "eede4fdf-739d-4d8a-bf27-3b43c50bdcb5"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/wp_protocols-22.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "0a6c5223-8d0a-428d-b0cc-0ef82c0294f2": {
+      "type": "media-with-text",
+      "blocks": {
+        "e5024b55-3cd9-4648-ae48-a7d6a8b29fc7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Zigbee",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "3f7d82be-0278-424c-97c4-5827c311012e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zigbee is a data-efficient wireless protocol designed to be used with smart devices and home automation systems. It features 2.4GHz technology and consumes low amounts of power.Our Zigbee motor uses Zigbee connect directly with most versions of Amazon Alexa. It is also compatible with a wide variety of Zigbee hubs.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "e5024b55-3cd9-4648-ae48-a7d6a8b29fc7",
+        "3f7d82be-0278-424c-97c4-5827c311012e"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/wp_protocols-23.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "63200481-aa41-4d7e-b345-9e00120efb51": {
+      "type": "media-with-text",
+      "blocks": {
+        "17cb5dee-9ac5-4ba4-a801-7fdf1810baf5": {
+          "type": "heading",
+          "settings": {
+            "heading": "Z-Wave",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "561ead7a-3f8d-4e17-9ec5-7af97d405d5a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Z-Wave is specifically designed for smart home devices like smart blinds. The Beasen Home Z-Wave motor is compatible with a variety ofsystems and smart devices, including Amazon Alexa, Google Assistant, SmartThings App, Home Assistant, and Hubitat.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "17cb5dee-9ac5-4ba4-a801-7fdf1810baf5",
+        "561ead7a-3f8d-4e17-9ec5-7af97d405d5a"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/wp_protocols-24.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "2d5b230a-3105-496a-8513-137a69acdefa": {
+      "type": "media-with-text",
+      "blocks": {
+        "b31cf443-8ce5-437e-86c9-5190f6a47f51": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wi-Fi",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "86c5ff1d-bb5a-4096-abfe-19ec2b551c96": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wi-Fi is a high-speed, high-data-rate wireless protocol widely used in consumer electronics and home automation systems. <strong>SmartWings motorized Wi-Fi motor operates in the 2.4GHz frequency bands with fast data transfer speeds and strong signal range. No additional hub is required as it works with Amazon Alexa, SmartThings, Google Assistant, and IFTTT.<\/strong> Note: SmartWings Wi-Fi motor is a non-battery DC\/AC motor.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "b31cf443-8ce5-437e-86c9-5190f6a47f51",
+        "86c5ff1d-bb5a-4096-abfe-19ec2b551c96"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "ba4b27f6-89e2-4654-a51c-ef0465ca2c7d": {
+      "type": "media-with-text",
+      "blocks": {
+        "5fa9c388-a510-4ba0-b61d-85914ac4022e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bluetooth (BLE)",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "9750aa5b-bec7-44bc-b3c8-4a9e9f2ea78e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bluetooth Low Energy (BLE) is a wireless communication protocol designed to prioritize minimal power consumption. Our Beasen Home HomeKit motor uses BLE to connect with Apple HomeKit through Bluetooth technology. You do not need a hub, gateway, or bridge to connect to the homekit motor to Apple Homekit<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "5fa9c388-a510-4ba0-b61d-85914ac4022e",
+        "9750aa5b-bec7-44bc-b3c8-4a9e9f2ea78e"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/wp_protocols-25.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "0b062782-4e41-4c65-9183-4b18910d209a": {
+      "type": "media-with-text",
+      "blocks": {
+        "9957bf75-6278-4b60-a4f6-d3683bf0c0db": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sub-1 GHz",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "56e4fef5-998c-4b70-ace2-28725d1b230f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sub-1 GHz wireless technology uses communication that takes place at frequencies below the 1 GHz threshold. This particular technology finds widespread application in wireless remote control scenarios owing to its capacity for extended-range communication, minimal power usage, and effective penetration through obstacles like walls.<\/p><p><\/p><p>The Beasen Home remote effectively harnesses this technology, allowing you to command your shades from distances of up to 120 feet (36 meters), enhancing the convenience of your daily life.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "9957bf75-6278-4b60-a4f6-d3683bf0c0db",
+        "56e4fef5-998c-4b70-ace2-28725d1b230f"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/wp_protocols-26.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-text-2"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "026220c3-072f-4cac-8cb5-f23efbfa2019": {
+      "type": "media-with-text",
+      "blocks": {
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677": {
+          "type": "heading",
+          "settings": {
+            "heading": "Power Display",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "3736f12f-21f9-4784-af9e-a378396b89ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Does wondering how's the battery level? Still slip to the related page for obtaining the info.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677",
+        "3736f12f-21f9-4784-af9e-a378396b89ba"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "d6c96509-e4cf-4e48-b106-4278833a0127",
+    "a869a4f9-77c1-4ff4-af38-f8c32430bbf2",
+    "6700641f-e374-4ca5-8ee3-d919b6a4607a",
+    "0a6c5223-8d0a-428d-b0cc-0ef82c0294f2",
+    "63200481-aa41-4d7e-b345-9e00120efb51",
+    "2d5b230a-3105-496a-8513-137a69acdefa",
+    "ba4b27f6-89e2-4654-a51c-ef0465ca2c7d",
+    "0b062782-4e41-4c65-9183-4b18910d209a",
+    "rich-text-1",
+    "026220c3-072f-4cac-8cb5-f23efbfa2019",
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed"
+  ]
+}

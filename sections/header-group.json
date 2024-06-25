@@ -1,0 +1,349 @@
+{
+  "type": "header",
+  "name": "Header Group",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p><strong>Welcome to our store<\/strong> <a href=\"\/collections\/all\" title=\"All products\">Learn more<\/a><\/p>"
+          }
+        },
+        "announcement-2": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p><strong>New collections added!<\/strong> <a href=\"\/collections\" title=\"All collections\">Learn more<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-1",
+        "announcement-2"
+      ],
+      "settings": {
+        "link1": "",
+        "link1_label": "",
+        "link2": "",
+        "link2_label": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "bg_color": "#000000",
+        "text_color": "#ffffff",
+        "text_type_scale": "small",
+        "read_time": 7
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "2220a934-7bfd-430f-af79-047a2b407913": {
+          "type": "sidebar",
+          "settings": {
+            "title": "Shades & Blinds",
+            "collection_images": "none",
+            "collection_use_product_image": false,
+            "show_underline": true,
+            "show_collection_images": true,
+            "sidebar_link_use_product_image": false,
+            "show_product_images": true,
+            "aspect_ratio": "1",
+            "badge1_color": "#000000",
+            "badge1_link": "",
+            "badge1_text": "",
+            "badge2_color": "#000000",
+            "badge2_link": "",
+            "badge2_text": "",
+            "badge3_color": "#000000",
+            "badge3_link": "",
+            "badge3_text": ""
+          }
+        },
+        "066509f0-6680-4bad-bfec-1e800af20792": {
+          "type": "sidebar",
+          "disabled": true,
+          "settings": {
+            "title": "Accessories",
+            "collection_images": "none",
+            "collection_use_product_image": false,
+            "show_underline": true,
+            "show_collection_images": true,
+            "sidebar_link_use_product_image": false,
+            "show_product_images": true,
+            "aspect_ratio": "1",
+            "badge1_color": "#000000",
+            "badge1_link": "",
+            "badge1_text": "",
+            "badge2_color": "#000000",
+            "badge2_link": "",
+            "badge2_text": "",
+            "badge3_color": "#000000",
+            "badge3_link": "",
+            "badge3_text": ""
+          }
+        },
+        "ab88208e-08e0-4958-a039-cbbc58243b59": {
+          "type": "pills",
+          "disabled": true,
+          "settings": {
+            "title": "Help Center",
+            "collection_images": "none",
+            "collection_use_product_image": false,
+            "promo_position": "bottom",
+            "promo_min_height": 200,
+            "promo_text_color": "#ffffff",
+            "promo_tint_color": "#000000",
+            "promo_tint_opacity": 20,
+            "promo1_content": "",
+            "promo1_link_url": "",
+            "promo1_text_size": 16,
+            "promo1_text_width": 100,
+            "promo1_text_alignment": "justify-center items-center text-center",
+            "promo2_content": "",
+            "promo2_link_url": "",
+            "promo2_text_size": 16,
+            "promo2_text_width": 100,
+            "promo2_text_alignment": "justify-center items-center text-center",
+            "promo3_content": "",
+            "promo3_link_url": "",
+            "promo3_text_size": 16,
+            "promo3_text_width": 100,
+            "promo3_text_alignment": "justify-center items-center text-center"
+          }
+        },
+        "9fa8c6f3-666f-432a-9531-2bd85b76ed32": {
+          "type": "pills",
+          "disabled": true,
+          "settings": {
+            "title": "Information",
+            "collection_images": "none",
+            "collection_use_product_image": false,
+            "promo_position": "bottom",
+            "promo_min_height": 200,
+            "promo_text_color": "#ffffff",
+            "promo_tint_color": "#000000",
+            "promo_tint_opacity": 20,
+            "promo1_content": "",
+            "promo1_link_url": "",
+            "promo1_text_size": 16,
+            "promo1_text_width": 100,
+            "promo1_text_alignment": "justify-center items-center text-center",
+            "promo2_content": "",
+            "promo2_link_url": "",
+            "promo2_text_size": 16,
+            "promo2_text_width": 100,
+            "promo2_text_alignment": "justify-center items-center text-center",
+            "promo3_content": "",
+            "promo3_link_url": "",
+            "promo3_text_size": 16,
+            "promo3_text_width": 100,
+            "promo3_text_alignment": "justify-center items-center text-center"
+          }
+        },
+        "b5b66010-637e-48b6-9067-a3310ab54af6": {
+          "type": "pills",
+          "disabled": true,
+          "settings": {
+            "title": "Technology",
+            "collection_images": "none",
+            "collection_use_product_image": false,
+            "promo_position": "bottom",
+            "promo_min_height": 200,
+            "promo_text_color": "#ffffff",
+            "promo_tint_color": "#000000",
+            "promo_tint_opacity": 20,
+            "promo1_content": "",
+            "promo1_link_url": "",
+            "promo1_text_size": 16,
+            "promo1_text_width": 100,
+            "promo1_text_alignment": "justify-center items-center text-center",
+            "promo2_content": "",
+            "promo2_link_url": "",
+            "promo2_text_size": 16,
+            "promo2_text_width": 100,
+            "promo2_text_alignment": "justify-center items-center text-center",
+            "promo3_content": "",
+            "promo3_link_url": "",
+            "promo3_text_size": 16,
+            "promo3_text_width": 100,
+            "promo3_text_alignment": "justify-center items-center text-center"
+          }
+        },
+        "afd0a277-9cb0-4a67-bf27-44bd935fccb3": {
+          "type": "columns",
+          "disabled": true,
+          "settings": {
+            "title": "Accessories",
+            "collection_images": "none",
+            "collection_use_product_image": false,
+            "show_underline": true,
+            "promo_position": "bottom",
+            "promo_min_height": 200,
+            "promo_text_color": "#ffffff",
+            "promo_tint_color": "#000000",
+            "promo_tint_opacity": 20,
+            "promo1_content": "",
+            "promo1_link_url": "",
+            "promo1_text_size": 16,
+            "promo1_text_width": 100,
+            "promo1_text_alignment": "justify-center items-center text-center",
+            "promo2_content": "",
+            "promo2_link_url": "",
+            "promo2_text_size": 16,
+            "promo2_text_width": 100,
+            "promo2_text_alignment": "justify-center items-center text-center",
+            "promo3_content": "",
+            "promo3_link_url": "",
+            "promo3_text_size": 16,
+            "promo3_text_width": 100,
+            "promo3_text_alignment": "justify-center items-center text-center",
+            "badge1_color": "#000000",
+            "badge1_link": "",
+            "badge1_text": "",
+            "badge2_color": "#000000",
+            "badge2_link": "",
+            "badge2_text": "",
+            "badge3_color": "#000000",
+            "badge3_link": "",
+            "badge3_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "2220a934-7bfd-430f-af79-047a2b407913",
+        "066509f0-6680-4bad-bfec-1e800af20792",
+        "ab88208e-08e0-4958-a039-cbbc58243b59",
+        "9fa8c6f3-666f-432a-9531-2bd85b76ed32",
+        "b5b66010-637e-48b6-9067-a3310ab54af6",
+        "afd0a277-9cb0-4a67-bf27-44bd935fccb3"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "mobile_menu_position": "burger-right",
+        "logo_text": "",
+        "logo_type_scale": "2",
+        "logo": "shopify:\/\/shop_images\/Beasen-Logo.png",
+        "logo_width": 150,
+        "logo_h1": true,
+        "enable_search": true,
+        "minimise_search_mobile": false,
+        "minimise_search_desktop": false,
+        "menu": "main-menu-0912",
+        "repeat_links": true,
+        "menu_featured_link": "Shades & Blinds",
+        "quicklinks_menu": "",
+        "bg_color": "#ffffff",
+        "text_color": "#070707",
+        "accent_color": "#1a74c4"
+      }
+    },
+    "5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d": {
+      "type": "icons-with-text",
+      "blocks": {
+        "sections--19903440552253__5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d-item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "truck",
+            "heading": "Free shipping",
+            "text": "",
+            "link": ""
+          }
+        },
+        "sections--19903440552253__5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d-item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "price_tag",
+            "heading": "Lowest Price Guarantee",
+            "text": "",
+            "link": ""
+          }
+        },
+        "sections--19903440552253__5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d-item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "return",
+            "heading": "Limited Lifetime Warranty",
+            "text": "",
+            "link": ""
+          }
+        },
+        "sections--19903440552253__5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d-item-4": {
+          "type": "item",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Easy Installation",
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--19903440552253__5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d-item-1",
+        "sections--19903440552253__5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d-item-2",
+        "sections--19903440552253__5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d-item-3",
+        "sections--19903440552253__5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d-item-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_align": "text-start",
+        "icon_size": 32,
+        "icon_position": "beside",
+        "section_height": "xsmall",
+        "color_scheme": "2",
+        "full_width": true,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "promo-strip": {
+      "type": "promo-strip",
+      "blocks": {
+        "heading-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome Coupon",
+            "heading_size": "h6",
+            "show_on_mobile": false,
+            "show_on_desktop": true
+          }
+        },
+        "text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy the extra 10% off for your first order.<\/p>",
+            "enlarge_text": false,
+            "show_on_mobile": false,
+            "show_on_desktop": true
+          }
+        },
+        "discount-2": {
+          "type": "discount",
+          "settings": {
+            "discount_code": "WELCOME10"
+          }
+        }
+      },
+      "block_order": [
+        "heading-0",
+        "text-1",
+        "discount-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "xsmall",
+        "color_scheme": "1",
+        "full_width": true,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header",
+    "5b94cfc8-ebf9-4ce6-bb4b-4745d82c562d",
+    "promo-strip"
+  ]
+}

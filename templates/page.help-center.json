@@ -1,0 +1,637 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "SMART CONNECTIONS"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "HELP CENTER",
+            "heading_size": "h0",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use Beasen smart link to set up, manage, and control your shades from Google Home. Take advantage of the Google Assistant to control your shades with your voice in a natural way.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/banner-33.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 500,
+        "fixed_height_mobile": 300,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 25,
+        "prevent_animation": false
+      }
+    },
+    "1ebf714f-0d67-4510-b345-7be5672e3563": {
+      "type": "media-grid",
+      "blocks": {
+        "template--20300740591933__1ebf714f-0d67-4510-b345-7be5672e3563-media-3": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_to_choose_shades-29.jpg",
+            "link_url": "shopify:\/\/pages\/how-to-choose-shade",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>How to Choose Shades<\/p>",
+            "heading_size": "h4",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/how-to-choose-blind-shade",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 20
+          }
+        },
+        "a1eab0c8-0031-4cf4-b284-92f9efc4de27": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HOW_TO_CHOOSE_MOTOR_2.png",
+            "link_url": "shopify:\/\/pages\/how-to-choose-motor",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>How to Choose Motor<\/p>",
+            "heading_size": "h4",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/how-to-choose-motors",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 35
+          }
+        },
+        "template--20300740591933__1ebf714f-0d67-4510-b345-7be5672e3563-media-1": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HOW_TO_MEASURE-27.jpg",
+            "link_url": "shopify:\/\/pages\/how-to-measure",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>How to Measure Windows<\/p>",
+            "heading_size": "h4",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/how-to-measure",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "b39ebba5-341a-46f3-912d-68510fd18292": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_to_measure_door-05.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>How to Measure Doors<\/p>",
+            "heading_size": "h4",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/how-to-measure-doors",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "template--20300740591933__1ebf714f-0d67-4510-b345-7be5672e3563-media-2": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_to_install-28.jpg",
+            "link_url": "shopify:\/\/pages\/how-to-install",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>How to Install<\/p>",
+            "heading_size": "h4",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/how-to-install",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "template--20300740591933__1ebf714f-0d67-4510-b345-7be5672e3563-media-4": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_to_clean-55.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>How to Clean<\/p>",
+            "heading_size": "h4",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/how-to-cleansrmk0",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "de8db620-98b5-49f2-9dd4-89514a6abc69": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/faq-30.jpg",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>FAQs<\/p>",
+            "heading_size": "h4",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/faqs",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "template--20300740591933__1ebf714f-0d67-4510-b345-7be5672e3563-media-3",
+        "a1eab0c8-0031-4cf4-b284-92f9efc4de27",
+        "template--20300740591933__1ebf714f-0d67-4510-b345-7be5672e3563-media-1",
+        "b39ebba5-341a-46f3-912d-68510fd18292",
+        "template--20300740591933__1ebf714f-0d67-4510-b345-7be5672e3563-media-2",
+        "template--20300740591933__1ebf714f-0d67-4510-b345-7be5672e3563-media-4",
+        "de8db620-98b5-49f2-9dd4-89514a6abc69"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "color_scheme": "white"
+      }
+    },
+    "026220c3-072f-4cac-8cb5-f23efbfa2019": {
+      "type": "media-with-text",
+      "blocks": {
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677": {
+          "type": "heading",
+          "settings": {
+            "heading": "Power Display",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "3736f12f-21f9-4784-af9e-a378396b89ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Does wondering how's the battery level? Still slip to the related page for obtaining the info.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677",
+        "3736f12f-21f9-4784-af9e-a378396b89ba"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "1101a59c-7cd9-43bd-9b12-e583ed2c6908": {
+      "type": "promo-strip",
+      "blocks": {
+        "template--20300740591933__1101a59c-7cd9-43bd-9b12-e583ed2c6908-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Searching For A User Manual?",
+            "heading_size": "h4",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20300740591933__1101a59c-7cd9-43bd-9b12-e583ed2c6908-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>download the manuals<\/p>",
+            "enlarge_text": true,
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20300740591933__1101a59c-7cd9-43bd-9b12-e583ed2c6908-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/download",
+            "button_style": "btn btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20300740591933__1101a59c-7cd9-43bd-9b12-e583ed2c6908-heading-1",
+        "template--20300740591933__1101a59c-7cd9-43bd-9b12-e583ed2c6908-text-1",
+        "template--20300740591933__1101a59c-7cd9-43bd-9b12-e583ed2c6908-button-1"
+      ],
+      "settings": {
+        "section_height": "medium",
+        "color_scheme": "2",
+        "full_width": false,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    },
+    "cf117427-6b36-48c9-8550-54053697099c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20300740591933__cf117427-6b36-48c9-8550-54053697099c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Video Center",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20300740591933__cf117427-6b36-48c9-8550-54053697099c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get helpful tips and solutions to common questions and get the most out of your smart blinds.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20300740591933__cf117427-6b36-48c9-8550-54053697099c-button-1": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/pages\/video-center",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20300740591933__cf117427-6b36-48c9-8550-54053697099c-heading-1",
+        "template--20300740591933__cf117427-6b36-48c9-8550-54053697099c-text-1",
+        "template--20300740591933__cf117427-6b36-48c9-8550-54053697099c-button-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/banner_bg.png",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 550,
+        "fixed_height_mobile": 290,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "51feccf1-b2d0-4c98-a1df-62729410534c": {
+      "type": "media-grid",
+      "blocks": {
+        "template--20300740591933__51feccf1-b2d0-4c98-a1df-62729410534c-media-1": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "template--20300740591933__51feccf1-b2d0-4c98-a1df-62729410534c-media-2": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "template--20300740591933__51feccf1-b2d0-4c98-a1df-62729410534c-media-3": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "template--20300740591933__51feccf1-b2d0-4c98-a1df-62729410534c-media-4": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "16109f01-5765-47a6-b88a-a5fc097d1d95": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "8700f615-fa33-49bf-a2d9-ed71a7f5ee43": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "8374c4ef-29d4-49cf-ba10-89e00b6426a9": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "c577546f-71b2-499d-b475-7da176d5d83c": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "e68d1e28-fd04-4a08-8dc6-0716f2e40d83": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "c2fac5e8-36d3-4ca3-bd8d-21e01bf4a77d": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "c4d18fda-75f0-4372-935a-093538769840": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        },
+        "05982e78-ada6-4bff-a16e-93bf54fcb407": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Media heading<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 25
+          }
+        }
+      },
+      "block_order": [
+        "template--20300740591933__51feccf1-b2d0-4c98-a1df-62729410534c-media-1",
+        "template--20300740591933__51feccf1-b2d0-4c98-a1df-62729410534c-media-2",
+        "template--20300740591933__51feccf1-b2d0-4c98-a1df-62729410534c-media-3",
+        "template--20300740591933__51feccf1-b2d0-4c98-a1df-62729410534c-media-4",
+        "16109f01-5765-47a6-b88a-a5fc097d1d95",
+        "8700f615-fa33-49bf-a2d9-ed71a7f5ee43",
+        "8374c4ef-29d4-49cf-ba10-89e00b6426a9",
+        "c577546f-71b2-499d-b475-7da176d5d83c",
+        "e68d1e28-fd04-4a08-8dc6-0716f2e40d83",
+        "c2fac5e8-36d3-4ca3-bd8d-21e01bf4a77d",
+        "c4d18fda-75f0-4372-935a-093538769840",
+        "05982e78-ada6-4bff-a16e-93bf54fcb407"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "color_scheme": "white"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "1ebf714f-0d67-4510-b345-7be5672e3563",
+    "026220c3-072f-4cac-8cb5-f23efbfa2019",
+    "1101a59c-7cd9-43bd-9b12-e583ed2c6908",
+    "cf117427-6b36-48c9-8550-54053697099c",
+    "51feccf1-b2d0-4c98-a1df-62729410534c"
+  ]
+}

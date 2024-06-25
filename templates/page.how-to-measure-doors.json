@@ -1,0 +1,563 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "SMART CONNECTIONS"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Door Measuring Guide",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/how_to_measure_door_banner.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "d5adce24-2c51-4174-8f82-75e342caa361": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-1": {
+          "type": "column",
+          "settings": {
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-2": {
+          "type": "column",
+          "settings": {
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-3": {
+          "type": "column",
+          "settings": {
+            "heading": "Column",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-1",
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-2",
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "3 things before you start",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "two_col": false,
+        "column_size": "medium",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "026220c3-072f-4cac-8cb5-f23efbfa2019": {
+      "type": "media-with-text",
+      "blocks": {
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677": {
+          "type": "heading",
+          "settings": {
+            "heading": "Power Display",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "3736f12f-21f9-4784-af9e-a378396b89ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Does wondering how's the battery level? Still slip to the related page for obtaining the info.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677",
+        "3736f12f-21f9-4784-af9e-a378396b89ba"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "e329f518-f0ef-4584-9ac2-a99e7fa308f5": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Measuring For Outside Mount Blinds",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>1. Measure Surface Area<\/strong><\/p><p>Measure the surface area above your window frame or molding, to ensure that you have at least 2” of flat vertical space to install your headrail. Make a mark where you wish your headrail, or top, of your smart blinds to be installed.<\/p><p><strong>2. Measure Window Height<\/strong><\/p><p>Measure from top to bottom, using the mark you’ve just made as the top. We recommend at least 3” of overlap to ensure the best light gap coverage and privacy. <\/p><p><strong>3. Measure Window Width<\/strong><\/p><p>Measure the exact width you wish your smart blinds to be, from left to right. We recommend at least 1.5” of overlap for shades or blinds. For vertical blinds, solar shades, and roller shades, we recommend at least 2” of overlap. If you have any obstructions on your wall, you can use extension brackets to ensure your blinds extend far enough away to avoid them. <\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-heading-1",
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "1"
+      }
+    },
+    "573ee709-1273-4450-8a13-a0aba1da6276": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Installation Service",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Book an appointment and have a professional measure and install your Beasen Home smart blinds for you<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-button-1": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Get Help",
+            "button_2_link": "shopify:\/\/pages\/find-a-pro",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-heading-1",
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-text-1",
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/find-a-pro.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#1a74c4",
+        "tint_opacity": 80,
+        "prevent_animation": false
+      }
+    },
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2": {
+      "type": "faq",
+      "blocks": {
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1": {
+          "type": "category",
+          "settings": {
+            "text": "Shipping"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "What countries do you ship to?",
+            "text": "<p>We currently ship to the United States, Canada, Australia and the UK. To enquire about shipping to a different destination, please contact us.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How long will it take to receive my order?",
+            "text": "<p>Standard shipping normally takes 3-5 days. Next day shipping is available on all domestic orders (for an additional charge). International shipping times depend on the products and destination (estimated at checkout).<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How do I return a product?",
+            "text": "<p>Items must be returned within 30 days after receiving your order. Items must be returned in the same condition in which they were received, be unworn\/unused, have any tags still attached, and include all the original packaging.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How long will it take to receive my refund?",
+            "text": "<p>Refunds are processed within 7 days from when we receive the item(s).<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "FAQ",
+        "heading_align": "text-center",
+        "color_scheme": "none",
+        "full_width": true
+      }
+    },
+    "fb42f395-7a1d-402e-aa7a-32602aed2630": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20992635273533__fb42f395-7a1d-402e-aa7a-32602aed2630-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/french_door-new-07.jpg",
+            "heading": "",
+            "text": "<p>Measure the width of the glass inside each door across in three areas - the top, middle, and bottom.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20992635273533__fb42f395-7a1d-402e-aa7a-32602aed2630-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/french_door-new-08.jpg",
+            "heading": "",
+            "text": "<p>Use the largest width measurement of the three and add 2 to 3 inches to that number.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2fb54072-2da2-43fe-8ba8-82760e737f9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/french_door-new-09.jpg",
+            "heading": "",
+            "text": "<p>Next, measure the height in three areas - the left, middle, and right.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20992635273533__fb42f395-7a1d-402e-aa7a-32602aed2630-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/french_door-new-10.jpg",
+            "heading": "",
+            "text": "<p>Use the largest height of the three and add4 to 6 inches to that number (2 to 3 inches at the top, and 2 to 3 inches at the bottom).<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20992635273533__fb42f395-7a1d-402e-aa7a-32602aed2630-column-1",
+        "template--20992635273533__fb42f395-7a1d-402e-aa7a-32602aed2630-column-2",
+        "2fb54072-2da2-43fe-8ba8-82760e737f9b",
+        "template--20992635273533__fb42f395-7a1d-402e-aa7a-32602aed2630-column-3"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "French Door",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "large",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "06685ac3-b5f4-451c-8514-f0516e3d3fb2": {
+      "type": "multi-column",
+      "blocks": {
+        "25152875-41cd-42c6-96e8-a4485dccab64": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sliding_door-13.jpg",
+            "heading": "",
+            "text": "<p>If the depth of the top frame is less than 2 inches, you must use an outside mount.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "73095556-21f0-4fcf-bfb1-b4826c09bcde": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sliding_door-11.jpg",
+            "heading": "",
+            "text": "<p>Measure the width of your sliding door opening in three areas -top, middle, and bottom.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6f093004-9f0b-41af-a6ae-44a9652f771f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sliding_door-14.jpg",
+            "heading": "",
+            "text": "<p>For an inside mount, take the smallest number of the three and use this as your width measurement.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "758036b5-c163-4e37-8961-f8b19069d56f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sliding_door-12.jpg",
+            "heading": "",
+            "text": "<p>For an outside mount, add at least 4 inches to your measurement to allow for maximum light gap coverage.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ee6f51b1-2898-428b-9a59-a21635a8ae71": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sliding_door-15.jpg",
+            "heading": "",
+            "text": "<p>For outside mounts, door heights are measured from top-to-bottom in three areas - left, middle, and right. Remember to start your measurement from where you’ll place the headrail, which is typically 3 to 4 inches above the door.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b87ef3b9-a8ce-44f4-bc35-9c185e619f77": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sliding_door-16.jpg",
+            "heading": "",
+            "text": "<p>For inside mounts, simply use the largest measurement. You do not have to add to this measurement.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "25152875-41cd-42c6-96e8-a4485dccab64",
+        "73095556-21f0-4fcf-bfb1-b4826c09bcde",
+        "6f093004-9f0b-41af-a6ae-44a9652f771f",
+        "758036b5-c163-4e37-8961-f8b19069d56f",
+        "ee6f51b1-2898-428b-9a59-a21635a8ae71",
+        "b87ef3b9-a8ce-44f4-bc35-9c185e619f77"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "Sliding Door",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "large",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "b7b912bf-23c3-4d69-8e4f-3ff4132ad045": {
+      "type": "multi-column",
+      "blocks": {
+        "045c384d-bddb-4b19-9f88-b98724c2f167": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sidebyside-new.png",
+            "heading": "",
+            "text": "<p>Measure the window width in three areas - the top, middle, and bottom. Use the largest measurement as your total width.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "8fd6339f-5407-4e7f-b6fc-49f030ca05dc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/side_by_side-19.jpg",
+            "heading": "",
+            "text": "<p>If you require 2 separate blinds for one window, divide the total width by 2 and use that number for your 2 blind (Ex. 70’’÷ 2 = 35\").<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d2f814c2-6114-4d94-9c81-d74193cda266": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/side_by_side-20.jpg",
+            "heading": "",
+            "text": "<p>If you require 3 separate blinds, divide the total width by 3 and use that number for your 3 blinds (Ex. 90’’÷ 3 = 30’’).<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "99e25288-6e80-4144-adbe-2e89e794bf3d": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "text": "<p>For an outside mount, add at least 4 inches to your measurement to allow for maximum light gap coverage.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "34d32b56-d5ba-4ed9-9129-98416a4cff73": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "text": "<p>For outside mounts, door heights are measured from top-to-bottom in three areas - left, middle, and right. Remember to start your measurement from where you’ll place the headrail, which is typically 3 to 4 inches above the door.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "424c82ef-75b2-49f8-8899-8bab2cb996fa": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "text": "<p>For inside mounts, simply use the largest measurement. You do not have to add to this measurement.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "045c384d-bddb-4b19-9f88-b98724c2f167",
+        "8fd6339f-5407-4e7f-b6fc-49f030ca05dc",
+        "d2f814c2-6114-4d94-9c81-d74193cda266",
+        "99e25288-6e80-4144-adbe-2e89e794bf3d",
+        "34d32b56-d5ba-4ed9-9129-98416a4cff73",
+        "424c82ef-75b2-49f8-8899-8bab2cb996fa"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "Side By Side",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "small",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "d5adce24-2c51-4174-8f82-75e342caa361",
+    "026220c3-072f-4cac-8cb5-f23efbfa2019",
+    "e329f518-f0ef-4584-9ac2-a99e7fa308f5",
+    "573ee709-1273-4450-8a13-a0aba1da6276",
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2",
+    "fb42f395-7a1d-402e-aa7a-32602aed2630",
+    "06685ac3-b5f4-451c-8514-f0516e3d3fb2",
+    "b7b912bf-23c3-4d69-8e4f-3ff4132ad045"
+  ]
+}

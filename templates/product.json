@@ -1,0 +1,1159 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor-sku": {
+          "type": "vendor-sku",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": true
+          }
+        },
+        "divider-0": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "selector_style": "buttons",
+            "enable_dynamic_availability": true,
+            "show_backorder_text": true,
+            "enable_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "divider-1": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": true,
+            "show_pickup_availability": true
+          }
+        },
+        "message-1": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "icon": "clock",
+            "title": "<p><strong>Popular right now<br\/><\/strong>Lots of people have looked at this recently<\/p>",
+            "close": "once",
+            "show_over_media": true,
+            "visibility_duration": 4,
+            "bg_color": "#e4edfa",
+            "text_color": "#1a66d2"
+          }
+        },
+        "message-2": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "icon": "price_tag",
+            "title": "<p><strong>Selling fast!<br\/><\/strong>Grab yours while you can<\/p>",
+            "close": "once",
+            "show_over_media": true,
+            "visibility_duration": 5,
+            "bg_color": "#e4edfa",
+            "text_color": "#1a66d2"
+          }
+        },
+        "collapsible-content-2": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Delivery and Shipping",
+            "icon": "none",
+            "text": "<p>Your custom made shades will ship in 8~10 business days, via UPS, Fedex or DHL.<\/p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "39c4c811-2a60-4227-b18e-57b04382ce89": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Specification",
+            "icon": "none",
+            "text": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "d301b4fe-5ffb-40fe-b5ba-b36f5d07b3eb": {
+          "type": "collapsible-content",
+          "disabled": true,
+          "settings": {
+            "heading": "Description",
+            "icon": "none",
+            "text": "",
+            "page": "",
+            "open": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "message-3": {
+          "type": "message",
+          "settings": {
+            "icon": "none",
+            "title": "<p>Add a stand out message for your customers<\/p>",
+            "close": "once",
+            "show_over_media": false,
+            "visibility_duration": 7,
+            "bg_color": "#e4edfa",
+            "text_color": "#1a66d2"
+          }
+        },
+        "2311818d-4836-4696-ae5f-a17903a06fb1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor-sku",
+        "title",
+        "price",
+        "divider-0",
+        "variant-picker",
+        "divider-1",
+        "buy-buttons",
+        "message-1",
+        "message-2",
+        "collapsible-content-2",
+        "39c4c811-2a60-4227-b18e-57b04382ce89",
+        "d301b4fe-5ffb-40fe-b5ba-b36f5d07b3eb",
+        "share",
+        "message-3",
+        "2311818d-4836-4696-ae5f-a17903a06fb1"
+      ],
+      "settings": {
+        "stick_on_scroll": true,
+        "sticky_atc_panel": false,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "media_layout": "slider",
+        "media_size": "default",
+        "media_ratio": "1",
+        "media_crop": "none",
+        "hover_zoom": "large",
+        "enable_video_looping": false,
+        "stacked_scroll": "always",
+        "underline_active": true,
+        "media_thumbs": "desktop",
+        "thumb_ratio": "1",
+        "thumb_crop": "none",
+        "media_arrows": "desktop",
+        "show_slide_count": true,
+        "border_color": "#eeeeee",
+        "bg_color": "#f4f4f4",
+        "enable_media_grouping": false,
+        "sample_link": "shopify:\/\/collections\/swatch-samples",
+        "sample_price": "9.99",
+        "sample_compare": "",
+        "sample_header": "Order Swatch Samples",
+        "sample_description": "<p>Swatch sample fee will be fefunded after place the order.<\/p>",
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "details": {
+      "type": "product-details",
+      "blocks": {
+        "highlight-text": {
+          "type": "highlight-text",
+          "disabled": true,
+          "settings": {
+            "title": "Highlight title",
+            "text": "<p>Text to highlight a key feature of your product<\/p>"
+          }
+        },
+        "tabs": {
+          "type": "tabs",
+          "disabled": true,
+          "settings": {
+            "style": "collapsible",
+            "show_description": true,
+            "show_specification": false,
+            "show_reviews": false,
+            "spec_metafields": "",
+            "spec_right_align": false,
+            "spec_show_empty_metafields": true,
+            "spec_empty_field_text": "-",
+            "tab_1_title": "",
+            "tab_1_text": "",
+            "tab_1_page": "",
+            "tab_2_title": "",
+            "tab_2_text": "",
+            "tab_2_page": "",
+            "tab_3_title": "",
+            "tab_3_text": "",
+            "tab_3_page": ""
+          }
+        },
+        "payment-methods": {
+          "type": "payment-methods",
+          "disabled": true,
+          "settings": {
+            "title": "Payment & Security",
+            "title1": "Payment methods",
+            "show_payment_icons": true,
+            "text1": "<p>Your payment information is processed securely. We do not store credit card details nor have access to your credit card information.<\/p>",
+            "title2": "",
+            "text2": ""
+          }
+        }
+      },
+      "block_order": [
+        "highlight-text",
+        "tabs",
+        "payment-methods"
+      ],
+      "settings": {}
+    },
+    "51b6d747-2a1e-43cd-9b63-6c7a7abacd02": {
+      "type": "media-grid",
+      "blocks": {
+        "template--19903439700285__51b6d747-2a1e-43cd-9b63-6c7a7abacd02-1689636974bf756b0f-1": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zebra-70_750x_92c25830-54e8-472e-b44f-9d33b5938765.png",
+            "video_shopify": "shopify:\/\/files\/videos\/zebra 4k.mov",
+            "link_url": "",
+            "columns": 2,
+            "rows": 2,
+            "subheading": "",
+            "title": "<p>Showcase<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "template--19903439700285__51b6d747-2a1e-43cd-9b63-6c7a7abacd02-1689636974bf756b0f-0": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_to_measure_door_banner_750x_6bcae287-b6b5-44b7-b9c3-fff34a48abba.png",
+            "video_shopify": "shopify:\/\/files\/videos\/Measurement V2.mp4",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Measuring Guide<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "template--19903439700285__51b6d747-2a1e-43cd-9b63-6c7a7abacd02-1689636974bf756b0f-3": {
+          "type": "media",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/easy_to_install-61_750x_667efe10-1b2d-45f7-b598-2839fa7d8166.png",
+            "video_shopify": "shopify:\/\/files\/videos\/Installation V5.mp4",
+            "link_url": "",
+            "columns": 2,
+            "rows": 1,
+            "subheading": "",
+            "title": "<p>Installation Guide<\/p>",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--19903439700285__51b6d747-2a1e-43cd-9b63-6c7a7abacd02-1689636974bf756b0f-1",
+        "template--19903439700285__51b6d747-2a1e-43cd-9b63-6c7a7abacd02-1689636974bf756b0f-0",
+        "template--19903439700285__51b6d747-2a1e-43cd-9b63-6c7a7abacd02-1689636974bf756b0f-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "gallery_cols_min": "1",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 300,
+        "color_scheme": "white"
+      }
+    },
+    "ae1eeb34-284e-4f53-9238-4833a78e74a9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19903439700285__ae1eeb34-284e-4f53-9238-4833a78e74a9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Zebra Shades Made Smart",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--19903439700285__ae1eeb34-284e-4f53-9238-4833a78e74a9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Zebra shades provide amazing light control, allowing you to easily find the ideal ambiance for any room. Beasen Home smart zebra shades have the added benefit of remote control, app control, and even voice control when connected to a smart hub device. The alternating stripes design gives you full control over how much light enters your living space.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--19903439700285__ae1eeb34-284e-4f53-9238-4833a78e74a9-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903439700285__ae1eeb34-284e-4f53-9238-4833a78e74a9-heading-1",
+        "template--19903439700285__ae1eeb34-284e-4f53-9238-4833a78e74a9-text-1",
+        "template--19903439700285__ae1eeb34-284e-4f53-9238-4833a78e74a9-button-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/zebra_smart_banner-29.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 560,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-end items-center",
+        "overlay_text_align": "text-start",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "25026472-6eec-40ba-8ae2-f6cd121497d0": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19903439700285__25026472-6eec-40ba-8ae2-f6cd121497d0-16896219792a5a9b6f-0": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/product_features__1_17.png",
+            "image_mobile": "shopify:\/\/shop_images\/icon-mobile_version-118.png",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "rgba(0,0,0,0)",
+            "bg_grad": ""
+          }
+        },
+        "template--19903439700285__25026472-6eec-40ba-8ae2-f6cd121497d0-16896219792a5a9b6f-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19903439700285__25026472-6eec-40ba-8ae2-f6cd121497d0-16896219792a5a9b6f-0",
+        "template--19903439700285__25026472-6eec-40ba-8ae2-f6cd121497d0-16896219792a5a9b6f-1"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "a5a0e6fa-6332-469a-9756-9644fbdaafd0": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--19903439700285__a5a0e6fa-6332-469a-9756-9644fbdaafd0-168962943945f2b468-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Remote Control",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--19903439700285__a5a0e6fa-6332-469a-9756-9644fbdaafd0-168962943945f2b468-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The multi-channel remote control can control up to 15 sets of blinds separately. You can also control all blinds simultaneously by choosing the 0 channel.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--19903439700285__a5a0e6fa-6332-469a-9756-9644fbdaafd0-168962943945f2b468-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903439700285__a5a0e6fa-6332-469a-9756-9644fbdaafd0-168962943945f2b468-0",
+        "template--19903439700285__a5a0e6fa-6332-469a-9756-9644fbdaafd0-168962943945f2b468-1",
+        "template--19903439700285__a5a0e6fa-6332-469a-9756-9644fbdaafd0-168962943945f2b468-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/remote-21.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "adbcb7c0-b1ce-445b-a3f8-1cdfa39d24c8": {
+      "type": "media-with-text",
+      "blocks": {
+        "05ec81b7-184e-4f49-aaac-3a562fa791a7": {
+          "type": "heading",
+          "settings": {
+            "heading": "App Control",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "81ca5da0-82ae-477c-92f8-8ae44d56747f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Conveniently adjust your blinds through your phone. App control also allows you to set routines to automate your blinds to save on your energy bill.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "f4e77b95-a940-4221-a153-688b682d849a": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "05ec81b7-184e-4f49-aaac-3a562fa791a7",
+        "81ca5da0-82ae-477c-92f8-8ae44d56747f",
+        "f4e77b95-a940-4221-a153-688b682d849a"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/app_control-64.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "0674baf8-6aa2-4acd-8e8f-6cc1bde21c67": {
+      "type": "media-with-text",
+      "blocks": {
+        "007e5843-a2e3-4dcf-9b64-1e22233fa762": {
+          "type": "heading",
+          "settings": {
+            "heading": "Voice Control",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "a55b903b-86f6-42f6-925e-6b27aac37710": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Connect your Beasen Home Smart Blinds to your smart hub device to unlock powerful features like voice commands. Control the ambiance of your home without having to lift a finger.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "e5704f87-0fae-4c23-a58d-11335cd7f9be": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "007e5843-a2e3-4dcf-9b64-1e22233fa762",
+        "a55b903b-86f6-42f6-925e-6b27aac37710",
+        "e5704f87-0fae-4c23-a58d-11335cd7f9be"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/voice_control-22.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "04e2faa7-6074-4b30-b552-c2aeda556a3d": {
+      "type": "media-with-text",
+      "blocks": {
+        "b90b21cb-64bd-4500-93e3-c43c6fa9ab33": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dual Layers",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "90b6fc18-5d72-4fc0-9b78-d4405f35ddde": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Allows more control over the amount of light and privacy you prefer in your living space depending on the alignment of the bands.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "254877a8-0289-48ba-ab95-4b551f4991a5": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "b90b21cb-64bd-4500-93e3-c43c6fa9ab33",
+        "90b6fc18-5d72-4fc0-9b78-d4405f35ddde",
+        "254877a8-0289-48ba-ab95-4b551f4991a5"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/dual_4.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "04f0ee44-45d4-4844-a121-503cec3ff6f7": {
+      "type": "media-with-text",
+      "blocks": {
+        "49b13dc1-521d-4af0-ac25-c00e7659f7b1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Safe For Child",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "a070190f-1a41-4494-a040-083a1b06bd03": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beasen Home Blinds do not require a chain or cord to adjust the blinds, which can be a hazard for children and pets<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "6394d17e-2518-4568-b493-ab52587af0fc": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "49b13dc1-521d-4af0-ac25-c00e7659f7b1",
+        "a070190f-1a41-4494-a040-083a1b06bd03",
+        "6394d17e-2518-4568-b493-ab52587af0fc"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/safe_for_child-31.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "741afb6c-472d-4fd6-957b-77d9826e0df9": {
+      "type": "slideshow",
+      "blocks": {
+        "5fab98a6-6202-4992-badb-cb6c08e1ce88": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/power-motor.jpg",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "POWERFUL MOTOR",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Features a long-lasting, rechargeable, lithium-ion battery that efficiently adjusts your smart blinds for up to 6 months on a single charge.<\/p>",
+            "enlarge_text": false,
+            "button_1_label": "",
+            "button_1_link": "shopify:\/\/blogs\/news",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "rgba(0,0,0,0)",
+            "bg_grad": ""
+          }
+        },
+        "24d0c15b-08c3-46b0-8366-70a460aeca68": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "5fab98a6-6202-4992-badb-cb6c08e1ce88",
+        "24d0c15b-08c3-46b0-8366-70a460aeca68"
+      ],
+      "settings": {
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 60,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "67dcd14e-5b2d-4bd9-b3f2-371cc9d96faa": {
+      "type": "multi-column",
+      "blocks": {
+        "template--19903439700285__67dcd14e-5b2d-4bd9-b3f2-371cc9d96faa-1689622372843ffa03-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/quiet_motor-57.jpg",
+            "heading": "Quiet Motor",
+            "text": "<p>Operates silently, ensuring a peaceful and unobtrusive experience. Smoothly adjusts window shades while maintaining minimal noise levels.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--19903439700285__67dcd14e-5b2d-4bd9-b3f2-371cc9d96faa-1689622372843ffa03-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/uv_protect-26.jpg",
+            "heading": "UV Protection",
+            "text": "<p>Effectively blocks UV rays while still allowing natural light to enter, keeping your furniture protected from sun damage.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--19903439700285__67dcd14e-5b2d-4bd9-b3f2-371cc9d96faa-1689622372843ffa03-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/material-2-30.jpg",
+            "heading": "Premium Materials",
+            "text": "<p>Ensures durability and longevity, providing a reliable and long-lasting solution for your window treatment needs. These materials are carefully selected to withstand wear and tear, while also enhancing the overall aesthetic appeal your home.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "00d181fe-2831-4c10-b58c-c6768ae5c0d6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/easy_to_install-61.jpg",
+            "heading": "Easy to Install",
+            "text": "<p>User-friendly instructions and efficient mounting mechanisms make the installation process a simple and straightforward task, saving time and effort while enjoying the benefits of smart shade automation.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d601765b-67ad-4d8f-b68b-72f4f9d5f858": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/RECHARGEABLE-62.jpg",
+            "heading": "Rechargeable",
+            "text": "<p>Ensures a convenient and seamless power supply, eliminating the need for frequent battery replacements. It only takes 6 hours to charge and lasts for up to 6 months before needing to be charged again.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2c68c388-6bdf-4faf-8230-1e54d44f5693": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/solar_powered-59.jpg",
+            "heading": "Solar-Powered",
+            "text": "<p>Harnesses the energy of the sun for a more sustainable and eco-friendly source of power. Using solar power reduces your energy consumption and can help you save money over time.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19903439700285__67dcd14e-5b2d-4bd9-b3f2-371cc9d96faa-1689622372843ffa03-0",
+        "template--19903439700285__67dcd14e-5b2d-4bd9-b3f2-371cc9d96faa-1689622372843ffa03-2",
+        "template--19903439700285__67dcd14e-5b2d-4bd9-b3f2-371cc9d96faa-1689622372843ffa03-1",
+        "00d181fe-2831-4c10-b58c-c6768ae5c0d6",
+        "d601765b-67ad-4d8f-b68b-72f4f9d5f858",
+        "2c68c388-6bdf-4faf-8230-1e54d44f5693"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "Product Highlights",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "medium",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "padded",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "6f8bf303-b892-4643-9317-0ddd962a4b33": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19903439700285__6f8bf303-b892-4643-9317-0ddd962a4b33-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--19903439700285__6f8bf303-b892-4643-9317-0ddd962a4b33-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fabric Options",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--19903439700285__6f8bf303-b892-4643-9317-0ddd962a4b33-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--19903439700285__6f8bf303-b892-4643-9317-0ddd962a4b33-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903439700285__6f8bf303-b892-4643-9317-0ddd962a4b33-subheading-1",
+        "template--19903439700285__6f8bf303-b892-4643-9317-0ddd962a4b33-heading-1",
+        "template--19903439700285__6f8bf303-b892-4643-9317-0ddd962a4b33-text-1",
+        "template--19903439700285__6f8bf303-b892-4643-9317-0ddd962a4b33-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "93de92b6-777a-43e4-a5d8-9aeba92ff51f": {
+      "type": "slideshow",
+      "blocks": {
+        "8391c827-a3b6-46dd-96b7-0763ab1e5766": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/color.jpg",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "rgba(0,0,0,0)",
+            "bg_grad": ""
+          }
+        },
+        "7f3e81c7-6dc4-40fb-9fa0-b783230e717e": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "8391c827-a3b6-46dd-96b7-0763ab1e5766",
+        "7f3e81c7-6dc4-40fb-9fa0-b783230e717e"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "7a9f44c0-ae51-4604-a736-c4ae7554e5fb": {
+      "type": "testimonials",
+      "blocks": {
+        "template--19903439700285__7a9f44c0-ae51-4604-a736-c4ae7554e5fb-1689633258189a873b-0": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Author information",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "template--19903439700285__7a9f44c0-ae51-4604-a736-c4ae7554e5fb-1689633258189a873b-1": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Author information",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "template--19903439700285__7a9f44c0-ae51-4604-a736-c4ae7554e5fb-1689633258189a873b-2": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Author information",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "template--19903439700285__7a9f44c0-ae51-4604-a736-c4ae7554e5fb-1689633258189a873b-0",
+        "template--19903439700285__7a9f44c0-ae51-4604-a736-c4ae7554e5fb-1689633258189a873b-1",
+        "template--19903439700285__7a9f44c0-ae51-4604-a736-c4ae7554e5fb-1689633258189a873b-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Testimonials",
+        "show_quotes": true,
+        "nav_style": "slideshow_nav_lines",
+        "transition": "slide-fade",
+        "autoplay": false,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "default",
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "custom_css": [
+        ".product-inventory__status {display: none;}"
+      ],
+      "settings": {
+        "heading": "You may also like",
+        "heading_align": "text-start",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 8
+      }
+    },
+    "b500e34a-b763-4d58-b0fe-615c58ccc857": {
+      "type": "faq",
+      "blocks": {
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-0": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Shipping"
+          }
+        },
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-1": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Do you ship internationally?",
+            "text": "<p>Yes, we offer free worldwide shipping!<\/p>"
+          }
+        },
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-2": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How do I know what type of mounting I need?",
+            "text": "<p>Follow our Measuring and installation guides to see which type of mounting you need.<\/p>"
+          }
+        },
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-4": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Do I have to purchase the remote?",
+            "text": "<p>No, the remote is optional.<\/p>"
+          }
+        },
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-5": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "heading": "How long will it take to receive my refund?",
+            "text": "<p>Refunds are processed within 7 days from when we receive the item(s).<\/p>"
+          }
+        },
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-3": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Returns and Refunds"
+          }
+        }
+      },
+      "block_order": [
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-0",
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-1",
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-2",
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-4",
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-5",
+        "template--19903439700285__b500e34a-b763-4d58-b0fe-615c58ccc857-1689633241bc05613d-3"
+      ],
+      "settings": {
+        "heading": "Things to Know",
+        "heading_align": "text-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "1629746450643786911": {
+      "type": "areviews-section",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "details",
+    "51b6d747-2a1e-43cd-9b63-6c7a7abacd02",
+    "ae1eeb34-284e-4f53-9238-4833a78e74a9",
+    "25026472-6eec-40ba-8ae2-f6cd121497d0",
+    "a5a0e6fa-6332-469a-9756-9644fbdaafd0",
+    "adbcb7c0-b1ce-445b-a3f8-1cdfa39d24c8",
+    "0674baf8-6aa2-4acd-8e8f-6cc1bde21c67",
+    "04e2faa7-6074-4b30-b552-c2aeda556a3d",
+    "04f0ee44-45d4-4844-a121-503cec3ff6f7",
+    "741afb6c-472d-4fd6-957b-77d9826e0df9",
+    "67dcd14e-5b2d-4bd9-b3f2-371cc9d96faa",
+    "6f8bf303-b892-4643-9317-0ddd962a4b33",
+    "93de92b6-777a-43e4-a5d8-9aeba92ff51f",
+    "7a9f44c0-ae51-4604-a736-c4ae7554e5fb",
+    "recommendations",
+    "b500e34a-b763-4d58-b0fe-615c58ccc857",
+    "1629746450643786911"
+  ]
+}

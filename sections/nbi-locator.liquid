@@ -1,0 +1,178 @@
+<style>
+    .cc-custom-liquid {
+        display: none;
+    }
+    #shopify-section-{{ section.id }} {
+        overflow: auto;
+        margin: 50px 0;
+        padding: 0 20px;
+    }
+    .nbi-container {
+        width: 650px;
+        height: 650px;
+        overflow: auto;
+        border: 1px solid;
+        margin: 0 auto;
+        font-size: 14px;
+        padding: 20px;
+    }
+
+    .nbi-container p {
+        margin: 0;
+    }
+
+    .nbi-container input {
+        font-size: 14px;
+        line-height: 1.1;
+        border-radius: 3px;
+        border: 1px solid;
+        width: 100px;
+    }
+
+    .nbi-flex, .nbi-list {
+        display: flex;
+        align-items: center;
+    }
+
+    .nbi-flex {
+        padding-bottom: 20px;
+    }
+
+    .nbi-flex-left img {
+        width: 136px;
+        display: block;
+        margin-left: auto;
+        margin-right: 5px;
+    }
+
+    .nbi-right img {
+        width: 117px;
+    }
+
+    .nbi-flex-left {
+        width: 35%;
+    }
+
+    .nbi-flex-right {
+        width: 65%;
+    }
+
+    .nbi-flex-right .nbi-flex {
+        margin-top: 20px;
+    }
+
+    .nbi-left {
+        width: 40%;
+        text-align: center;
+    }
+
+    .nbi-left i {
+        font-size: 12px;
+    }
+
+    .nbi-right {
+        width: 60%;
+    }
+
+    .nbi-list img {
+        width: 20px;
+        height: 16px;
+    }
+
+    .nbi-text h2 {
+        color: #000034;
+        font-size: 18px;
+        text-align: center;
+    }
+</style>
+<div class="nbi-container">
+    <div class="nbi-text">
+        <p>The introduction is free for consumers, you just pay the installer for any work they do:</p>
+    </div>
+    <div class="nbi-flex">
+        <div class="nbi-flex-left">
+            <img src="{{ 'nbi1.gif' | asset_url }}">
+        </div>
+        <div class="nbi-flex-right">
+            <div class="nbi-list">
+                <img src="{{ 'g-check_tick.gif' | asset_url }}">
+                <p>Save time - and get the job done right!</p>
+            </div>
+            <div class="nbi-list">
+                <img src="{{ 'g-check_tick.gif' | asset_url }}">
+                <p>Measurements and installation guaranteed</p>
+            </div>
+            <div class="nbi-list">
+                <img src="{{ 'g-check_tick.gif' | asset_url }}">
+                <p>Installers are specialists in blinds/shades</p>
+            </div>
+            <div class="nbi-list">
+                <img src="{{ 'g-check_tick.gif' | asset_url }}">
+                <p>Average of 23 years in the business</p>
+            </div>
+            <div class="nbi-list">
+                <img src="{{ 'g-check_tick.gif' | asset_url }}">
+                <p>Natiowide coverage</p>
+            </div>
+            <div class="nbi-list">
+                <img src="{{ 'g-check_tick.gif' | asset_url }}">
+                <p>Pre-screened & insured -- and licensed where needed</p>
+            </div>
+            <div class="nbi-flex">
+                <div class="nbi-left">
+                    <b>Check your Zip code</b>
+                    <input type="text" placeholder="Zip" id="zip-url">
+                    <a id="nbi-submit" href="#">Go</a>
+                    <b><i>Satisfaction guaranteed!</i></b>
+                </div>
+                <div class="nbi-right">
+                    <img src="{{ 'nbi2.gif' | asset_url }}">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="nbi-text">
+        <h2>What Our Customers Are Saying</h2>
+        <p><i>" Excellent service! Very timely response to all questions and installation. Thank you! "</i></p>
+        <p class="text-right"><b> 144737 Bonnie, Phoenix, AZ</b></p>
+        <p><i>" Very professional and courteous. Arrived as promised and completed all work in a timely manner. "</i></p>
+        <p class="text-right"><b> 142893 Dawn, Sanders, AZ</b></p>
+        <p><i>" I would recommend Kevin to any client. He was very professional, friendly and knowledgeable. "</i></p>
+        <p class="text-right"><b> 111820 Dee, Phoenix, AZ</b></p>
+        <p><i>" Brian was great. Thorogh and professional. Finished product is better than I expected. "</i></p>
+        <p class="text-right"><b> 149747 John, Fredericksburg, VA</b></p>
+        <p><i>" Jeff and Butch were wonderful gentlemen. Both professional and experts. Much appreciated their help. "</i></p>
+        <p class="text-right"><b> 153444 Shannon, Goshen, NY</b></p>
+    </div>
+</div>
+<script>
+    function isValidUSZip(sZip) {
+        return /^\d{5}(-\d{4})?$/.test(sZip);
+     }
+
+    $('#nbi-submit').click(function(e){
+        e.preventDefault();
+        if (isValidUSZip($('#zip-url').val())) {
+            /*setTimeout(function(){
+                $('.nbi-container').hide();
+                $('.cc-custom-liquid').show();
+            }, 500);*/
+            var nbiLink = `https://blindinstallation.com/locator/c-ref.php?mycookie=BeasenHome&mode=live&product=other&page_val=PageA&customer_zipcode=${$('#zip-url').val()}`;
+            //$('#NBIIFRAME').attr('src', nbiLink);
+            window.open(nbiLink, "_blank");
+        } else {
+            console.log('zipcode error');
+        }        
+    });
+</script>
+{% schema %}
+    {
+       "name": "NBI Installer Locator",
+       "settings": [],
+       "presets": [
+        {
+            "name": "NBI Installer Locator"
+        }
+       ]
+    }
+{% endschema %}

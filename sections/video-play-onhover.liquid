@@ -1,0 +1,274 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<style>
+  .video_hover--main{
+    padding: 50px 0px;
+  }
+  .video_hover--inner{
+    justify-content: space-between;
+    gap: 15px;
+    margin-top: 60px;
+  }
+  .video_hover--item{
+    height: 480px;
+  }
+  .video_hover--item video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+     pointer-events: none; 
+   controls: none; 
+  }
+
+.video_hover--item:hover video {
+   pointer-events: auto;
+   controls: pointer; 
+}
+   .video_hover--inner{
+    margin-left:-30px;
+  }
+  .video_hover--inner .slick-slide{
+    margin-left:30px;
+  }
+  .video_hover--inner .slick-dots{
+    bottom: -45px;
+    left: 10px;
+  }
+  .video_hover--inner .slick-dots li{
+    width: 60px;
+    height: 2px;
+    margin: 0 5px;
+  }
+  .video_hover--inner .slick-dots li button{
+    width: 100%;
+    height: 2px;
+    background: #3674BE;
+    border-radius: 10px;
+    opacity: 50%;
+    padding:0px;
+  }
+  .video_hover--inner .slick-dots li.slick-active button{
+    opacity: 100%;
+  }
+  .video_hover--inner .slick-dots li button:before{
+    display:none;
+  }
+  @media(max-width:991px){
+    .video_hover--inner{
+     flex-wrap: wrap; 
+    }
+    .video_hover--item {
+        width: 47%;
+        height: 200px;
+    }
+  }
+    @media (max-width:767px){
+      .video_hover--item {
+        width: 100%;
+        height: 400px;
+    }
+    .video_hover--inner .slick-list{
+      padding:0px !Important;
+    }
+   .video_hover--inner .slick-slide{
+    margin-left:10px;
+  }
+  .video_hover--inner .slick-slide{
+    width:280px;
+  }
+    }
+</style>
+
+
+<div class="video_hover--main" style="background:{{ section.settings.bg }}">
+  <div class="container">
+    <div class="bvb_text">
+       {% if section.settings.heading != blank %}
+          <h2 class="h4 section__heading mb-0 flex-auto text-start">{{ section.settings.heading | escape }}</h2>
+        {% endif %}
+        {% if section.settings.view_url != blank %}
+      <a href="{{ section.settings.view_url }}">{{ section.settings.view_text }}</a>
+      {% endif %}
+    </div>
+
+    <div class="video_hover--inner">
+      {% for block in section.blocks %}
+          <div>
+             <div class="video_hover--item">
+             {{ block.settings.video_url | video_tag: loop: true, autoplay: false, controls: false }}
+             <svg class="video_hover--playicon" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+              <circle cx="32" cy="32" r="31.5" fill="black" fill-opacity="0.2" stroke="white" style="&#10;"/>
+              <path d="M46.2222 32.8889L23.5556 45.9755L23.5556 19.8022L46.2222 32.8889Z" fill="white"/>
+             </svg>
+           </div>
+          </div>
+        {% endfor %}
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+  $('.video_hover--inner').slick({
+  dots: false,
+  infinite: false,
+  speed: 300,
+  slidesToShow: 4,
+  slidesToScroll: 1,
+  responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        infinite: false,
+        dots: true,
+        centerMode: true
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2,
+         dots: true
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+         dots: true,
+        centerMode: true,
+         variableWidth: true,
+        centerPadding: '40px'
+      }
+    }
+  ]
+});
+</script>
+
+<script>
+// window.onload = function () {
+//    // Find the video item you want to trigger a click on (you can use an ID or a specific selector)
+//    const videoItemToClick = document.querySelector('.video_hover--main'); // Change the selector as needed
+
+//    // Trigger a click event on the selected video item
+//    if (videoItemToClick) {
+//      console.log('ssssssasdfs')
+//       videoItemToClick.click();
+//    }
+// };
+
+  document.addEventListener('DOMContentLoaded', function () {
+   const videoItems = document.querySelectorAll('.video_hover--item');
+
+   videoItems.forEach((item) => {
+      const video = item.querySelector('video');
+
+      // Mute the video by default
+      video.muted = true;
+
+      item.querySelector('.video_hover--playicon').addEventListener('click', function(){
+        if (video.paused) {
+          video.muted = false;
+          video.controls = true;
+          video.play();
+          item.classList.add('playing');
+        } else {
+          video.pause();
+          item.classList.remove('playing');
+          video.controls = false;
+        }
+      });
+
+     // Get the current poster attribute value
+      const poster = video.getAttribute("poster");
+    
+      if (poster) {
+        // Remove "_small.jpg" from the poster attribute value
+        const newPoster = poster.replace("_small.jpg", ".jpg").replace("_small.png", ".png");
+    
+        // Set the new poster attribute value
+        video.setAttribute("poster", newPoster);
+      }
+     
+   });
+});
+
+
+</script>
+
+
+{% schema %}
+  {
+  "name": "Video Play on Hover",
+  "settings": [
+    {
+      "type": "color",
+      "id": "bg",
+      "label": "Background",
+      "default": "#F3F3F3"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Video"
+    },
+    {
+      "type": "text",
+      "id": "view_text",
+      "label": "View More",
+      "default": "View More"
+    },
+    {
+      "type": "url",
+      "id": "view_url",
+      "label": "View More Link"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "video_block",
+      "name": "Video Block",
+      "settings": [
+        {
+          "type": "video",
+          "id": "video_url",
+          "label": "Select Video (MP4)"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Video Play on Hover",
+      "blocks": [
+        {
+          "type": "video_block"
+        },
+        {
+          "type": "video_block"
+        },
+        {
+          "type": "video_block"
+        },
+        {
+          "type": "video_block"
+        }
+      ]
+    }
+  ]
+}
+
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

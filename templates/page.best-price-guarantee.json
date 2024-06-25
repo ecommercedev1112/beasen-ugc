@@ -1,0 +1,512 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Why beasen"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best Price Guarantee",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>At Beasen,we take our price seriously,that’s why we offer our Best-Price-Guarantee. We always strive to have the lowest price available anywhere on the items we sell. Some retailers only guarantee their own sale prices, but we guarantee your price against everyone’s sale prices! Our policy is simple, if you find the same blind or shade from another retailer for a lower price, we will not only match it but will take an additional 5% off.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/best_price_guarantee-29.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "39fb0e5b-2edc-4d14-ab3e-532fae988f4e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458084401469__39fb0e5b-2edc-4d14-ab3e-532fae988f4e-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20458084401469__39fb0e5b-2edc-4d14-ab3e-532fae988f4e-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--20458084401469__39fb0e5b-2edc-4d14-ab3e-532fae988f4e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our goal isn't just to find you the best smart blinds for your home - we also strive to find you the best deal! Our Best Price guarantee ensures that you get the best value possible for your purchase.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20458084401469__39fb0e5b-2edc-4d14-ab3e-532fae988f4e-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458084401469__39fb0e5b-2edc-4d14-ab3e-532fae988f4e-subheading-1",
+        "template--20458084401469__39fb0e5b-2edc-4d14-ab3e-532fae988f4e-heading-1",
+        "template--20458084401469__39fb0e5b-2edc-4d14-ab3e-532fae988f4e-text-1",
+        "template--20458084401469__39fb0e5b-2edc-4d14-ab3e-532fae988f4e-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "1",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "96bedf06-9f9e-426f-9cc9-a55bcb2fdb91": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "At Beasen,we take our price seriously,that’s why we offer our Best-Price-Guarantee. We always strive to have the lowest price available anywhere on the items we sell. Some retailers only guarantee their own sale prices, but we guarantee your price against everyone’s sale prices! Our policy is simple, if you find the same blind or shade from another retailer for a lower price, we will not only match it but will take an additional 5% off.",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-heading-1",
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-text-1",
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/placehold-48_fd33d56f-7511-422f-9584-a31e3045e9af.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 500,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "15 years of industry expertise, guaranteeing unmatched quality and style for your home.",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "rich-text-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-heading-1",
+        "rich-text-text-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "df45fe61-bff5-4111-91c8-371927842522": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-1": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>Ony applicable to identical style, size, fabric, and color smart blinds sold by a retailer<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-2": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>Only valid within first 14 days immediately following the date of purchase<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-3": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>A retailer is defined as any online store, catalog, department store or home center which routinely carries and sells new window coverings<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "a9fa57a3-6c8f-41d2-963d-ca4dc3e51a33": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>Beasen Home reserves the right to determine the legitimacy of a competitor's price<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c3e39792-902d-4fcb-8bff-08a789cb9ac0": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>Commercial orders are not included in the guarantee<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ec074f9f-967e-4014-9fef-57289ad6be79": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>Any competitor's price that falls under Beasen Home's actual cost will not be honored<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ef43e3d6-87b0-4154-a8bd-c524d63b4ccd": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>closeout and refurbished prices\/products are not eligble<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9e15e309-5bd9-4b86-b90c-a3aa56f48779": {
+          "type": "column",
+          "settings": {
+            "heading": "",
+            "text": "<p>If your order qualifies for a Price Match, we will beat the retailer's price by 5%!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-1",
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-2",
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-3",
+        "a9fa57a3-6c8f-41d2-963d-ca4dc3e51a33",
+        "c3e39792-902d-4fcb-8bff-08a789cb9ac0",
+        "ec074f9f-967e-4014-9fef-57289ad6be79",
+        "ef43e3d6-87b0-4154-a8bd-c524d63b4ccd",
+        "9e15e309-5bd9-4b86-b90c-a3aa56f48779"
+      ],
+      "settings": {
+        "title": "Price Match Details",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "column_size": "small",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*Please Note: If you fail to meet one or more of the above prerequisites, your Best Price Guarantee offer will not be fulfilled. If you have any questions or concerns, please contact us.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "2",
+        "full_width": false,
+        "prevent_animation": false
+      }
+    },
+    "060114d6-bdb1-43bb-ac52-3ece450d7cb5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20458084401469__060114d6-bdb1-43bb-ac52-3ece450d7cb5-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20458084401469__060114d6-bdb1-43bb-ac52-3ece450d7cb5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Price Adjustment",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20458084401469__060114d6-bdb1-43bb-ac52-3ece450d7cb5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you see something on sale on our site, don’t wait around to buy it! Sale prices are not permanent and can change frequently. If the purchase price of an item drops within 14 days of your purchase, just let us know and we will credit you the difference. Similarly, if you find a competitor price to be less than your purchase price within 7 days of your purchase, let us know and we can credit you the difference as well. In both cases the same item (style, size and color) must be in stock at the lesser price.If you've placed your order through a cash back affiliate, unfortunately we can't approve a price drop credit.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20458084401469__060114d6-bdb1-43bb-ac52-3ece450d7cb5-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20458084401469__060114d6-bdb1-43bb-ac52-3ece450d7cb5-subheading-1",
+        "template--20458084401469__060114d6-bdb1-43bb-ac52-3ece450d7cb5-heading-1",
+        "template--20458084401469__060114d6-bdb1-43bb-ac52-3ece450d7cb5-text-1",
+        "template--20458084401469__060114d6-bdb1-43bb-ac52-3ece450d7cb5-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "d5d48754-0d76-417e-8969-3caa001343b3": {
+      "type": "shoppable-image",
+      "blocks": {
+        "template--20458084401469__d5d48754-0d76-417e-8969-3caa001343b3-hotspot-1": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "hotspot_x": 28,
+            "hotspot_y": 38
+          }
+        },
+        "template--20458084401469__d5d48754-0d76-417e-8969-3caa001343b3-hotspot-2": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "hotspot_x": 60,
+            "hotspot_y": 23
+          }
+        },
+        "template--20458084401469__d5d48754-0d76-417e-8969-3caa001343b3-hotspot-3": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "hotspot_x": 73,
+            "hotspot_y": 54
+          }
+        }
+      },
+      "block_order": [
+        "template--20458084401469__d5d48754-0d76-417e-8969-3caa001343b3-hotspot-1",
+        "template--20458084401469__d5d48754-0d76-417e-8969-3caa001343b3-hotspot-2",
+        "template--20458084401469__d5d48754-0d76-417e-8969-3caa001343b3-hotspot-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "image_first",
+        "show_vendor": true,
+        "show_content": true,
+        "mob_center_text": false,
+        "heading": "Price Adjustment",
+        "text": "<p>If you see something on sale on our site, don’t wait around to buy it! Sale prices are not permanent and can change frequently. If the purchase price of an item drops within 14 days of your purchase, just let us know and we will credit you the difference. Similarly, if you find a competitor price to be less than your purchase price within 7 days of your purchase, let us know and we can credit you the difference as well. In both cases the same item (style, size and color) must be in stock at the lesser price.If you've placed your order through a cash back affiliate, unfortunately we can't approve a price drop credit.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "hotspot_color": "#070707",
+        "color_scheme": "none",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "ba294687-3f6a-4597-8dc5-03ad94a131f2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20458084401469__ba294687-3f6a-4597-8dc5-03ad94a131f2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sales and price adjustment:",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20458084401469__ba294687-3f6a-4597-8dc5-03ad94a131f2-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you see something on sale at beasenhome.com, don’t wait around to buy it! Sale prices are not permanent and can change frequently. If the purchase price of an item drops within 14 days of your purchase, just let us know and we will credit you the difference. Similarly, if you find a competitor price to be less than your purchase price within 7 days of your purchase, let us know and we can credit you the difference as well. In both cases the same item (style, size and color) must be in stock at the lesser price.If you've placed your order through a cash back affiliate, unfortunately we can't approve a price drop credit.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20458084401469__ba294687-3f6a-4597-8dc5-03ad94a131f2-heading-1",
+        "template--20458084401469__ba294687-3f6a-4597-8dc5-03ad94a131f2-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-end items-center",
+        "overlay_text_align": "text-start",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "39fb0e5b-2edc-4d14-ab3e-532fae988f4e",
+    "96bedf06-9f9e-426f-9cc9-a55bcb2fdb91",
+    "rich-text-1",
+    "df45fe61-bff5-4111-91c8-371927842522",
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed",
+    "060114d6-bdb1-43bb-ac52-3ece450d7cb5",
+    "d5d48754-0d76-417e-8969-3caa001343b3",
+    "ba294687-3f6a-4597-8dc5-03ad94a131f2"
+  ]
+}

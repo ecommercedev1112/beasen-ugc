@@ -1,0 +1,108 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": true
+          }
+        },
+        "divider-0": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "selector_style": "buttons",
+            "enable_dynamic_availability": true,
+            "show_backorder_text": true,
+            "enable_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "2311818d-4836-4696-ae5f-a17903a06fb1": {
+          "type": "description",
+          "settings": {}
+        },
+        "792bff42-22b8-4c30-b84f-c1aed06d6735": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "divider-1": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "spacing": "mt-8 mb-8"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": true,
+            "show_pickup_availability": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "divider-0",
+        "variant-picker",
+        "2311818d-4836-4696-ae5f-a17903a06fb1",
+        "792bff42-22b8-4c30-b84f-c1aed06d6735",
+        "divider-1",
+        "buy-buttons",
+        "share"
+      ],
+      "settings": {
+        "stick_on_scroll": true,
+        "sticky_atc_panel": false,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "media_layout": "slider",
+        "media_size": "default",
+        "media_ratio": "1",
+        "media_crop": "none",
+        "hover_zoom": "large",
+        "enable_video_looping": false,
+        "stacked_scroll": "always",
+        "underline_active": true,
+        "media_thumbs": "desktop",
+        "thumb_ratio": "1",
+        "thumb_crop": "none",
+        "media_arrows": "desktop",
+        "show_slide_count": true,
+        "border_color": "#eeeeee",
+        "bg_color": "#f4f4f4",
+        "enable_media_grouping": false,
+        "sample_link": "shopify:\/\/collections\/swatch-samples",
+        "sample_price": "9.99",
+        "sample_header": "Order Swatch Samples",
+        "sample_description": "<p>Swatch sample fee will be fefunded after place the order.<\/p>",
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

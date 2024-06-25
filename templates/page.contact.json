@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-contact",
+      "disabled": true,
+      "settings": {
+        "show_contact_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us",
+            "heading_size": "h1",
+            "heading_h1": true
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have question, comment, or concern? Send us a message and we'll respond as soon as possible<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/help_center-55.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "blocks": {
+        "contact-name-2": {
+          "type": "name",
+          "settings": {
+            "required": true,
+            "half_width": true
+          }
+        },
+        "contact-email-3": {
+          "type": "email",
+          "settings": {
+            "required": true,
+            "half_width": true
+          }
+        },
+        "contact-dropdown-4": {
+          "type": "dropdown",
+          "settings": {
+            "title": "How can we help?",
+            "options": "-\nOrder Status\nShipping\nRefund\/Return\nOther",
+            "half_width": false
+          }
+        },
+        "9362558d-ee9d-43eb-b903-54bb2e768d48": {
+          "type": "custom",
+          "settings": {
+            "title": "Title",
+            "type": "text",
+            "required": false,
+            "half_width": false
+          }
+        },
+        "contact-body-5": {
+          "type": "body",
+          "settings": {
+            "required": true,
+            "half_width": false
+          }
+        }
+      },
+      "block_order": [
+        "contact-name-2",
+        "contact-email-3",
+        "contact-dropdown-4",
+        "9362558d-ee9d-43eb-b903-54bb2e768d48",
+        "contact-body-5"
+      ],
+      "settings": {
+        "heading": "Drop us a Note",
+        "heading_align": "text-center",
+        "image_position": "top",
+        "color_scheme": "1",
+        "full_width": false,
+        "button_style": "btn btn--primary"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "newsletter-heading-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign Up to Our Newsletter",
+            "heading_size": "h5"
+          }
+        },
+        "newsletter-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Be the first to know abut our new product offerings and exclusive offers!<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "newsletter-form-2": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "newsletter-heading-0",
+        "newsletter-text-1",
+        "newsletter-form-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "overlay_position": "justify-center",
+        "text_align": "text-center",
+        "color_scheme": "default",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner",
+    "form",
+    "newsletter"
+  ]
+}

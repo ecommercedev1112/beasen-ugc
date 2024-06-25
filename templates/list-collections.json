@@ -1,0 +1,27 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "Our Collections",
+        "description": "",
+        "text_align": "text-start",
+        "display_type": "selected",
+        "selected_collections": [
+          "frontpage",
+          "zebra-shades",
+          "shangri-la-sheer-shades",
+          "solar-shades",
+          "outdoor-shades",
+          "accessories"
+        ],
+        "collections_per_page": 17,
+        "card_size": "large",
+        "use_product_image": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

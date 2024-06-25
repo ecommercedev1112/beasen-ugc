@@ -1,0 +1,781 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "SMART CONNECTIONS"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "ABOUT US",
+            "heading_size": "h0",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Beasen Smart Blinds are designed for compatibility with Apple HomeKit. In order to improve device connectivity, thread technology was created specifically for smart home applications. By utilizing the Thread Border Router feature present in your HomePod (2nd generation), HomePod mini, or Apple TV 4K (2nd generation \/ 3rd generation 128 GB), this self-healing mesh network technology improves the responsiveness, sturdiness, and reach of your smart home.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/home_banner_new-38.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 560,
+        "fixed_height_mobile": 300,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "d0c0e1c9-058f-4207-8cc8-2fdb06a38bf0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20340592869693__d0c0e1c9-058f-4207-8cc8-2fdb06a38bf0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Top Choice For Smart Blinds",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20340592869693__d0c0e1c9-058f-4207-8cc8-2fdb06a38bf0-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Light is one of the most fundamental elements of life. Now you can be in full control of how and when it enters your home."
+          }
+        },
+        "template--20340592869693__d0c0e1c9-058f-4207-8cc8-2fdb06a38bf0-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>A motorized window blind & shade solution from BEASEN fits like it is custom made for your home… <em>Because it is<\/em>. In fact, we guarantee a perfect fit or we will remake your blinds for free. Just like we guarantee the best price on smart blinds & shades and match any other offer you get. Our mission is developing the most advanced, convenient and intelligent window blind system on the market. It’s for you who wants to improve the aesthetics, utility and energy efficiency of your home.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20340592869693__d0c0e1c9-058f-4207-8cc8-2fdb06a38bf0-heading-1",
+        "template--20340592869693__d0c0e1c9-058f-4207-8cc8-2fdb06a38bf0-subheading-1",
+        "template--20340592869693__d0c0e1c9-058f-4207-8cc8-2fdb06a38bf0-text-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": false,
+        "prevent_animation": false
+      }
+    },
+    "6b108e9c-85d7-404c-804c-355f0180df2e": {
+      "type": "media-with-text",
+      "blocks": {
+        "50529b98-b7ec-40e7-b1a0-c61601808dda": {
+          "type": "subheading",
+          "settings": {
+            "text": "Our Story"
+          }
+        },
+        "e24e2824-9058-4f86-8188-91d60372dbd1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Revolutionizing Smart Blinds Since 2010",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "ee134805-7fd1-4b82-90ca-414817516b97": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We founded Beasen Home in 2010 in an effort to develop the best, most convenient smart blinds possible. Over a decade of experience has allowed to slowly refine our products over time and create the powerful, elegant smart blinds you see today. We eliminated cords and wires to eliminate tripping and any danger of children or pets getting entangled. Next, we simplified the control functions, allowing you control up to 15 blinds with one remote. Last but certainly not least, we developed motors that can connect to your favorite smart hub devices for Voice Control, App Control, Automation, and more. <\/p><p>Though we've seen success over the last years, our mission has just begun. We look forward to continuing to redefine smart blinds in the years to come.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "7db74718-0d96-41f0-9533-96d5741a5d3a": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "50529b98-b7ec-40e7-b1a0-c61601808dda",
+        "e24e2824-9058-4f86-8188-91d60372dbd1",
+        "ee134805-7fd1-4b82-90ca-414817516b97",
+        "7db74718-0d96-41f0-9533-96d5741a5d3a"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/about_story-78.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "9993819d-230e-4b8b-a94c-12094748fd9b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20340592869693__9993819d-230e-4b8b-a94c-12094748fd9b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Mission",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20340592869693__9993819d-230e-4b8b-a94c-12094748fd9b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We strive to transform the way people experience and interact with their living spaces. Beasen Home strives to provide innovative and intuitive smart blinds that seamlessly integrate into any lifestyle, empowering our customers to enhance their home’s level of comfort and style.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20340592869693__9993819d-230e-4b8b-a94c-12094748fd9b-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20340592869693__9993819d-230e-4b8b-a94c-12094748fd9b-heading-1",
+        "template--20340592869693__9993819d-230e-4b8b-a94c-12094748fd9b-text-1",
+        "template--20340592869693__9993819d-230e-4b8b-a94c-12094748fd9b-button-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/about-mission-77.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 500,
+        "fixed_height_mobile": 300,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#1a66d2",
+        "tint_opacity": 60,
+        "prevent_animation": false
+      }
+    },
+    "bb0eba85-1646-4dc2-b24d-c045d81d7d0d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20340592869693__bb0eba85-1646-4dc2-b24d-c045d81d7d0d-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20340592869693__bb0eba85-1646-4dc2-b24d-c045d81d7d0d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Mission",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "template--20340592869693__bb0eba85-1646-4dc2-b24d-c045d81d7d0d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We strive to transform the way people experience and interact with their living spaces. Beasen Home strives to provide innovative and intuitive smart blinds that seamlessly integrate into any lifestyle, empowering our customers to enhance their home’s level of comfort and style.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20340592869693__bb0eba85-1646-4dc2-b24d-c045d81d7d0d-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20340592869693__bb0eba85-1646-4dc2-b24d-c045d81d7d0d-subheading-1",
+        "template--20340592869693__bb0eba85-1646-4dc2-b24d-c045d81d7d0d-heading-1",
+        "template--20340592869693__bb0eba85-1646-4dc2-b24d-c045d81d7d0d-text-1",
+        "template--20340592869693__bb0eba85-1646-4dc2-b24d-c045d81d7d0d-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "59983807-63e9-409f-9747-f1181aaeadb9": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/continusous_innovation-78.jpg",
+            "heading": "Continuous Innovation",
+            "text": "<p>We are relentlessly innovative in our pursuit of delivering the perfect smart blinds options for any person, lifestyle, and any home.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eco_friendly-79.jpg",
+            "heading": "Eco Friendly",
+            "text": "<p>Our smart blinds not only help the environment through reduced energy consumption and solar power options. They're also made with certified safe materials.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/design_excellence-80.jpg",
+            "heading": "Design Excellence",
+            "text": "<p>We've learned a thing or two about designing smart blinds since we first began in 2010. Those years of experience have caused us to consistently raise the standard of functional and stylish smart blinds.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "7fe0b4f7-a16d-4b62-9e83-509a91396b64": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/user_empowerment-81.jpg",
+            "heading": "User Empowerment",
+            "text": "<p>We strive to provide our customers with the tools to enhance not only their home, but their daily life. Above all else, we aim to create a comfortable and convenient for each and every one of our customers.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "f965f297-5584-4d2c-8b3e-016f1f332cd3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "On The Move",
+            "text": "<p>Control your SmartWings Thread shades with your voice, even when you're not at home.Want the shades to close when you've left the house? There's no need to hang around, simply ask Siri in the car on your way out.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c1bf9346-687f-487b-83ed-6ce15f806302": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-1",
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-2",
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-3",
+        "7fe0b4f7-a16d-4b62-9e83-509a91396b64",
+        "f965f297-5584-4d2c-8b3e-016f1f332cd3",
+        "c1bf9346-687f-487b-83ed-6ce15f806302"
+      ],
+      "settings": {
+        "bg": "transparent",
+        "add_padding": false,
+        "title": "Our Values",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "small",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "394d5119-0ce6-444b-bd39-5274fa758327": {
+      "type": "promo-strip",
+      "blocks": {
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Delivering Comfort Every Day",
+            "heading_size": "h3",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button",
+            "button_link": "",
+            "button_style": "btn btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1",
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1"
+      ],
+      "settings": {
+        "section_height": "medium",
+        "color_scheme": "2",
+        "full_width": true,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    },
+    "6cf5c3f8-c146-4fa3-9a2e-f846a06fccf0": {
+      "type": "media-with-text",
+      "blocks": {
+        "8bd8b1e4-1d9c-4e6d-8bb5-077ddaf232c1": {
+          "type": "heading",
+          "settings": {
+            "heading": "On The Move",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "454be0d0-dcf3-4ead-bc49-12c41c37a4f9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Control your SmartWings Thread shades with your voice, even when you're not at home.Want the shades to close when you've left the house? There's no need to hang around, simply ask Siri in the car on your way out.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "8bd8b1e4-1d9c-4e6d-8bb5-077ddaf232c1",
+        "454be0d0-dcf3-4ead-bc49-12c41c37a4f9"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "ed60ddbf-72d8-4d82-98ad-3473001fa822": {
+      "type": "media-with-text",
+      "blocks": {
+        "967d9781-bec2-4ba9-9691-fdd1f8b6514e": {
+          "type": "subheading",
+          "settings": {
+            "text": "Our Philosophy"
+          }
+        },
+        "template--20340592869693__ed60ddbf-72d8-4d82-98ad-3473001fa822-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Beasen Home Way",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20340592869693__ed60ddbf-72d8-4d82-98ad-3473001fa822-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our philosophy is rooted in the belief that technology should enhance and simplify human experiences. We feel strongly that smart blinds should seamlessly integrate into your lifestyle without disruption. Our design principles are guided by elegance and functionality, as we strive to create products that not only elevate the aesthetics of your home, but also empower you with intuitive controls. We are driven by a commitment of continuous improvement and customer-centricity, we are not just a smart blinds company, but a beacon of innovation, quality, and thoughtful design. Join us in embracing a future where technology and comfort exist in perfect balance.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20340592869693__ed60ddbf-72d8-4d82-98ad-3473001fa822-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "967d9781-bec2-4ba9-9691-fdd1f8b6514e",
+        "template--20340592869693__ed60ddbf-72d8-4d82-98ad-3473001fa822-heading-1",
+        "template--20340592869693__ed60ddbf-72d8-4d82-98ad-3473001fa822-text-1",
+        "template--20340592869693__ed60ddbf-72d8-4d82-98ad-3473001fa822-button-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/about_why-79.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "1"
+      }
+    },
+    "f31ec582-8184-4a47-b1bc-ca9c4f0ccda4": {
+      "type": "media-with-text",
+      "blocks": {
+        "315f74a9-6de9-4049-8fc3-d17bfc276155": {
+          "type": "subheading",
+          "settings": {
+            "text": "Our Vision"
+          }
+        },
+        "66bcbe67-e4e2-4ee2-9b99-6e0720761a8d": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Comfortable Future",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "b899c2ea-2ef5-4b83-aa69-9aea69bb3797": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Beasen Home, we envision a world where the balance between comfort and functionality is seamlessly bridged by cutting-edge technology. We are determined to revolutionize the way you interact with your living spaces, by empowering you to effortlessly integrate smart blinds that adapt to your lifestyle. With a commitment to innovation, design, and unparalleled convenience, we are dedicated to shaping a brighter, more comfortable tomorrow for all our customers.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "923d7fde-d5cf-44bc-8f32-f6641a83e891": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "315f74a9-6de9-4049-8fc3-d17bfc276155",
+        "66bcbe67-e4e2-4ee2-9b99-6e0720761a8d",
+        "b899c2ea-2ef5-4b83-aa69-9aea69bb3797",
+        "923d7fde-d5cf-44bc-8f32-f6641a83e891"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/about-vision-76.jpg",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "1"
+      }
+    },
+    "c89a0ac3-3367-495b-8ee5-68c0b97e7b10": {
+      "type": "logo-list",
+      "blocks": {
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/buzzfeed.png",
+            "url": "",
+            "logo_width": 100
+          }
+        },
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mashable.png",
+            "url": "",
+            "logo_width": 100
+          }
+        },
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cnet.png",
+            "url": "",
+            "logo_width": 80
+          }
+        },
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cbsn.png",
+            "url": "",
+            "logo_width": 100
+          }
+        },
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/usatoday.png",
+            "url": "",
+            "logo_width": 100
+          }
+        },
+        "aa398aa0-ef7d-4dd7-93b8-87f0cf33bd21": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hgtv.png",
+            "url": "",
+            "logo_width": 80
+          }
+        },
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-8": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        },
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-9": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-1",
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-2",
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-3",
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-4",
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-5",
+        "aa398aa0-ef7d-4dd7-93b8-87f0cf33bd21",
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-8",
+        "template--20340592869693__c89a0ac3-3367-495b-8ee5-68c0b97e7b10-logo-9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "spacing": 128,
+        "logo_grid_align": "justify-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "026220c3-072f-4cac-8cb5-f23efbfa2019": {
+      "type": "media-with-text",
+      "blocks": {
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677": {
+          "type": "heading",
+          "settings": {
+            "heading": "Power Display",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "3736f12f-21f9-4784-af9e-a378396b89ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Does wondering how's the battery level? Still slip to the related page for obtaining the info.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677",
+        "3736f12f-21f9-4784-af9e-a378396b89ba"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "540386c9-8168-4f5f-82f0-ad49f23db796": {
+      "type": "contact-form",
+      "blocks": {
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-name-1": {
+          "type": "name",
+          "settings": {
+            "required": true,
+            "half_width": true
+          }
+        },
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-phone-1": {
+          "type": "phone",
+          "settings": {
+            "required": false,
+            "half_width": true
+          }
+        },
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-email-1": {
+          "type": "email",
+          "settings": {
+            "required": true,
+            "half_width": false
+          }
+        },
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-dropdown-1": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "title": "Dropdown",
+            "options": "Option 1\nOption 2\nOption 3",
+            "half_width": true
+          }
+        },
+        "c0e127fd-b8f7-4acd-bbc0-b15bf0bd2e70": {
+          "type": "custom",
+          "settings": {
+            "title": "Title",
+            "type": "text",
+            "required": false,
+            "half_width": false
+          }
+        },
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-body-1": {
+          "type": "body",
+          "settings": {
+            "required": true,
+            "half_width": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-name-1",
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-phone-1",
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-email-1",
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-dropdown-1",
+        "c0e127fd-b8f7-4acd-bbc0-b15bf0bd2e70",
+        "template--20340592869693__540386c9-8168-4f5f-82f0-ad49f23db796-body-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Contact Us",
+        "heading_align": "text-center",
+        "image_position": "top",
+        "color_scheme": "none",
+        "full_width": true,
+        "button_style": "btn btn--primary"
+      }
+    },
+    "552f6958-e9cb-4c39-b6df-5fa1ad8855fc": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Featured Blogs",
+        "heading_align": "text-center",
+        "show_view_all": true,
+        "blog": "news",
+        "layout": "carousel",
+        "posts_to_show": 8,
+        "show_featured_image": true,
+        "show_tags": false,
+        "show_excerpt": true,
+        "show_author": false,
+        "show_date": true,
+        "show_button": false,
+        "color_scheme": "none",
+        "image_ratio": "1.77",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "show_view_all": false,
+        "collection": "frontpage",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 24,
+        "show_promo_info": true,
+        "image_ratio": "1.77",
+        "promo_title": "Related  Product",
+        "content": "<p>Explore our popular products that combining cutting-edge technology with elegant design to transform your living space. Experience the ultimate convenience and control as you effortlessly adjust lighting, privacy, and ambiance with a simple tap on your device.<\/p>",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "d0c0e1c9-058f-4207-8cc8-2fdb06a38bf0",
+    "6b108e9c-85d7-404c-804c-355f0180df2e",
+    "9993819d-230e-4b8b-a94c-12094748fd9b",
+    "bb0eba85-1646-4dc2-b24d-c045d81d7d0d",
+    "59983807-63e9-409f-9747-f1181aaeadb9",
+    "394d5119-0ce6-444b-bd39-5274fa758327",
+    "6cf5c3f8-c146-4fa3-9a2e-f846a06fccf0",
+    "ed60ddbf-72d8-4d82-98ad-3473001fa822",
+    "f31ec582-8184-4a47-b1bc-ca9c4f0ccda4",
+    "c89a0ac3-3367-495b-8ee5-68c0b97e7b10",
+    "026220c3-072f-4cac-8cb5-f23efbfa2019",
+    "540386c9-8168-4f5f-82f0-ad49f23db796",
+    "552f6958-e9cb-4c39-b6df-5fa1ad8855fc",
+    "featured-collection"
+  ]
+}

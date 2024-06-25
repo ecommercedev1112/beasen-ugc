@@ -1,0 +1,509 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Works With"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "AMAZON ALEXA",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/alexa_banner_new-95.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "96b5578a-9420-4a84-94e7-719e35329435": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20299651809597__96b5578a-9420-4a84-94e7-719e35329435-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20299651809597__96b5578a-9420-4a84-94e7-719e35329435-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unlock Amazing Features",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "template--20299651809597__96b5578a-9420-4a84-94e7-719e35329435-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Connect your Beasen Home smart blinds to compatible with Amazon Alexa devices and simplify your life with convenient smart features.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20299651809597__96b5578a-9420-4a84-94e7-719e35329435-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20299651809597__96b5578a-9420-4a84-94e7-719e35329435-subheading-1",
+        "template--20299651809597__96b5578a-9420-4a84-94e7-719e35329435-heading-1",
+        "template--20299651809597__96b5578a-9420-4a84-94e7-719e35329435-text-1",
+        "template--20299651809597__96b5578a-9420-4a84-94e7-719e35329435-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "1",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "212768fa-b8c0-48f0-8a40-712078e71298": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/homekit-40.jpg",
+            "heading": "Voice Control",
+            "text": "<p>Easily control your smart blinds with your voice commands through your compatible Amazon Alexa device.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ba3521a3-2e74-4083-9d60-960dd6cb250d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/homekit-43.jpg",
+            "heading": "Alexa Scenes",
+            "text": "<p>Create time-saving Alexa Scenes to automate your blinds to open, close, or adjust at a specific time of day, every day.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5fe0ead8-e9dd-4508-8d0b-c5afba2045e9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/alexa-50.jpg",
+            "heading": "Precise Light Control",
+            "text": "<p>Tell Alexa whether you want your blinds 0% closed (fully open), 50% closed (half-open), or 100% closed (fully closed), for more precise light control.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2",
+        "ba3521a3-2e74-4083-9d60-960dd6cb250d",
+        "5fe0ead8-e9dd-4508-8d0b-c5afba2045e9"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "two_col": false,
+        "column_size": "medium",
+        "column_align": "center",
+        "image_ratio": "1",
+        "image_width": "w-1\/3",
+        "color_scheme": "3",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "114689b0-1989-4112-a779-c11142b5e62d": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20299651809597__114689b0-1989-4112-a779-c11142b5e62d-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/custom_commands_new-14.jpg",
+            "heading": "Custom Commands",
+            "text": "<p>Add a bit of personality to your commands. Create custom commands through your Amazon Alexa device to open, close, or adjust your smart blinds.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20299651809597__114689b0-1989-4112-a779-c11142b5e62d-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Seamless_Intergration-39.jpg",
+            "heading": "Seamless Integration",
+            "text": "<p>Integrate your smart blinds into your existing smart home ecosystem. Use the Amazon Alexa app to coordinate your smart blinds' actions with other smart devices, light light bulbs and thermostats.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20299651809597__114689b0-1989-4112-a779-c11142b5e62d-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/expanded_compatibility-15.jpg",
+            "heading": "Expanded Compatibility",
+            "text": "<p>If your Amazon Alexa device is not natively compatible with your Beasen Home smart blinds, you can purchase our Smart Link Hub to connect to ANY Amazon Alexa device.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6840cbee-6c04-4965-b251-07e6f18cba9a": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "Direct Compatibility",
+            "text": "<p>Easily control your smart blinds with your voice by creating custom voice commands on your amazon alexa device.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "4c0df901-7814-4690-b5f7-22155796f0aa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Native_compatibility-40.jpg",
+            "heading": "Native Compatibility",
+            "text": "<p>Our Zigbee \/ Alexa motors are natively compatible with: Echo Plus 2nd Gen, Echo Show 2nd Gen, Echo Studio, Echo Show 10,Echo 4th Gen<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e990f604-89f5-44e0-a862-e54d837b1627": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20299651809597__114689b0-1989-4112-a779-c11142b5e62d-column-1",
+        "template--20299651809597__114689b0-1989-4112-a779-c11142b5e62d-column-2",
+        "template--20299651809597__114689b0-1989-4112-a779-c11142b5e62d-column-3",
+        "6840cbee-6c04-4965-b251-07e6f18cba9a",
+        "4c0df901-7814-4690-b5f7-22155796f0aa",
+        "e990f604-89f5-44e0-a862-e54d837b1627"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "Other Features",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "large",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "e67e3af0-5dba-4034-93cc-4e90e3441683": {
+      "type": "video",
+      "blocks": {
+        "template--20280184832317__e67e3af0-5dba-4034-93cc-4e90e3441683-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Setup Guide",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__e67e3af0-5dba-4034-93cc-4e90e3441683-heading-1"
+      ],
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/Alexa.MOV",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_description": "",
+        "video_size": "md",
+        "video_autoplay": true,
+        "text_align": "text-center",
+        "color_scheme": "1"
+      }
+    },
+    "c0c7b2e9-2892-428a-be0c-9f72b97085fe": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step-1.png",
+            "heading": "",
+            "text": "<p>Open the Alexa app. In the DEVICES menu, select the(+) icon<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step-2.png",
+            "heading": "",
+            "text": "<p>Select \"Add Device\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step-3.png",
+            "heading": "",
+            "text": "<p>Select \"other\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "80e61358-2db4-494c-aa1a-23dd56f19d27": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step-4.png",
+            "heading": "",
+            "text": "<p>Select \"Zigbee\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "4cb82625-ff73-469a-a369-82a4b2d7ef6f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step-5.png",
+            "heading": "",
+            "text": "<p>Press the \"Discover Devices\" button<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-1",
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-2",
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-3",
+        "80e61358-2db4-494c-aa1a-23dd56f19d27",
+        "4cb82625-ff73-469a-a369-82a4b2d7ef6f"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "two_col": false,
+        "column_size": "small",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2": {
+      "type": "faq",
+      "blocks": {
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Shipping"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Do I need a bridge or gateway to connect my Alexa device to the blinds?",
+            "text": "<p>No, if your device is included in the compatibility list, you do not need a hub to connect.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Is the Alexa motor compatible with all Alexa devices?",
+            "text": "<p>No, the Amazon motor is only compatible with: Echo Plus 2nd Gen, Echo Show 2nd Gen, Echo Studio, Echo Show 10,Echo 4th Gen<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How do I program my blinds to my Alexa device?",
+            "text": "<p>Check out our Alexa Programming Guide for a step-by-step tutorial.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Can I use voice control with my smart blinds?",
+            "text": "<p>Yes, if you use your Alexa device, you can use voice commands to control your blinds.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4"
+      ],
+      "settings": {
+        "heading": "Things to Know",
+        "heading_align": "text-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".product-inventory__status {display: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "show_view_all": false,
+        "collection": "frontpage",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 24,
+        "show_promo_info": false,
+        "image_ratio": "1.77",
+        "promo_title": "Related  Product",
+        "content": "<p>Explore our popular products that combining cutting-edge technology with elegant design to transform your living space. Experience the ultimate convenience and control as you effortlessly adjust lighting, privacy, and ambiance with a simple tap on your device.<\/p>",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "96b5578a-9420-4a84-94e7-719e35329435",
+    "212768fa-b8c0-48f0-8a40-712078e71298",
+    "114689b0-1989-4112-a779-c11142b5e62d",
+    "e67e3af0-5dba-4034-93cc-4e90e3441683",
+    "c0c7b2e9-2892-428a-be0c-9f72b97085fe",
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed",
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2",
+    "featured-collection"
+  ]
+}

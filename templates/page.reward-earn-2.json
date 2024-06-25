@@ -1,0 +1,573 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "BEASEN DIFFERENCE"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "WHY BEASEN",
+            "heading_size": "h0",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enhance your living space with our alluring smart blinds, backed by an impressive 15 years of industry expertise, guaranteeing unmatched quality and style for your home.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/infowishare_smart_window_shades_in_the_fancy_house_74253e3e-b6cb-4e80-8bf4-b07eb4070111.png",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 560,
+        "fixed_height_mobile": 480,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "96bedf06-9f9e-426f-9cc9-a55bcb2fdb91": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "15 years of industry expertise, guaranteeing unmatched quality and style for your home.",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-heading-1",
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-text-1",
+        "template--20277506310461__96bedf06-9f9e-426f-9cc9-a55bcb2fdb91-button-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/placehold-48_fd33d56f-7511-422f-9584-a31e3045e9af.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 500,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "15 years of industry expertise, guaranteeing unmatched quality and style for your home.",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "rich-text-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-heading-1",
+        "rich-text-text-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "fe39c609-68bc-414d-aef9-228939e7c264": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20277506310461__fe39c609-68bc-414d-aef9-228939e7c264-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner_new_icon-25_84bdf8ae-cdcf-4c80-b521-70ce0420ea0b.png",
+            "heading": "Perfect-Fit-Guarantee",
+            "text": "<p>It's really easy to measure the correct size for your blinds,but everyone makes mistakes.Our goal is to make your purchase decision as simple as possible.If your blinds do not fit or you make mistakes on measuring,No worry,we will give you peace of mind and replace a blind with the correct size for free when you’ve purchased on Perfect-Fit-Guarantee.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20277506310461__fe39c609-68bc-414d-aef9-228939e7c264-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner_new_icon-23_8e316669-d7c2-4728-afac-d5b1d3e828b5.png",
+            "heading": "Lifetime Limited Warranty",
+            "text": "<p>Your window treatments are more than an expression of your personal style—they’re an investment in your home. When you choose Beasen blinds & shades, our goal is to give you the best experience, from the moment you pick out your swatches to the second you step back to admire your newly covered windows and beyond. Pls click to read more about lifetime limited warranty.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20277506310461__fe39c609-68bc-414d-aef9-228939e7c264-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/easy_install-45.jpg",
+            "heading": "Either DIY or PRO",
+            "text": "<p>Most of the smart motorized blinds and shades we sell at Beasen are very simple to measure and install.However, some customers have large windows, hard to reach windows, or just feel more comfortable having a trained professional measure and install for them. For these reasons, we have partnered with Nationwide Blind Installation! Finding a professional to either install or even measure and install for you has never been easier. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "deaca11a-fbd3-4e2a-bc32-1d8e0a8f772a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner_new_icon-22_1c6426f6-6f35-4357-bd29-ed6a83d60669.png",
+            "heading": "Worldwide Free Shipping",
+            "text": "<p>We offer WORLDWIDE FREE SHIPPING on all orders.Excludes Alaska and Hawaii. Please note, we cannot ship to PO boxes, FPO or APO addresses.No minimum order required.All orders will be shipped standard ground.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__fe39c609-68bc-414d-aef9-228939e7c264-column-1",
+        "template--20277506310461__fe39c609-68bc-414d-aef9-228939e7c264-column-2",
+        "template--20277506310461__fe39c609-68bc-414d-aef9-228939e7c264-column-3",
+        "deaca11a-fbd3-4e2a-bc32-1d8e0a8f772a"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "small",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-1\/3",
+        "color_scheme": "3",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "image-banner-2": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-2-heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Motor",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "dd5f86c1-3b62-49a5-a09e-adfac451ade3": {
+          "type": "subheading",
+          "settings": {
+            "text": "subheading"
+          }
+        },
+        "9c3a4bf9-33fd-4557-83e8-38dee6709536": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "cd9bf615-bb0e-4635-bcf3-6c5ae4f0ede9": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/pages\/contact",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-2-heading",
+        "dd5f86c1-3b62-49a5-a09e-adfac451ade3",
+        "9c3a4bf9-33fd-4557-83e8-38dee6709536",
+        "cd9bf615-bb0e-4635-bcf3-6c5ae4f0ede9"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/placehold-48_fd33d56f-7511-422f-9584-a31e3045e9af.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 480,
+        "overlay_position": "justify-start items-center",
+        "overlay_text_align": "text-start",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "2",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 5,
+        "prevent_animation": false
+      }
+    },
+    "a202a7e2-1e71-466a-9f65-fd074c58fb8e": {
+      "type": "image-banner",
+      "blocks": {
+        "e1c90911-c62e-4395-aaf3-45f293d9f6ed": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quality",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "ecf5ed19-3906-47de-94cd-27a0857651e7": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "7a35e31f-2868-4702-b1a6-7d0f50350bfb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p><p><\/p>",
+            "enlarge_text": false
+          }
+        },
+        "9de7b5ae-25f2-465f-945d-b21444355c30": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/pages\/contact",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "e1c90911-c62e-4395-aaf3-45f293d9f6ed",
+        "ecf5ed19-3906-47de-94cd-27a0857651e7",
+        "7a35e31f-2868-4702-b1a6-7d0f50350bfb",
+        "9de7b5ae-25f2-465f-945d-b21444355c30"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/placehold-48_fd33d56f-7511-422f-9584-a31e3045e9af.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 480,
+        "overlay_position": "justify-end items-center",
+        "overlay_text_align": "text-start",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "2",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 5,
+        "prevent_animation": false
+      }
+    },
+    "c727fac4-3ac4-4aa6-beb6-00e43b9424d9": {
+      "type": "image-banner",
+      "blocks": {
+        "5f8dd69f-d592-47db-92fb-b5d9c356ec17": {
+          "type": "heading",
+          "settings": {
+            "heading": "Design",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "909bd45d-5f96-466c-bcbf-30904b550517": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "099f3d7a-f000-41a6-ae87-ebd86371184b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "94ecc6b5-7a27-4769-9aea-3e7e838fa845": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/pages\/contact",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "5f8dd69f-d592-47db-92fb-b5d9c356ec17",
+        "909bd45d-5f96-466c-bcbf-30904b550517",
+        "099f3d7a-f000-41a6-ae87-ebd86371184b",
+        "94ecc6b5-7a27-4769-9aea-3e7e838fa845"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/placehold-48_fd33d56f-7511-422f-9584-a31e3045e9af.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 480,
+        "overlay_position": "justify-start items-center",
+        "overlay_text_align": "text-start",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "2",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 5,
+        "prevent_animation": false
+      }
+    },
+    "394d5119-0ce6-444b-bd39-5274fa758327": {
+      "type": "promo-strip",
+      "blocks": {
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "97%",
+            "heading_size": "h2",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>of customers are satisfied with their smart blinds<\/p>",
+            "enlarge_text": true,
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button",
+            "button_link": "",
+            "button_style": "btn btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1",
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-text-1",
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1"
+      ],
+      "settings": {
+        "section_height": "default",
+        "color_scheme": "2",
+        "full_width": true,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    },
+    "df45fe61-bff5-4111-91c8-371927842522": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/placehold-47_b4585cc9-1f6e-43a8-abd2-dfe92ab86406.jpg",
+            "heading": "Point 1",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/placehold-47_b4585cc9-1f6e-43a8-abd2-dfe92ab86406.jpg",
+            "heading": "Point 2",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/placehold-47_b4585cc9-1f6e-43a8-abd2-dfe92ab86406.jpg",
+            "heading": "Point 1",
+            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-1",
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-2",
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-3"
+      ],
+      "settings": {
+        "title": "What We Care",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "column_size": "medium",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "show_view_all": false,
+        "collection": "frontpage",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 24,
+        "show_promo_info": true,
+        "image_ratio": "1.77",
+        "promo_title": "Propular Product",
+        "content": "<p>Explore our popular products that combining cutting-edge technology with elegant design to transform your living space. Experience the ultimate convenience and control as you effortlessly adjust lighting, privacy, and ambiance with a simple tap on your device.<\/p>",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "96bedf06-9f9e-426f-9cc9-a55bcb2fdb91",
+    "rich-text-1",
+    "fe39c609-68bc-414d-aef9-228939e7c264",
+    "image-banner-2",
+    "a202a7e2-1e71-466a-9f65-fd074c58fb8e",
+    "c727fac4-3ac4-4aa6-beb6-00e43b9424d9",
+    "394d5119-0ce6-444b-bd39-5274fa758327",
+    "df45fe61-bff5-4111-91c8-371927842522",
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed",
+    "featured-collection"
+  ]
+}

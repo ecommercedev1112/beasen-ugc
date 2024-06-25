@@ -1,0 +1,313 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "heading_align": "text-center"
+      }
+    },
+    "4e3ed7f3-6cbb-4b12-9ae1-c95d22223311": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20793645531453__4e3ed7f3-6cbb-4b12-9ae1-c95d22223311-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reviews",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "template--20793645531453__4e3ed7f3-6cbb-4b12-9ae1-c95d22223311-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20793645531453__4e3ed7f3-6cbb-4b12-9ae1-c95d22223311-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20793645531453__4e3ed7f3-6cbb-4b12-9ae1-c95d22223311-heading-1",
+        "template--20793645531453__4e3ed7f3-6cbb-4b12-9ae1-c95d22223311-text-1",
+        "template--20793645531453__4e3ed7f3-6cbb-4b12-9ae1-c95d22223311-button-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/review-banner.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 500,
+        "fixed_height_mobile": 300,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "29c68ba5-5298-4822-b015-9d9bbd92364b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20793645531453__29c68ba5-5298-4822-b015-9d9bbd92364b-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20793645531453__29c68ba5-5298-4822-b015-9d9bbd92364b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reviews",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--20793645531453__29c68ba5-5298-4822-b015-9d9bbd92364b-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20793645531453__29c68ba5-5298-4822-b015-9d9bbd92364b-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20793645531453__29c68ba5-5298-4822-b015-9d9bbd92364b-subheading-1",
+        "template--20793645531453__29c68ba5-5298-4822-b015-9d9bbd92364b-heading-1",
+        "template--20793645531453__29c68ba5-5298-4822-b015-9d9bbd92364b-text-1",
+        "template--20793645531453__29c68ba5-5298-4822-b015-9d9bbd92364b-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "76905e7c-6c3a-41f3-93ec-a098748a6182": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20793645531453__76905e7c-6c3a-41f3-93ec-a098748a6182-column-1": {
+          "type": "column",
+          "settings": {
+            "heading": "Column",
+            "text": "<p>\"Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more ,to make your home as comforable as possible.\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "f5d7156f-d9e3-484d-8859-6d23bb0071cb": {
+          "type": "column",
+          "settings": {
+            "heading": "Column",
+            "text": "<p>\"Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more ,to make your home as comforable as possible.\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b6e9aa21-f110-451a-b360-cb783c9d217b": {
+          "type": "column",
+          "settings": {
+            "heading": "Column",
+            "text": "<p>\"Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more ,to make your home as comforable as possible.\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "295bbc4a-622a-4169-986b-1e21b8ae11c9": {
+          "type": "column",
+          "settings": {
+            "heading": "Column",
+            "text": "<p>\"Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more ,to make your home as comforable as possible.\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5a498dfa-5c3e-43ad-9afe-36c2976af826": {
+          "type": "column",
+          "settings": {
+            "heading": "Column",
+            "text": "<p>\"Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more ,to make your home as comforable as possible.\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5d35084c-73e7-476b-95a6-ab261d7471c6": {
+          "type": "column",
+          "settings": {
+            "heading": "Column",
+            "text": "<p>\"Beasen Home Smart Blinds feature state-of-the-art technology like automation, smart hub compatibility, voice control, and more ,to make your home as comforable as possible.\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20793645531453__76905e7c-6c3a-41f3-93ec-a098748a6182-column-1",
+        "f5d7156f-d9e3-484d-8859-6d23bb0071cb",
+        "b6e9aa21-f110-451a-b360-cb783c9d217b",
+        "295bbc4a-622a-4169-986b-1e21b8ae11c9",
+        "5a498dfa-5c3e-43ad-9afe-36c2976af826",
+        "5d35084c-73e7-476b-95a6-ab261d7471c6"
+      ],
+      "settings": {
+        "bg": "transparent",
+        "add_padding": false,
+        "title": "Featured On",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "medium",
+        "column_align": "center",
+        "image_ratio": "shortest",
+        "image_width": "w-1\/2",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "57f199fa-5c7f-495a-b142-2f68cc6972bd": {
+      "type": "beasen-video-blocks",
+      "blocks": {
+        "template--20793645531453__57f199fa-5c7f-495a-b142-2f68cc6972bd-Block-1": {
+          "type": "Block",
+          "settings": {
+            "video_url": "",
+            "video_text": "The Top Trends in Solar Shade Designs for Your Home",
+            "user_name": ""
+          }
+        },
+        "template--20793645531453__57f199fa-5c7f-495a-b142-2f68cc6972bd-Block-2": {
+          "type": "Block",
+          "settings": {
+            "video_url": "",
+            "video_text": "The Top Trends in Solar Shade Designs for Your Home",
+            "user_name": ""
+          }
+        },
+        "template--20793645531453__57f199fa-5c7f-495a-b142-2f68cc6972bd-Block-3": {
+          "type": "Block",
+          "settings": {
+            "video_url": "",
+            "video_text": "The Top Trends in Solar Shade Designs for Your Home",
+            "user_name": ""
+          }
+        },
+        "template--20793645531453__57f199fa-5c7f-495a-b142-2f68cc6972bd-Block-4": {
+          "type": "Block",
+          "settings": {
+            "video_url": "",
+            "video_text": "The Top Trends in Solar Shade Designs for Your Home",
+            "user_name": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20793645531453__57f199fa-5c7f-495a-b142-2f68cc6972bd-Block-1",
+        "template--20793645531453__57f199fa-5c7f-495a-b142-2f68cc6972bd-Block-2",
+        "template--20793645531453__57f199fa-5c7f-495a-b142-2f68cc6972bd-Block-3",
+        "template--20793645531453__57f199fa-5c7f-495a-b142-2f68cc6972bd-Block-4"
+      ],
+      "settings": {
+        "bg": "transparent",
+        "remove_padding": false,
+        "heading": "Product Reviews",
+        "view_text": "View More",
+        "column_per": "column_two",
+        "view_url": ""
+      }
+    },
+    "a04753eb-cfd7-436a-8217-fc1c9b2841b0": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20793645531453__a04753eb-cfd7-436a-8217-fc1c9b2841b0-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Use review app<\/p>",
+            "author": "Author's name",
+            "author_info": "Author information",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "template--20793645531453__a04753eb-cfd7-436a-8217-fc1c9b2841b0-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Author information",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        },
+        "template--20793645531453__a04753eb-cfd7-436a-8217-fc1c9b2841b0-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Author information",
+            "show_star_rating": true,
+            "star_rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "template--20793645531453__a04753eb-cfd7-436a-8217-fc1c9b2841b0-testimonial-1",
+        "template--20793645531453__a04753eb-cfd7-436a-8217-fc1c9b2841b0-testimonial-2",
+        "template--20793645531453__a04753eb-cfd7-436a-8217-fc1c9b2841b0-testimonial-3"
+      ],
+      "settings": {
+        "heading": "Customer Reviews",
+        "show_quotes": true,
+        "nav_style": "slideshow_nav_lines",
+        "transition": "slide-fade",
+        "autoplay": false,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "default",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4e3ed7f3-6cbb-4b12-9ae1-c95d22223311",
+    "29c68ba5-5298-4822-b015-9d9bbd92364b",
+    "76905e7c-6c3a-41f3-93ec-a098748a6182",
+    "57f199fa-5c7f-495a-b142-2f68cc6972bd",
+    "a04753eb-cfd7-436a-8217-fc1c9b2841b0"
+  ]
+}

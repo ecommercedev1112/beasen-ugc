@@ -1,0 +1,384 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "heading_align": "text-center"
+      }
+    },
+    "af286857-3744-4833-b6a5-bf726043a806": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20341308490045__af286857-3744-4833-b6a5-bf726043a806-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "BECOME A DEALER",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "template--20341308490045__af286857-3744-4833-b6a5-bf726043a806-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20341308490045__af286857-3744-4833-b6a5-bf726043a806-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20341308490045__af286857-3744-4833-b6a5-bf726043a806-heading-1",
+        "template--20341308490045__af286857-3744-4833-b6a5-bf726043a806-text-1",
+        "template--20341308490045__af286857-3744-4833-b6a5-bf726043a806-button-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/become_a_dealer-74.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "e3b1a8de-0b23-4a40-b51c-f8ead683f0c1": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--20341355184445__e3b1a8de-0b23-4a40-b51c-f8ead683f0c1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why works with Beasen?",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20341355184445__e3b1a8de-0b23-4a40-b51c-f8ead683f0c1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20341355184445__e3b1a8de-0b23-4a40-b51c-f8ead683f0c1-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20341355184445__e3b1a8de-0b23-4a40-b51c-f8ead683f0c1-heading-1",
+        "template--20341355184445__e3b1a8de-0b23-4a40-b51c-f8ead683f0c1-text-1",
+        "template--20341355184445__e3b1a8de-0b23-4a40-b51c-f8ead683f0c1-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "81adb301-357b-4168-ba76-34f1596b487a": {
+      "type": "shoppable-image",
+      "blocks": {
+        "template--20341355184445__81adb301-357b-4168-ba76-34f1596b487a-hotspot-1": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "hotspot_x": 28,
+            "hotspot_y": 38
+          }
+        },
+        "template--20341355184445__81adb301-357b-4168-ba76-34f1596b487a-hotspot-2": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "hotspot_x": 60,
+            "hotspot_y": 23
+          }
+        },
+        "template--20341355184445__81adb301-357b-4168-ba76-34f1596b487a-hotspot-3": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "hotspot_x": 73,
+            "hotspot_y": 54
+          }
+        }
+      },
+      "block_order": [
+        "template--20341355184445__81adb301-357b-4168-ba76-34f1596b487a-hotspot-1",
+        "template--20341355184445__81adb301-357b-4168-ba76-34f1596b487a-hotspot-2",
+        "template--20341355184445__81adb301-357b-4168-ba76-34f1596b487a-hotspot-3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/whole_sale_why-0831.jpg",
+        "layout": "image_first",
+        "show_vendor": true,
+        "show_content": true,
+        "mob_center_text": false,
+        "heading": "Why Beasen Home?",
+        "text": "<p>Become a Beasen Home dealer and enjoy low investment, fast-growth, and high returns. We’ll take care of lead generation and admin support so you can focus on providing great service and delivering perfect results for your customers.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "hotspot_color": "#070707",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "2b4c7e67-d4d0-45ed-b464-2fa48c970825": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20341355184445__2b4c7e67-d4d0-45ed-b464-2fa48c970825-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leads.svg",
+            "heading": "",
+            "text": "<p>Proven System To Generate Quality Affordable Leads!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20341355184445__2b4c7e67-d4d0-45ed-b464-2fa48c970825-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/selling.svg",
+            "heading": "",
+            "text": "<p>Admin Support To Allow You To Focus On Selling<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20341355184445__2b4c7e67-d4d0-45ed-b464-2fa48c970825-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CRM.svg",
+            "heading": "",
+            "text": "<p>State Of The Art, Intuitive CRM System<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "db37b962-670b-4a45-b9e4-55af3a6823aa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/factory.svg",
+            "heading": "",
+            "text": "<p>We Manufacture For You<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "a6d61b51-f7bb-4951-9340-2d1313ada42e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brand_name.svg",
+            "heading": "",
+            "text": "<p>Brand Name Suppliers<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c0792294-0cfc-4eb7-875f-a33e93dc5919": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/discount.svg",
+            "heading": "",
+            "text": "<p>The Best Discounts In The Industry<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "cb07f363-ce56-4265-bd22-4a45b0528aee": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/area.svg",
+            "heading": "",
+            "text": "<p>Only One Dealer Per Market Area<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "404684f6-5ed5-4045-b811-a90434cd7584": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zero.svg",
+            "heading": "",
+            "text": "<p><strong>ZERO<\/strong> Dealership Fees<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20341355184445__2b4c7e67-d4d0-45ed-b464-2fa48c970825-column-1",
+        "template--20341355184445__2b4c7e67-d4d0-45ed-b464-2fa48c970825-column-2",
+        "template--20341355184445__2b4c7e67-d4d0-45ed-b464-2fa48c970825-column-3",
+        "db37b962-670b-4a45-b9e4-55af3a6823aa",
+        "a6d61b51-f7bb-4951-9340-2d1313ada42e",
+        "c0792294-0cfc-4eb7-875f-a33e93dc5919",
+        "cb07f363-ce56-4265-bd22-4a45b0528aee",
+        "404684f6-5ed5-4045-b811-a90434cd7584"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 640px) {.multi-column {width: 45% !important; } .card__info {padding: 5px !important; }}"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "Grow With Beasen Home",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": true,
+        "column_size": "small",
+        "column_align": "center",
+        "image_ratio": "shortest",
+        "image_width": "w-1\/2",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "c357ccae-a59a-4f98-8dad-047183ae8ef8": {
+      "type": "contact-form",
+      "blocks": {
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-name-1": {
+          "type": "name",
+          "settings": {
+            "required": true,
+            "half_width": false
+          }
+        },
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-email-1": {
+          "type": "email",
+          "settings": {
+            "required": true,
+            "half_width": false
+          }
+        },
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-phone-1": {
+          "type": "phone",
+          "settings": {
+            "required": false,
+            "half_width": false
+          }
+        },
+        "0388ad02-2c0b-4d7f-b199-118b93f480d5": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "title": "Company",
+            "type": "text",
+            "required": false,
+            "half_width": false
+          }
+        },
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-dropdown-1": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "title": "Dropdown",
+            "options": "Option 1\nOption 2\nOption 3",
+            "half_width": true
+          }
+        },
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-body-1": {
+          "type": "body",
+          "settings": {
+            "required": true,
+            "half_width": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-name-1",
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-email-1",
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-phone-1",
+        "0388ad02-2c0b-4d7f-b199-118b93f480d5",
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-dropdown-1",
+        "template--20341308490045__c357ccae-a59a-4f98-8dad-047183ae8ef8-body-1"
+      ],
+      "settings": {
+        "heading": "Join the Beasen Home Team Today!",
+        "heading_align": "text-center",
+        "image_position": "top",
+        "color_scheme": "1",
+        "full_width": true,
+        "button_style": "btn btn--primary"
+      }
+    },
+    "36733c09-5523-42bd-b364-2200960fa0c7": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20341355184445__36733c09-5523-42bd-b364-2200960fa0c7-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Make it happen, start the journey to becoming a dealer today",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20341355184445__36733c09-5523-42bd-b364-2200960fa0c7-heading-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "2",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "af286857-3744-4833-b6a5-bf726043a806",
+    "e3b1a8de-0b23-4a40-b51c-f8ead683f0c1",
+    "81adb301-357b-4168-ba76-34f1596b487a",
+    "2b4c7e67-d4d0-45ed-b464-2fa48c970825",
+    "c357ccae-a59a-4f98-8dad-047183ae8ef8",
+    "36733c09-5523-42bd-b364-2200960fa0c7"
+  ]
+}

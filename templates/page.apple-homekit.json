@@ -1,0 +1,637 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Works With"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "APPLE HOMEKIT",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/homekit_banner-70.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "3367490f-f54f-473c-8d24-a14ee99c1e1b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20280184832317__3367490f-f54f-473c-8d24-a14ee99c1e1b-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20280184832317__3367490f-f54f-473c-8d24-a14ee99c1e1b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Faster. Easier. Smarter.",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "template--20280184832317__3367490f-f54f-473c-8d24-a14ee99c1e1b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beasen Home smart blinds seamlessly integrate with Apple Homekit. We leverage Thread technology for faster respond time, and greater reach.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20280184832317__3367490f-f54f-473c-8d24-a14ee99c1e1b-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__3367490f-f54f-473c-8d24-a14ee99c1e1b-subheading-1",
+        "template--20280184832317__3367490f-f54f-473c-8d24-a14ee99c1e1b-heading-1",
+        "template--20280184832317__3367490f-f54f-473c-8d24-a14ee99c1e1b-text-1",
+        "template--20280184832317__3367490f-f54f-473c-8d24-a14ee99c1e1b-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "1",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "212768fa-b8c0-48f0-8a40-712078e71298": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "Longer Battery Life",
+            "text": "<p>Thanks to Thread's exceptionally low power usage, batteries last a lot longer.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/homekit-40.jpg",
+            "heading": "Voice Control",
+            "text": "<p>Easily control your smart blinds with your voice commands through your compatible Apple Homekit device.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "Always In Reach",
+            "text": "<p>A mains-powered device positioned in the center and left on all the time can connect a device to the Thread network if it is outside the actual range of your Thread Border Router.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "62637ad6-b21e-433e-83e1-942f7a97d41a": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "No Bridge",
+            "text": "<p>Use Apple HomeKit directly; no need for a second bridge.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ba3521a3-2e74-4083-9d60-960dd6cb250d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/homekit-43.jpg",
+            "heading": "Set Scenes",
+            "text": "<p>Create time-saving Scenes to automate your blinds to open, close, or adjust at a specific time of day, every day.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5fe0ead8-e9dd-4508-8d0b-c5afba2045e9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/homekit-44.jpg",
+            "heading": "Precise Light Control",
+            "text": "<p>Tell Siri whether you want your blinds 0% closed (fully open), 50% closed (half-open), or 100% closed (fully closed), for more precise light control.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-1",
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2",
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-3",
+        "62637ad6-b21e-433e-83e1-942f7a97d41a",
+        "ba3521a3-2e74-4083-9d60-960dd6cb250d",
+        "5fe0ead8-e9dd-4508-8d0b-c5afba2045e9"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "two_col": false,
+        "column_size": "medium",
+        "column_align": "center",
+        "image_ratio": "shortest",
+        "image_width": "w-1\/3",
+        "color_scheme": "3",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "394d5119-0ce6-444b-bd39-5274fa758327": {
+      "type": "promo-strip",
+      "blocks": {
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Integrating Beasen Motorized Shades with Other Smart Home Devices",
+            "heading_size": "h4",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button",
+            "button_link": "",
+            "button_style": "btn btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1",
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "small",
+        "color_scheme": "1",
+        "full_width": false,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    },
+    "59983807-63e9-409f-9747-f1181aaeadb9": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "Simple Language",
+            "text": "<p>Just say what you naturally would to your Apple smart device. Whether you say 'open,' 'lower,' 'open a little bit,' or 'close halfway,' Siri will understand and the Automate shades will respond accordingly.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Native_Compatibility-46.jpg",
+            "heading": "Native Compatibility",
+            "text": "<p>Beasen Home smart blinds natively integrate with Apple Homekit. Connect to your iPhone, HomePod, HomePod mini, and other HomeKit-enabled devices without the need for a bridge.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Automation-new.jpg",
+            "heading": "Automation",
+            "text": "<p>Schedule your blinds to automatically open or close at a specific time of day. Get a great night's sleep with a cozy dark room and wake up to gentle, natural sunlight.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "7fe0b4f7-a16d-4b62-9e83-509a91396b64": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "Sunrise \/ Sunset",
+            "text": "<p>Wake up promptly thanks to the natural light shining at the sunrise time that you set the blinds to roll up. And close the blinds at sunset time to enjoy the night that only belongs to you.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "f965f297-5584-4d2c-8b3e-016f1f332cd3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ontogo-48.jpg",
+            "heading": "On-the-Go Control",
+            "text": "<p>Ever wonder if you left your blinds open while you're out and about? Beasen Home and Apple Homekit allow you to control your blinds from anywhere.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c1bf9346-687f-487b-83ed-6ce15f806302": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/digital_display-3.png",
+            "heading": "Digital Battery Display",
+            "text": "<p>Keep track of your smart blinds' battery level and know exactly when you need to recharge them.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-1",
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-2",
+        "template--20280184832317__59983807-63e9-409f-9747-f1181aaeadb9-column-3",
+        "7fe0b4f7-a16d-4b62-9e83-509a91396b64",
+        "f965f297-5584-4d2c-8b3e-016f1f332cd3",
+        "c1bf9346-687f-487b-83ed-6ce15f806302"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "Highlights",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "large",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "6cf5c3f8-c146-4fa3-9a2e-f846a06fccf0": {
+      "type": "media-with-text",
+      "blocks": {
+        "8bd8b1e4-1d9c-4e6d-8bb5-077ddaf232c1": {
+          "type": "heading",
+          "settings": {
+            "heading": "On The Move",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "454be0d0-dcf3-4ead-bc49-12c41c37a4f9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Control your SmartWings Thread shades with your voice, even when you're not at home.Want the shades to close when you've left the house? There's no need to hang around, simply ask Siri in the car on your way out.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "8bd8b1e4-1d9c-4e6d-8bb5-077ddaf232c1",
+        "454be0d0-dcf3-4ead-bc49-12c41c37a4f9"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "026220c3-072f-4cac-8cb5-f23efbfa2019": {
+      "type": "media-with-text",
+      "blocks": {
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677": {
+          "type": "heading",
+          "settings": {
+            "heading": "Power Display",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "3736f12f-21f9-4784-af9e-a378396b89ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Does wondering how's the battery level? Still slip to the related page for obtaining the info.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677",
+        "3736f12f-21f9-4784-af9e-a378396b89ba"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "e67e3af0-5dba-4034-93cc-4e90e3441683": {
+      "type": "video",
+      "blocks": {
+        "template--20280184832317__e67e3af0-5dba-4034-93cc-4e90e3441683-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Setup Guide",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__e67e3af0-5dba-4034-93cc-4e90e3441683-heading-1"
+      ],
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/Homekit.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_description": "",
+        "video_size": "md",
+        "video_autoplay": true,
+        "text_align": "text-center",
+        "color_scheme": "1"
+      }
+    },
+    "c0c7b2e9-2892-428a-be0c-9f72b97085fe": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step-1.jpg",
+            "heading": "",
+            "text": "<p>Scan the QR Code on the bottom rod to sync with the Apple device<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step-2.jpg",
+            "heading": "",
+            "text": "<p>Click Add to Apple Home<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step-3.jpg",
+            "heading": "",
+            "text": "<p>Choose your blinds' location<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "80e61358-2db4-494c-aa1a-23dd56f19d27": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step-4.jpg",
+            "heading": "",
+            "text": "<p>Name your blinds as you wish<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-1",
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-2",
+        "template--20280184832317__c0c7b2e9-2892-428a-be0c-9f72b97085fe-column-3",
+        "80e61358-2db4-494c-aa1a-23dd56f19d27"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "two_col": false,
+        "column_size": "small",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2": {
+      "type": "faq",
+      "blocks": {
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "text": "Shipping"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Do I need a bridge or gateway to connect my Homekit device to the blinds?",
+            "text": "<p>The Homekit Thread motor must have another Apple device that supports thread as the home hub, such as HomePod 2nd generation, HomePod mini, or Apple TV 4K 2nd or 3rd generation.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Is the Homekit motor compatible with all Homekit devices?",
+            "text": "<p>To enhance device connectivity, thread technology was specifically designed for smart home applications. You can leverage the Thread Border Router feature present in your HomePod (2nd generation), HomePod mini, or Apple TV 4K (2nd generation \/ 3rd generation 128 GB) for optimal performance.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How do I program my blinds to my Homekit device?",
+            "text": "<p>Setup is very easy! Check out our Homekit Programming Guide for step-by-step instructions.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "Can I use voice control with my smart blinds?",
+            "text": "<p>Yes, if you use your Homekit device, you can use voice commands to control your blinds.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4"
+      ],
+      "settings": {
+        "heading": "Things to Know",
+        "heading_align": "text-center",
+        "color_scheme": "1",
+        "full_width": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".product-inventory__status {display: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "show_view_all": false,
+        "collection": "frontpage",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 24,
+        "show_promo_info": false,
+        "image_ratio": "1.77",
+        "promo_title": "Related  Product",
+        "content": "<p>Explore our popular products that combining cutting-edge technology with elegant design to transform your living space. Experience the ultimate convenience and control as you effortlessly adjust lighting, privacy, and ambiance with a simple tap on your device.<\/p>",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "3367490f-f54f-473c-8d24-a14ee99c1e1b",
+    "212768fa-b8c0-48f0-8a40-712078e71298",
+    "394d5119-0ce6-444b-bd39-5274fa758327",
+    "59983807-63e9-409f-9747-f1181aaeadb9",
+    "6cf5c3f8-c146-4fa3-9a2e-f846a06fccf0",
+    "026220c3-072f-4cac-8cb5-f23efbfa2019",
+    "e67e3af0-5dba-4034-93cc-4e90e3441683",
+    "c0c7b2e9-2892-428a-be0c-9f72b97085fe",
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed",
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2",
+    "featured-collection"
+  ]
+}

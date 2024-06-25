@@ -1,0 +1,1115 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "BEASEN SMART"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Smart Technology",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/technology_banner-89.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 500,
+        "fixed_height_mobile": 300,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "51de9391-5e49-4e55-9a68-98659b074c37": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20278352380221__51de9391-5e49-4e55-9a68-98659b074c37-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20278352380221__51de9391-5e49-4e55-9a68-98659b074c37-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Smart Features",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20278352380221__51de9391-5e49-4e55-9a68-98659b074c37-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beasen Home products feature industry-leading technology to help make your life easier, more comfortable and and more enjoyable. From automation to voice controls, our technology is built around you.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20278352380221__51de9391-5e49-4e55-9a68-98659b074c37-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__51de9391-5e49-4e55-9a68-98659b074c37-subheading-1",
+        "template--20278352380221__51de9391-5e49-4e55-9a68-98659b074c37-heading-1",
+        "template--20278352380221__51de9391-5e49-4e55-9a68-98659b074c37-text-1",
+        "template--20278352380221__51de9391-5e49-4e55-9a68-98659b074c37-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "1",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "4d76d99e-09c3-4250-9488-766d7025fa9f": {
+      "type": "media-grid",
+      "blocks": {
+        "template--20278352380221__4d76d99e-09c3-4250-9488-766d7025fa9f-media-1": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "018375b4-63e3-47aa-851f-8948c1c245d7": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "42b7cfe0-8eef-4712-9c11-25fee9f3da44": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "277548ff-4f0d-4812-94c5-20f55e557fb8": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "7dec4db9-689e-4399-b710-c24cbfe5b0a4": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "d742dabb-5d4a-4126-8dd9-067ab3797cf8": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "d61b3452-368b-499f-b632-58505ec8cb88": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        },
+        "08a72f79-24a9-4098-8ec3-2ad7d87b0a0c": {
+          "type": "media",
+          "settings": {
+            "link_url": "",
+            "columns": 1,
+            "rows": 1,
+            "subheading": "",
+            "title": "",
+            "heading_size": "h4",
+            "button_label": "",
+            "button_link": "",
+            "overlay_position": "justify-start items-end",
+            "text_alignment": "text-start",
+            "button_style": "btn btn--primary",
+            "video_auto_play": "false",
+            "tint_color": "#000000",
+            "tint_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__4d76d99e-09c3-4250-9488-766d7025fa9f-media-1",
+        "018375b4-63e3-47aa-851f-8948c1c245d7",
+        "42b7cfe0-8eef-4712-9c11-25fee9f3da44",
+        "277548ff-4f0d-4812-94c5-20f55e557fb8",
+        "7dec4db9-689e-4399-b710-c24cbfe5b0a4",
+        "d742dabb-5d4a-4126-8dd9-067ab3797cf8",
+        "d61b3452-368b-499f-b632-58505ec8cb88",
+        "08a72f79-24a9-4098-8ec3-2ad7d87b0a0c"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Highlights",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "gallery_cols_max": 4,
+        "gallery_cols_min": "2",
+        "fixed_height_desktop": 180,
+        "fixed_height_mobile": 200,
+        "color_scheme": "white"
+      }
+    },
+    "e7662ac4-7d0f-4db2-95cb-9d3a62c94720": {
+      "type": "shoppable-image",
+      "blocks": {
+        "template--20278352380221__e7662ac4-7d0f-4db2-95cb-9d3a62c94720-hotspot-1": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "hotspot_x": 28,
+            "hotspot_y": 38
+          }
+        },
+        "template--20278352380221__e7662ac4-7d0f-4db2-95cb-9d3a62c94720-hotspot-2": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "hotspot_x": 60,
+            "hotspot_y": 23
+          }
+        },
+        "template--20278352380221__e7662ac4-7d0f-4db2-95cb-9d3a62c94720-hotspot-3": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "hotspot_x": 73,
+            "hotspot_y": 54
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__e7662ac4-7d0f-4db2-95cb-9d3a62c94720-hotspot-1",
+        "template--20278352380221__e7662ac4-7d0f-4db2-95cb-9d3a62c94720-hotspot-2",
+        "template--20278352380221__e7662ac4-7d0f-4db2-95cb-9d3a62c94720-hotspot-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "image_first",
+        "show_vendor": true,
+        "show_content": true,
+        "mob_center_text": false,
+        "heading": "Shoppable image",
+        "text": "<p>Smart homes are gaining popularity as technology advances, and smart motorized blinds and shades are one of the newest innovations. These smart window coverings can be controlled remotely and programmed to open and close at specific times. They can also be integrated with other smart home devices at your home to create a seamless home automation experience. In this page, we will explore the application of smart technology in SmartWings motorized blinds and shades and the benefits they offer to homeowners.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "hotspot_color": "#070707",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "112f9011-cc6d-455e-a17b-f3fa9e93a4e5": {
+      "type": "product-features",
+      "blocks": {
+        "template--20278352380221__112f9011-cc6d-455e-a17b-f3fa9e93a4e5-feature-1": {
+          "type": "feature",
+          "settings": {
+            "heading": "Smart Hub Compatibility",
+            "text": "<p>Compatible with smart hub devices, including Apple Home Kit, Amazon Alexa, Google Assistant and SmartThings.<\/p>",
+            "content_align": "text-start",
+            "hotspot_x": 23,
+            "hotspot_y": 42
+          }
+        },
+        "template--20278352380221__112f9011-cc6d-455e-a17b-f3fa9e93a4e5-feature-2": {
+          "type": "feature",
+          "settings": {
+            "heading": "Rechargeable Batteries",
+            "text": "<p>Built-in Lithium-ion batter only requires 6 hours of charge time and lasts up to 6 months per full charge.<\/p>",
+            "content_align": "text-start",
+            "hotspot_x": 23,
+            "hotspot_y": 75
+          }
+        },
+        "a558be2f-4a56-46a6-bf33-6918cb6996d3": {
+          "type": "feature",
+          "settings": {
+            "heading": "Voice Command and More",
+            "text": "<p>Adjust your blinds with a remote control, through the Beasen Home app, orhands-free with voice commands.<\/p>",
+            "content_align": "text-start",
+            "hotspot_x": 77,
+            "hotspot_y": 42
+          }
+        },
+        "template--20278352380221__112f9011-cc6d-455e-a17b-f3fa9e93a4e5-feature-3": {
+          "type": "feature",
+          "settings": {
+            "heading": "Light Control",
+            "text": "<p>Control the ambiance of your living space at any given time. Choose from light filtering options or even 100% blackout shades.<\/p>",
+            "content_align": "text-start",
+            "hotspot_x": 77,
+            "hotspot_y": 75
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__112f9011-cc6d-455e-a17b-f3fa9e93a4e5-feature-1",
+        "template--20278352380221__112f9011-cc6d-455e-a17b-f3fa9e93a4e5-feature-2",
+        "a558be2f-4a56-46a6-bf33-6918cb6996d3",
+        "template--20278352380221__112f9011-cc6d-455e-a17b-f3fa9e93a4e5-feature-3"
+      ],
+      "custom_css": [
+        ".product-features__image img {max-width: 63%;}",
+        "@media screen and (max-width: 768px) {.product-features__image img {max-width: 95%; } .hotspot.absolute:nth-child(3) {left: 7% !important; } .hotspot.absolute:nth-child(4) {left: 7% !important; } .hotspot.absolute:nth-child(5) {left: 93% !important; } .hotspot.absolute:nth-child(6) {left: 93% !important; }}"
+      ],
+      "settings": {
+        "product": "",
+        "show_content": true,
+        "layout": "text_first",
+        "text_align": "text-center",
+        "mob_center_text": false,
+        "heading_size": "h3",
+        "enlarge_text": false,
+        "image": "shopify:\/\/shop_images\/tech-svg-115_87871b5e-c972-43ed-8da0-87c3942ee110.svg",
+        "title": "Smart Features",
+        "description": "<p>Supreme Convenience<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "hotspot_color": "#1a74c4",
+        "color_scheme": "none",
+        "button_style": "btn btn--primary"
+      }
+    },
+    "3a630db5-2237-4326-abd1-507d8c74dcfb": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20278352380221__3a630db5-2237-4326-abd1-507d8c74dcfb-slide-1": {
+          "type": "slide",
+          "settings": {
+            "overlay_position": "justify-start items-center",
+            "overlay_text_align": "text-start",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "Apple homekit",
+            "heading_size": "h3",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "enlarge_text": false,
+            "button_1_label": "",
+            "button_1_link": "shopify:\/\/pages\/apple-homekit",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "78a1006b-89a9-4fa5-8f65-501453660a37": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "overlay_position": "justify-start items-end",
+            "overlay_text_align": "text-start",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "Amazon Alexa",
+            "heading_size": "h3",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "enlarge_text": false,
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/pages\/amazon-alexa",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__3a630db5-2237-4326-abd1-507d8c74dcfb-slide-1",
+        "78a1006b-89a9-4fa5-8f65-501453660a37"
+      ],
+      "disabled": true,
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_dots",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    },
+    "df45fe61-bff5-4111-91c8-371927842522": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smart_connection-10.png",
+            "heading": "",
+            "text": "<p>Works with Amazon Alexa devices custom voice commands, routines, and more<\/p>",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/amazon-alexa"
+          }
+        },
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smart_connection-09.png",
+            "heading": "",
+            "text": "<p>Connect to your favorite Apple Homekit devices for voice commands and other smart features.<\/p>",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/apple-homekit"
+          }
+        },
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smart_connection-11.png",
+            "heading": "",
+            "text": "<p>Easily connects to Google Assistant for remote control and voice control<\/p>",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/google-assist"
+          }
+        },
+        "5a13ca74-805a-4ca7-865a-f50b83500ad7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smart_connection-12.png",
+            "heading": "",
+            "text": "<p>Connects with SmartThings via Zigbee. Create automated schedules and control your blinds from your smartphone.<\/p>",
+            "button_label": "Explore",
+            "button_link": "shopify:\/\/pages\/smartthing"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-1",
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-2",
+        "template--20277506310461__df45fe61-bff5-4111-91c8-371927842522-column-3",
+        "5a13ca74-805a-4ca7-865a-f50b83500ad7"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 599px) {li.multi-column {max-width: 46%; }}"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "Smart Hub Integration",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": true,
+        "column_size": "small",
+        "column_align": "center",
+        "image_ratio": "tallest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-text-2"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "394d5119-0ce6-444b-bd39-5274fa758327": {
+      "type": "promo-strip",
+      "blocks": {
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Industry-Leading Technology",
+            "heading_size": "h3",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button",
+            "button_link": "",
+            "button_style": "btn btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1",
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1"
+      ],
+      "settings": {
+        "section_height": "small",
+        "color_scheme": "2",
+        "full_width": true,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    },
+    "a202a7e2-1e71-466a-9f65-fd074c58fb8e": {
+      "type": "image-banner",
+      "blocks": {
+        "e1c90911-c62e-4395-aaf3-45f293d9f6ed": {
+          "type": "heading",
+          "settings": {
+            "heading": "Convenient Controls",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "ecf5ed19-3906-47de-94cd-27a0857651e7": {
+          "type": "subheading",
+          "settings": {
+            "text": "Voice Control, Automation and More"
+          }
+        },
+        "7a35e31f-2868-4702-b1a6-7d0f50350bfb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Through our continuous search for ways to simplify your life, we've developed a convenient control system for your smart blinds. The choice is yours - open, close, and adjust your blinds with our dedicated remote control, through your smartphone, or connect with a smart hub device for voice control. Automate your blinds to open or close at specific times for even more convenience.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "9de7b5ae-25f2-465f-945d-b21444355c30": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/pages\/wireless-control",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "e1c90911-c62e-4395-aaf3-45f293d9f6ed",
+        "ecf5ed19-3906-47de-94cd-27a0857651e7",
+        "7a35e31f-2868-4702-b1a6-7d0f50350bfb",
+        "9de7b5ae-25f2-465f-945d-b21444355c30"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/new_tech_banner_for_home__1_8.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-start items-center",
+        "overlay_text_align": "text-start",
+        "mob_center_text": false,
+        "mobile_stacked": true,
+        "color_scheme": "1",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 5,
+        "prevent_animation": false
+      }
+    },
+    "image-banner-2": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-2-heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "State-of-the-Art Motors",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "dd5f86c1-3b62-49a5-a09e-adfac451ade3": {
+          "type": "subheading",
+          "settings": {
+            "text": "Built to Last"
+          }
+        },
+        "9c3a4bf9-33fd-4557-83e8-38dee6709536": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beasen Home motors feature rechargeable Lithium-ion batteries that last up to 6 months on a single charge. Better yet, you only need to charge them 6 hours for a full charge. The motors can be charged via the included charge cable, a power bank, or solar panels. Just another way Beasen Home makes your life simpler.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "cd9bf615-bb0e-4635-bcf3-6c5ae4f0ede9": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "Explore",
+            "button_1_link": "shopify:\/\/pages\/motor-technology",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-2-heading",
+        "dd5f86c1-3b62-49a5-a09e-adfac451ade3",
+        "9c3a4bf9-33fd-4557-83e8-38dee6709536",
+        "cd9bf615-bb0e-4635-bcf3-6c5ae4f0ede9"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/art_motor_new-12.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 280,
+        "overlay_position": "justify-end items-center",
+        "overlay_text_align": "text-start",
+        "mob_center_text": false,
+        "mobile_stacked": true,
+        "color_scheme": "1",
+        "full_width": false,
+        "tint_color": "#2a2b2a",
+        "tint_opacity": 5,
+        "prevent_animation": false
+      }
+    },
+    "c727fac4-3ac4-4aa6-beb6-00e43b9424d9": {
+      "type": "image-banner",
+      "blocks": {
+        "5f8dd69f-d592-47db-92fb-b5d9c356ec17": {
+          "type": "heading",
+          "settings": {
+            "heading": "Smart Hub Compatibility",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "909bd45d-5f96-466c-bcbf-30904b550517": {
+          "type": "subheading",
+          "settings": {
+            "text": "Seamless Integration"
+          }
+        },
+        "099f3d7a-f000-41a6-ae87-ebd86371184b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our smart blinds are designed to work with a wide variety of wireless protocols and smart hub devices. Easily connect your smart blinds to Apple Homekit, Amazon Alexa, Google Assistant, and Samsung SmartThings devices for advanced automation, voice control, and more.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "94ecc6b5-7a27-4769-9aea-3e7e838fa845": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Learn more",
+            "button_1_link": "shopify:\/\/pages\/wireless-protocols",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "5f8dd69f-d592-47db-92fb-b5d9c356ec17",
+        "909bd45d-5f96-466c-bcbf-30904b550517",
+        "099f3d7a-f000-41a6-ae87-ebd86371184b",
+        "94ecc6b5-7a27-4769-9aea-3e7e838fa845"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/smart_hub_com_new-95.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/mobile_shc-95.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 280,
+        "overlay_position": "justify-start items-center",
+        "overlay_text_align": "text-start",
+        "mob_center_text": false,
+        "mobile_stacked": true,
+        "color_scheme": "1",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 5,
+        "prevent_animation": false
+      }
+    },
+    "e1b45abc-c603-4ac1-bf3a-f311dbc46f55": {
+      "type": "logo-list",
+      "blocks": {
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-1": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 70
+          }
+        },
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_2x_4ab9b3c7-93f5-4533-a84e-d508ce5073a8.png",
+            "url": "",
+            "logo_width": 60
+          }
+        },
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/35CDEF892726E666_1.png",
+            "url": "",
+            "logo_width": 75
+          }
+        },
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_7e84d5bf-ad45-4f79-80a1-bfe98efee2bd.svg",
+            "url": "",
+            "logo_width": 65
+          }
+        },
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 80
+          }
+        },
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bluetooth_logo_PNG3_1.png",
+            "url": "",
+            "logo_width": 50
+          }
+        },
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sub-1GHz_20211231013515h_1.png",
+            "url": "",
+            "logo_width": 120
+          }
+        },
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-8": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        },
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-9": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "url": "",
+            "logo_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-1",
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-2",
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-3",
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-4",
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-5",
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-6",
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-7",
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-8",
+        "template--20278352380221__e1b45abc-c603-4ac1-bf3a-f311dbc46f55-logo-9"
+      ],
+      "custom_css": [
+        "@media screen and (min-width: 768px) {.logo-list {display: flex; justify-content: center; }}"
+      ],
+      "settings": {
+        "title": "Wireless Protocols",
+        "heading_align": "text-center",
+        "button_label": "Learn more",
+        "button_link": "shopify:\/\/pages\/wireless-protocol",
+        "layout": "carousel",
+        "spacing": 160,
+        "logo_grid_align": "justify-center",
+        "color_scheme": "1",
+        "full_width": true,
+        "enable_mobile_slider": false
+      }
+    },
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your store with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-subheading-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-text-1",
+        "template--20277506310461__291b0915-8a0b-4b3b-b194-c8ad3ae1deed-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "212768fa-b8c0-48f0-8a40-712078e71298": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-1": {
+          "type": "column",
+          "settings": {
+            "heading": "Convenience",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2": {
+          "type": "column",
+          "settings": {
+            "heading": "Kids & Pets Safety",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-3": {
+          "type": "column",
+          "settings": {
+            "heading": "Energy Savings",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "62637ad6-b21e-433e-83e1-942f7a97d41a": {
+          "type": "column",
+          "settings": {
+            "heading": "Smart Lighting",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d527080e-0a28-428b-85f3-8c2fd200af09": {
+          "type": "column",
+          "settings": {
+            "heading": "Security",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9166ca61-dd87-4a4b-8eb9-1201ba86777b": {
+          "type": "column",
+          "settings": {
+            "heading": "UV Light Protection",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d7fa7dd2-e188-4ed4-ba76-60bee4247263": {
+          "type": "column",
+          "settings": {
+            "heading": "Increased Home Value",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b60f5a96-a3e9-40d4-8b4c-84324daf7c31": {
+          "type": "column",
+          "settings": {
+            "heading": "Cleaner -Longer",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-1",
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2",
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-3",
+        "62637ad6-b21e-433e-83e1-942f7a97d41a",
+        "d527080e-0a28-428b-85f3-8c2fd200af09",
+        "9166ca61-dd87-4a4b-8eb9-1201ba86777b",
+        "d7fa7dd2-e188-4ed4-ba76-60bee4247263",
+        "b60f5a96-a3e9-40d4-8b4c-84324daf7c31"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "",
+        "heading_align": "text-start",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "small",
+        "column_align": "center",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".product-inventory__status {display: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_align": "text-start",
+        "show_view_all": false,
+        "collection": "frontpage",
+        "layout": "carousel",
+        "card_size": "small",
+        "products_to_show": 24,
+        "show_promo_info": false,
+        "image_ratio": "1.77",
+        "promo_title": "Propular Product",
+        "content": "<p>Explore our popular products that combining cutting-edge technology with elegant design to transform your living space. Experience the ultimate convenience and control as you effortlessly adjust lighting, privacy, and ambiance with a simple tap on your device.<\/p>",
+        "link_url": "",
+        "button_label": "",
+        "color_scheme": "1",
+        "button_style": "btn btn--primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "51de9391-5e49-4e55-9a68-98659b074c37",
+    "4d76d99e-09c3-4250-9488-766d7025fa9f",
+    "e7662ac4-7d0f-4db2-95cb-9d3a62c94720",
+    "112f9011-cc6d-455e-a17b-f3fa9e93a4e5",
+    "3a630db5-2237-4326-abd1-507d8c74dcfb",
+    "df45fe61-bff5-4111-91c8-371927842522",
+    "rich-text-1",
+    "394d5119-0ce6-444b-bd39-5274fa758327",
+    "a202a7e2-1e71-466a-9f65-fd074c58fb8e",
+    "image-banner-2",
+    "c727fac4-3ac4-4aa6-beb6-00e43b9424d9",
+    "e1b45abc-c603-4ac1-bf3a-f311dbc46f55",
+    "291b0915-8a0b-4b3b-b194-c8ad3ae1deed",
+    "212768fa-b8c0-48f0-8a40-712078e71298",
+    "featured-collection"
+  ]
+}

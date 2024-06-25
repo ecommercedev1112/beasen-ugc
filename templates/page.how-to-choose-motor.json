@@ -1,0 +1,780 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "SMART CONNECTIONS"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "CHOOSING THE RIGHT MOTOR",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/banner-86.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "64694669-fa7f-432f-a7ee-b06a69ab902a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20339315278141__64694669-fa7f-432f-a7ee-b06a69ab902a-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20339315278141__64694669-fa7f-432f-a7ee-b06a69ab902a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Key to Connectivity",
+            "heading_size": "h4",
+            "heading_h1": false
+          }
+        },
+        "template--20339315278141__64694669-fa7f-432f-a7ee-b06a69ab902a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beasen Home smart blinds are powered by powerfull, long-lasting motors which connect to smart devices wirelessly to allow you to conveniently control your smart blinds remotely.<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20339315278141__64694669-fa7f-432f-a7ee-b06a69ab902a-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20339315278141__64694669-fa7f-432f-a7ee-b06a69ab902a-subheading-1",
+        "template--20339315278141__64694669-fa7f-432f-a7ee-b06a69ab902a-heading-1",
+        "template--20339315278141__64694669-fa7f-432f-a7ee-b06a69ab902a-text-1",
+        "template--20339315278141__64694669-fa7f-432f-a7ee-b06a69ab902a-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "db71ecc7-e9a3-4dfe-b35a-fe2677d25ddc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20339315278141__db71ecc7-e9a3-4dfe-b35a-fe2677d25ddc-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Intro",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "template--20339315278141__db71ecc7-e9a3-4dfe-b35a-fe2677d25ddc-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20339315278141__db71ecc7-e9a3-4dfe-b35a-fe2677d25ddc-heading-1",
+        "template--20339315278141__db71ecc7-e9a3-4dfe-b35a-fe2677d25ddc-text-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/htcm_main_pic-41.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/small_banner_mobile-91.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 540,
+        "fixed_height_mobile": 350,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "026220c3-072f-4cac-8cb5-f23efbfa2019": {
+      "type": "media-with-text",
+      "blocks": {
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677": {
+          "type": "heading",
+          "settings": {
+            "heading": "Power Display",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "3736f12f-21f9-4784-af9e-a378396b89ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Does wondering how's the battery level? Still slip to the related page for obtaining the info.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "2019389b-ca6e-4ff7-aab1-142b6f1a0677",
+        "3736f12f-21f9-4784-af9e-a378396b89ba"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "e329f518-f0ef-4584-9ac2-a99e7fa308f5": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Standard Smart Motor",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Easily control your smart blinds with the included remote. No need to get up and manually adjust your blinds - simply use the remote to control up to 15 separate blinds in your home with one device.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-heading-1",
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-text-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/motor-36.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "1"
+      }
+    },
+    "7531e1a0-6847-4a10-9c79-775c76b430c4": {
+      "type": "media-with-text",
+      "blocks": {
+        "025468ac-0134-4455-a94d-b623cf28dd70": {
+          "type": "heading",
+          "settings": {
+            "heading": "HomeKit Motor",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "31d9c101-9df5-4154-ae21-035e0a4d88a2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Natively compatible with Apple Homekit - no need for a gateway or bridge.Seamlessly and securely interfaces with other HomeKitdevices, including items like light bulbs, thermostats, and motion detectors.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "025468ac-0134-4455-a94d-b623cf28dd70",
+        "31d9c101-9df5-4154-ae21-035e0a4d88a2"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/motor-39.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "7d1db845-8b71-4176-bffc-54cfab586517": {
+      "type": "media-with-text",
+      "blocks": {
+        "e3382bba-9f9b-4e3d-a07c-976b1c7891d2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Alexa Motor",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "7d4d0b4f-d05c-49fb-bb93-17f63b3f9820": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Features a Zigbee chip to allow you to easily connect to your Amazon Alexa device.Open, close, and adjust your blinds with your voice, or create scenes to automate your blinds at specific times.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "e3382bba-9f9b-4e3d-a07c-976b1c7891d2",
+        "7d4d0b4f-d05c-49fb-bb93-17f63b3f9820"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/motor-37.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "1"
+      }
+    },
+    "d1b2f4fa-6823-400e-bab2-c39f416359f8": {
+      "type": "media-with-text",
+      "blocks": {
+        "a30a4823-6aa5-42a2-8e1e-d1e838a94073": {
+          "type": "heading",
+          "settings": {
+            "heading": "Zigbee Motor",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "8f7a11b9-09d6-4bf5-b320-767818110102": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Compatible with Samsung SmartThings, Home Assistant , Hubitat and other Zigbee 3.0 Hubs. Control your smart blinds via the SmartThings, Google Home, orAmazon Alexa.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "a30a4823-6aa5-42a2-8e1e-d1e838a94073",
+        "8f7a11b9-09d6-4bf5-b320-767818110102"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/motor-38.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "fc5b6626-1202-46d6-9d5e-b53bf560bf08": {
+      "type": "promo-strip",
+      "blocks": {
+        "template--20339315278141__fc5b6626-1202-46d6-9d5e-b53bf560bf08-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tips",
+            "heading_size": "h4",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20339315278141__fc5b6626-1202-46d6-9d5e-b53bf560bf08-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share something special with your customers.<\/p>",
+            "enlarge_text": true,
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        }
+      },
+      "block_order": [
+        "template--20339315278141__fc5b6626-1202-46d6-9d5e-b53bf560bf08-heading-1",
+        "template--20339315278141__fc5b6626-1202-46d6-9d5e-b53bf560bf08-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "default",
+        "color_scheme": "1",
+        "full_width": false,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    },
+    "339e9f90-eac7-42b5-8f73-f3e6775521c6": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20339315278141__339e9f90-eac7-42b5-8f73-f3e6775521c6-column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "Check Your Zigbee Compatibility",
+            "text": "<p>Before selecting your motor type, please be sure to double-check that your device is compatible with the type of motor you wish to purchase.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20339315278141__339e9f90-eac7-42b5-8f73-f3e6775521c6-column-3": {
+          "type": "column",
+          "settings": {
+            "heading": "Check Your Zigbee Compatibility",
+            "text": "<p>Before selecting your motor type, please be sure to double-check that your device is compatible with the type of motor you wish to purchase.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20339315278141__339e9f90-eac7-42b5-8f73-f3e6775521c6-column-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "heading": "Amazon Echo Speakers",
+            "text": "<p>Some Echo devices cannot be paired directly to our Alexa motor. In these cases, Zigbee motors must be selected and paired through a Zigbee hub. However, customers are often unsure which motor to choose for a particular series.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "fc8a6a5c-5dd1-4cf5-890c-1b78d565b344": {
+          "type": "column",
+          "settings": {
+            "heading": "Amazon Echo Speakers",
+            "text": "<p>Some Echo devices cannot be paired directly to our Alexa motor. In these cases, Zigbee motors must be selected and paired through a Zigbee hub. However, customers are often unsure which motor to choose for a particular series.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20339315278141__339e9f90-eac7-42b5-8f73-f3e6775521c6-column-1",
+        "template--20339315278141__339e9f90-eac7-42b5-8f73-f3e6775521c6-column-3",
+        "template--20339315278141__339e9f90-eac7-42b5-8f73-f3e6775521c6-column-2",
+        "fc8a6a5c-5dd1-4cf5-890c-1b78d565b344"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "small",
+        "column_align": "left",
+        "image_ratio": "1.77",
+        "image_width": "w-1\/2",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "05208686-3fd6-41bc-a153-7e2e6af74059": {
+      "type": "media-with-text",
+      "blocks": {
+        "93728d2f-1d69-4116-8d49-a077d615e4fe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Z-Wave Motor",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "acc9cba9-b060-44a1-bd53-b6a1842ea02e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Versatile motor that is compatible with Amazon Alexa, Google Assistant, SmartThings, Hubitat, and Home Assistant.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "93728d2f-1d69-4116-8d49-a077d615e4fe",
+        "acc9cba9-b060-44a1-bd53-b6a1842ea02e"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/motor-40.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "1"
+      }
+    },
+    "394d5119-0ce6-444b-bd39-5274fa758327": {
+      "type": "promo-strip",
+      "blocks": {
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Measuring Guide Download Link",
+            "heading_size": "h3",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Download",
+            "button_link": "",
+            "button_style": "btn btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1",
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "medium",
+        "color_scheme": "2",
+        "full_width": true,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    },
+    "7c9e7459-47db-4ed5-87f1-9e0f51d2a165": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20339315278141__7c9e7459-47db-4ed5-87f1-9e0f51d2a165-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20339315278141__7c9e7459-47db-4ed5-87f1-9e0f51d2a165-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Motor Comparison",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20339315278141__7c9e7459-47db-4ed5-87f1-9e0f51d2a165-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Figure out the which is the best motor for your Smart Home<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20339315278141__7c9e7459-47db-4ed5-87f1-9e0f51d2a165-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20339315278141__7c9e7459-47db-4ed5-87f1-9e0f51d2a165-subheading-1",
+        "template--20339315278141__7c9e7459-47db-4ed5-87f1-9e0f51d2a165-heading-1",
+        "template--20339315278141__7c9e7459-47db-4ed5-87f1-9e0f51d2a165-text-1",
+        "template--20339315278141__7c9e7459-47db-4ed5-87f1-9e0f51d2a165-button-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "ab84790b-53f9-4f8e-a4d7-5cfa5d4c6a92": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20339315278141__ab84790b-53f9-4f8e-a4d7-5cfa5d4c6a92-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1",
+            "heading_h1": false
+          }
+        },
+        "template--20339315278141__ab84790b-53f9-4f8e-a4d7-5cfa5d4c6a92-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20339315278141__ab84790b-53f9-4f8e-a4d7-5cfa5d4c6a92-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20339315278141__ab84790b-53f9-4f8e-a4d7-5cfa5d4c6a92-heading-1",
+        "template--20339315278141__ab84790b-53f9-4f8e-a4d7-5cfa5d4c6a92-text-1",
+        "template--20339315278141__ab84790b-53f9-4f8e-a4d7-5cfa5d4c6a92-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "url": "",
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 500,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "prevent_animation": false
+      }
+    },
+    "ad24e725-2eee-4f9e-ae94-7b6f74845dcc": {
+      "type": "product-comparison-grid",
+      "blocks": {
+        "template--20338977702205__ad24e725-2eee-4f9e-ae94-7b6f74845dcc-product-1": {
+          "type": "product",
+          "settings": {
+            "show_image": true,
+            "show_title": true,
+            "show_button": true
+          }
+        },
+        "template--20338977702205__ad24e725-2eee-4f9e-ae94-7b6f74845dcc-vendor-1": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "template--20338977702205__ad24e725-2eee-4f9e-ae94-7b6f74845dcc-price-1": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--20338977702205__ad24e725-2eee-4f9e-ae94-7b6f74845dcc-description-1": {
+          "type": "description",
+          "settings": {
+            "truncate_description": false,
+            "words_to_show": 20
+          }
+        },
+        "df081727-1c39-4039-82e6-1e9eb9fb5e83": {
+          "type": "metafield",
+          "settings": {
+            "title": "Opacity",
+            "metafield_key": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20338977702205__ad24e725-2eee-4f9e-ae94-7b6f74845dcc-product-1",
+        "template--20338977702205__ad24e725-2eee-4f9e-ae94-7b6f74845dcc-vendor-1",
+        "template--20338977702205__ad24e725-2eee-4f9e-ae94-7b6f74845dcc-price-1",
+        "template--20338977702205__ad24e725-2eee-4f9e-ae94-7b6f74845dcc-description-1",
+        "df081727-1c39-4039-82e6-1e9eb9fb5e83"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Product comparison grid",
+        "text": "<p>Add content here to explain a bit about the range of products on offer and which ones may be most suitable for your customers.<\/p>",
+        "heading_align": "text-center",
+        "view_more_label": "View more",
+        "view_more_link": "",
+        "product_list": [],
+        "empty_field_text": "-",
+        "image_ratio": "shortest",
+        "image_crop": "center",
+        "num_rows": 0,
+        "color_scheme": "none",
+        "highlight_row": false
+      }
+    },
+    "4f9485b3-3b92-496a-b5ae-d10246fd1dea": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20339315278141__4f9485b3-3b92-496a-b5ae-d10246fd1dea-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/htcm-large-compare-86.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/htcm_compare-mobile-84.jpg",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "template--20339315278141__4f9485b3-3b92-496a-b5ae-d10246fd1dea-slide-2": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20339315278141__4f9485b3-3b92-496a-b5ae-d10246fd1dea-slide-1",
+        "template--20339315278141__4f9485b3-3b92-496a-b5ae-d10246fd1dea-slide-2"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "64694669-fa7f-432f-a7ee-b06a69ab902a",
+    "db71ecc7-e9a3-4dfe-b35a-fe2677d25ddc",
+    "026220c3-072f-4cac-8cb5-f23efbfa2019",
+    "e329f518-f0ef-4584-9ac2-a99e7fa308f5",
+    "7531e1a0-6847-4a10-9c79-775c76b430c4",
+    "7d1db845-8b71-4176-bffc-54cfab586517",
+    "d1b2f4fa-6823-400e-bab2-c39f416359f8",
+    "fc5b6626-1202-46d6-9d5e-b53bf560bf08",
+    "339e9f90-eac7-42b5-8f73-f3e6775521c6",
+    "05208686-3fd6-41bc-a153-7e2e6af74059",
+    "394d5119-0ce6-444b-bd39-5274fa758327",
+    "7c9e7459-47db-4ed5-87f1-9e0f51d2a165",
+    "ab84790b-53f9-4f8e-a4d7-5cfa5d4c6a92",
+    "ad24e725-2eee-4f9e-ae94-7b6f74845dcc",
+    "4f9485b3-3b92-496a-b5ae-d10246fd1dea"
+  ]
+}

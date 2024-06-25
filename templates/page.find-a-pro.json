@@ -1,0 +1,218 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "heading_align": "text-center"
+      }
+    },
+    "04192aa2-3d17-4321-914a-6a956551c2ff": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20706665169213__04192aa2-3d17-4321-914a-6a956551c2ff-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Professional Measuring<br>Installation Service",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20706665169213__04192aa2-3d17-4321-914a-6a956551c2ff-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "template--20706665169213__04192aa2-3d17-4321-914a-6a956551c2ff-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20706665169213__04192aa2-3d17-4321-914a-6a956551c2ff-heading-1",
+        "template--20706665169213__04192aa2-3d17-4321-914a-6a956551c2ff-text-1",
+        "template--20706665169213__04192aa2-3d17-4321-914a-6a956551c2ff-button-1"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/find-a-pro.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "f596accf-69a2-4c8a-bacc-773a2907ebad": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20706665169213__f596accf-69a2-4c8a-bacc-773a2907ebad-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--20706665169213__f596accf-69a2-4c8a-bacc-773a2907ebad-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Rich text headline",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--20706665169213__f596accf-69a2-4c8a-bacc-773a2907ebad-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our smart blinds are designed to be easily to install by a single person. ﻿If you have large or difficult-to-reach windows, or simply prefer to have a professional measure and install your blinds, we have you covered.<\/p><p><\/p><p>Beasen Home has partnered with Nationwide Blind Installation, Inc. (NBI) to provide you with window treatment measuring and installation services anywhere in the United States!<\/p><p><\/p><p>Enter your zip code and you'll be matched with a technician that is specially trained to measure and\/or install your window for a small fee.<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20706665169213__f596accf-69a2-4c8a-bacc-773a2907ebad-subheading-1",
+        "template--20706665169213__f596accf-69a2-4c8a-bacc-773a2907ebad-heading-1",
+        "template--20706665169213__f596accf-69a2-4c8a-bacc-773a2907ebad-text-1"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "0291bc9a-5d61-465f-83ea-8922bca79132": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"nbi-section\"><iframe id=\"NBIIFRAME\" name=\"NBIIFRAME\" style=\"width:650px;height:824px;\" frameborder=\"0\" border=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"auto\" src=\"http:\/\/www.blindinstallation.com\/show\/locator.php\"><\/iframe><\/div>",
+        "section_height": "default",
+        "full_width": false,
+        "dividers": "none",
+        "prevent_animation": false
+      }
+    },
+    "3c707910-d739-43fb-8bc9-debb137b480f": {
+      "type": "nbi-locator",
+      "settings": {}
+    },
+    "8552db4e-ef70-400c-aac8-c6dfcc6d9500": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15571966296117__8552db4e-ef70-400c-aac8-c6dfcc6d9500-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/nbi__1_0e310bcc-7b34-4606-8860-151a3c968a1b.png",
+            "image_mobile": "shopify:\/\/shop_images\/g-nbi_logo_550wide.jpg",
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        },
+        "template--15571966296117__8552db4e-ef70-400c-aac8-c6dfcc6d9500-slide-2": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "overlay_position": "justify-center items-center",
+            "overlay_text_align": "text-center",
+            "mob_center_text": false,
+            "subheading": "Subheading",
+            "heading": "Slideshow",
+            "heading_size": "h0",
+            "heading_h1": false,
+            "text": "<p>Share announcements and information with your customers and welcome them to your store.<\/p>",
+            "enlarge_text": true,
+            "button_1_label": "Optional button",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Optional button",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary",
+            "countdown_show": false,
+            "countdown_end_date": "",
+            "countdown_end_time": "",
+            "countdown_end_text": "",
+            "enlarge_end_text": false,
+            "countdown_hide_on_end": false,
+            "use_custom_colors": false,
+            "count_color": "#ffffff",
+            "bg_color": "#070707",
+            "bg_grad": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15571966296117__8552db4e-ef70-400c-aac8-c6dfcc6d9500-slide-1",
+        "template--15571966296117__8552db4e-ef70-400c-aac8-c6dfcc6d9500-slide-2"
+      ],
+      "settings": {
+        "height_mode": "auto",
+        "fixed_height_desktop": 600,
+        "fixed_height_mobile": 350,
+        "mobile_stacked": false,
+        "nav_style": "slideshow_nav_lines",
+        "nav_position": "justify-center",
+        "transition": "slide-fade",
+        "autoplay": true,
+        "slider_pause": false,
+        "autoplay_speed": 5,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#000000",
+        "tint_opacity": 0,
+        "accessibility_info": "",
+        "prevent_animation": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "04192aa2-3d17-4321-914a-6a956551c2ff",
+    "f596accf-69a2-4c8a-bacc-773a2907ebad",
+    "0291bc9a-5d61-465f-83ea-8922bca79132",
+    "3c707910-d739-43fb-8bc9-debb137b480f",
+    "8552db4e-ef70-400c-aac8-c6dfcc6d9500"
+  ]
+}

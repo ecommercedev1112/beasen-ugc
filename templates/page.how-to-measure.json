@@ -1,0 +1,503 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "heading_align": "text-center"
+      }
+    },
+    "image-banner-1": {
+      "type": "image-banner",
+      "blocks": {
+        "banner-subheading-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "SMART CONNECTIONS"
+          }
+        },
+        "banner-heading-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Window Measuring Guide",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "banner-text-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        },
+        "banner-button-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_1_label": "Shop now",
+            "button_1_link": "shopify:\/\/collections",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "banner-subheading-1",
+        "banner-heading-2",
+        "banner-text-3",
+        "banner-button-4"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/banner-86_030bc409-ef7c-4533-979b-62c0908ff26b.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": true,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": true,
+        "tint_color": "#000000",
+        "tint_opacity": 40,
+        "prevent_animation": false
+      }
+    },
+    "212768fa-b8c0-48f0-8a40-712078e71298": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/motor_type.svg",
+            "heading": "Mount Type",
+            "text": "<p>Inside mount blinds are installed inside the window frame or casing. Outside mounts are installed above the window molding.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5fe0ead8-e9dd-4508-8d0b-c5afba2045e9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/perfect_fit_96250f31-9e0e-45a5-a84c-5662bd74eb03.svg",
+            "heading": "Tools You'll Need",
+            "text": "<p>For the most efficient measuring, you'll need a steel measuring tape, pen\/pencil, paper, and a step ladder (if necessary)<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ba3521a3-2e74-4083-9d60-960dd6cb250d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/workshhet.svg",
+            "heading": "Download Worksheet",
+            "text": "<p>Download our Measuring Worksheet to easily mark down your window's dimensions correctly<\/p>",
+            "button_label": "Download",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0574\/9545\/3749\/files\/Beasen_Measuring_Worksheet.pdf?v=1679586747"
+          }
+        }
+      },
+      "block_order": [
+        "template--20278352380221__212768fa-b8c0-48f0-8a40-712078e71298-column-2",
+        "5fe0ead8-e9dd-4508-8d0b-c5afba2045e9",
+        "ba3521a3-2e74-4083-9d60-960dd6cb250d"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "Before You Get Started",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "medium",
+        "column_align": "center",
+        "image_ratio": "shortest",
+        "image_width": "w-1\/3",
+        "color_scheme": "1",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-text-2"
+      ],
+      "settings": {
+        "text_align": "text-center",
+        "mob_center_text": true,
+        "color_scheme": "none",
+        "full_width": true,
+        "prevent_animation": false
+      }
+    },
+    "e67e3af0-5dba-4034-93cc-4e90e3441683": {
+      "type": "video",
+      "blocks": {
+        "template--20280184832317__e67e3af0-5dba-4034-93cc-4e90e3441683-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Measuring Video Guide",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__e67e3af0-5dba-4034-93cc-4e90e3441683-heading-1"
+      ],
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/Measurement V2.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_description": "",
+        "video_size": "md",
+        "video_autoplay": true,
+        "text_align": "text-center",
+        "color_scheme": "1"
+      }
+    },
+    "7531e1a0-6847-4a10-9c79-775c76b430c4": {
+      "type": "media-with-text",
+      "blocks": {
+        "025468ac-0134-4455-a94d-b623cf28dd70": {
+          "type": "heading",
+          "settings": {
+            "heading": "Measuring For Inside Mount Blinds",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "31d9c101-9df5-4154-ae21-035e0a4d88a2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>1. Measure Window Depth<\/strong><\/p><p>Measure the depth of the window frame, beginning at the top of the window, where the brackets will be installed. If the depth of your window frame is less than 2.4”, or you have an obstruction (lever, crank), we recommend choosing an outside mount instead. <\/p><p><strong>2. Measure Window Width<\/strong><\/p><p>You’ll need to record three separate measurements, each from left to right. Measure the top of the window frame, the center, and the bottom. If these measurements differ, use the <strong>shortest <\/strong>measurement of the three as your window width. There is no need to deduct any measurements, we will make the appropriate deductions when manufacturing your blinds.<\/p><p><strong>3. Measure Window Height<\/strong><\/p><p>You’ll need to record three separate measurements, each from top to bottom. Measure the left, center, and right sides of your window frame. If these measurements differ, use the longest measurement of the three as your window height. <\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "025468ac-0134-4455-a94d-b623cf28dd70",
+        "31d9c101-9df5-4154-ae21-035e0a4d88a2"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/how_to_measure-__1_2.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "left",
+        "text_align": "text-start",
+        "color_scheme": "none"
+      }
+    },
+    "e329f518-f0ef-4584-9ac2-a99e7fa308f5": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Measuring For Outside Mount Blinds",
+            "heading_size": "h3",
+            "heading_h1": false
+          }
+        },
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>1. Measure Surface Area<\/strong><\/p><p>Measure the surface area above your window frame or molding, to ensure that you have at least 2” of flat vertical space to install your headrail. Make a mark where you wish your headrail, or top, of your smart blinds to be installed.<\/p><p><strong>2. Measure Window Height<\/strong><\/p><p>Measure from top to bottom, using the mark you’ve just made as the top. We recommend at least 3” of overlap to ensure the best light gap coverage and privacy. <\/p><p><strong>3. Measure Window Width<\/strong><\/p><p>Measure the exact width you wish your smart blinds to be, from left to right. We recommend at least 1.5” of overlap for shades or blinds. For vertical blinds, solar shades, and roller shades, we recommend at least 2” of overlap. If you have any obstructions on your wall, you can use extension brackets to ensure your blinds extend far enough away to avoid them. <\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-heading-1",
+        "template--20337082597693__e329f518-f0ef-4584-9ac2-a99e7fa308f5-text-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/outside_measure-120.png",
+        "video_external": "",
+        "video_description": "",
+        "video_autoplay": false,
+        "layout": "right",
+        "text_align": "text-start",
+        "color_scheme": "1"
+      }
+    },
+    "e09aaaf6-0bc2-4026-8462-7256af02f4fd": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20337082597693__e09aaaf6-0bc2-4026-8462-7256af02f4fd-column-1": {
+          "type": "column",
+          "settings": {
+            "heading": "Window Depth",
+            "text": "<p>If your window's depth is greater than 2.4\" (6.10 cm), we recommend you use inside mount blinds instead.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20337082597693__e09aaaf6-0bc2-4026-8462-7256af02f4fd-column-2": {
+          "type": "column",
+          "settings": {
+            "heading": "Flat Space",
+            "text": "<p>You will need at least 2\" of flat space above the window fin order to install outside mount blinds.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20337082597693__e09aaaf6-0bc2-4026-8462-7256af02f4fd-column-3": {
+          "type": "column",
+          "settings": {
+            "heading": "Light Gap Coverage",
+            "text": "<p>For added light gap coverage, we recommend adding 3-to-6 inches to your height measurement<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20337082597693__e09aaaf6-0bc2-4026-8462-7256af02f4fd-column-1",
+        "template--20337082597693__e09aaaf6-0bc2-4026-8462-7256af02f4fd-column-2",
+        "template--20337082597693__e09aaaf6-0bc2-4026-8462-7256af02f4fd-column-3"
+      ],
+      "custom_css": [
+        ".multi_padding {margin: 0;}"
+      ],
+      "settings": {
+        "bg": "#f4f4f4",
+        "add_padding": true,
+        "title": "Outdoor Helpful Hints",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "carousel",
+        "two_col": false,
+        "column_size": "medium",
+        "column_align": "left",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "394d5119-0ce6-444b-bd39-5274fa758327": {
+      "type": "promo-strip",
+      "blocks": {
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "How to Measure Your Window",
+            "heading_size": "h3",
+            "show_on_mobile": true,
+            "show_on_desktop": true
+          }
+        },
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Download",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0574\/9545\/3749\/files\/Beasen_Measuring_Guide.pdf?v=1679586747",
+            "button_style": "btn btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-heading-1",
+        "template--20277506310461__394d5119-0ce6-444b-bd39-5274fa758327-button-1"
+      ],
+      "settings": {
+        "section_height": "small",
+        "color_scheme": "2",
+        "full_width": true,
+        "dividers": "border-top",
+        "prevent_animation": false
+      }
+    },
+    "d5adce24-2c51-4174-8f82-75e342caa361": {
+      "type": "multi-column",
+      "blocks": {
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/multiple_1.png",
+            "heading": "Inside Mount",
+            "text": "<p>Width 1 Order Width = A<\/p><p>Width 2 Order Width = B<\/p><p>Width 3 Order Width = C<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/multiple_2.png",
+            "heading": "Outside Mount",
+            "text": "<p>Width 1 Order Width = A + 2-3\"<\/p><p>Width 2 Order Width = B<\/p><p>Width 3 Order Width = C + 2-3\"<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-1",
+        "template--20337082597693__d5adce24-2c51-4174-8f82-75e342caa361-column-2"
+      ],
+      "settings": {
+        "bg": "rgba(0,0,0,0)",
+        "add_padding": false,
+        "title": "How to Measure Multiple Shades in One Window",
+        "heading_align": "text-center",
+        "button_label": "",
+        "button_link": "",
+        "layout": "grid",
+        "two_col": false,
+        "column_size": "large",
+        "column_align": "center",
+        "image_ratio": "shortest",
+        "image_width": "w-full",
+        "color_scheme": "none",
+        "button_style": "btn btn--secondary"
+      }
+    },
+    "573ee709-1273-4450-8a13-a0aba1da6276": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Installation Service",
+            "heading_size": "h2",
+            "heading_h1": false
+          }
+        },
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Book an appointment and have a professional measure and install your Beasen Home smart blinds for you<\/p>",
+            "enlarge_text": false
+          }
+        },
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-button-1": {
+          "type": "button",
+          "settings": {
+            "button_1_label": "",
+            "button_1_link": "",
+            "button_1_style": "btn btn--primary",
+            "button_2_label": "Get Help",
+            "button_2_link": "shopify:\/\/pages\/find-a-pro",
+            "button_2_style": "btn btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-heading-1",
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-text-1",
+        "template--20337082597693__573ee709-1273-4450-8a13-a0aba1da6276-button-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/find-a-pro.jpg",
+        "url": "",
+        "height_mode": "fixed",
+        "fixed_height_desktop": 400,
+        "fixed_height_mobile": 250,
+        "overlay_position": "justify-center items-center",
+        "overlay_text_align": "text-center",
+        "mob_center_text": false,
+        "mobile_stacked": false,
+        "color_scheme": "white",
+        "full_width": false,
+        "tint_color": "#1a74c4",
+        "tint_opacity": 80,
+        "prevent_animation": false
+      }
+    },
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2": {
+      "type": "faq",
+      "blocks": {
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1": {
+          "type": "category",
+          "settings": {
+            "text": "Shipping"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "What countries do you ship to?",
+            "text": "<p>We currently ship to the United States, Canada, Australia and the UK. To enquire about shipping to a different destination, please contact us.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How long will it take to receive my order?",
+            "text": "<p>Standard shipping normally takes 3-5 days. Next day shipping is available on all domestic orders (for an additional charge). International shipping times depend on the products and destination (estimated at checkout).<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How do I return a product?",
+            "text": "<p>Items must be returned within 30 days after receiving your order. Items must be returned in the same condition in which they were received, be unworn\/unused, have any tags still attached, and include all the original packaging.<\/p>"
+          }
+        },
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4": {
+          "type": "question",
+          "settings": {
+            "icon": "none",
+            "heading": "How long will it take to receive my refund?",
+            "text": "<p>Refunds are processed within 7 days from when we receive the item(s).<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-category-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-1",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-2",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-3",
+        "template--20280184832317__8630903e-8379-4ea3-bd8e-83e262a1a7c2-question-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "FAQ",
+        "heading_align": "text-center",
+        "color_scheme": "none",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner-1",
+    "212768fa-b8c0-48f0-8a40-712078e71298",
+    "rich-text-1",
+    "e67e3af0-5dba-4034-93cc-4e90e3441683",
+    "7531e1a0-6847-4a10-9c79-775c76b430c4",
+    "e329f518-f0ef-4584-9ac2-a99e7fa308f5",
+    "e09aaaf6-0bc2-4026-8462-7256af02f4fd",
+    "394d5119-0ce6-444b-bd39-5274fa758327",
+    "d5adce24-2c51-4174-8f82-75e342caa361",
+    "573ee709-1273-4450-8a13-a0aba1da6276",
+    "8630903e-8379-4ea3-bd8e-83e262a1a7c2"
+  ]
+}
